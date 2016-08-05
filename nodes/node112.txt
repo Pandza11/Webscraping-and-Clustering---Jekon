@@ -1,0 +1,193 @@
+
+
+
+
+Više derivacije i diferencijali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Približno računanje  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Deriviranje parametarski zadane  
+
+
+
+
+
+Više derivacije i diferencijali
+
+
+Neka je 
+ zadana funkcija. Njena derivacija
+
+ je također funkcija pa je možemo
+derivirati. Druga derivacija
+funkcije  je derivacija funkcije 
+, odnosno
+
+
+
+
+
+Indukcijom definiramo -tu derivaciju
+
+ funkcije  kao
+derivaciju njene -ve derivacije,
+
+
+
+
+
+
+
+Primjer  5.9    
+a)
+Za više derivacije funkcije  vrijedi
+
+
+
+
+
+
+   
+
+
+
+   
+
+
+
+
+   
+
+
+pa indukcijom zaključujemo da je -ta derivacija jednaka
+
+
+
+
+
+
+b)
+Za polinom 
+
+
+
+
+
+vrijedi
+
+
+
+
+
+
+   
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Lako vidimo da općenito za polinom -tog stupnja  vrijedi
+
+
+
+
+
+
+
+
+
+Diferencijale višeg reda definiramo analogno.
+Neka je  dva puta derivabilna funkcija.
+Diferencijal drugog reda funkcije 
+je diferencijal njenog
+diferencijala , odnosno
+
+
+
+
+
+Pri tome prema formuli (5.9) vrijedi 
+
+
+
+
+
+Primijetimo da se ovdje prilikom  deriviranja  tretira kao
+konstanta.
+
+
+Iz ove formule slijedi još jedan koristan izraz za 
+drugu derivaciju:
+
+
+
+
+
+
+(5.11)
+
+
+
+Nadalje, ako je   puta derivabilna funkcija, tada je 
+diferencijal -tog reda 
+funkcije  dan s
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Približno računanje  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Deriviranje parametarski zadane  
+
+
+
+

@@ -1,0 +1,191 @@
+
+
+
+
+Omeđenost, monotonost i konvergencija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Gomilište i podniz  
+Gore: Niz realnih brojeva  
+Naprijed: Broj  
+
+
+
+
+
+Omeđenost, monotonost i konvergencija
+
+
+U ovom poglavlju dokazat ćemo četiri teorema koji povezuju 
+monotonost, omeđenost i konvergenciju nizova i podnizova.
+
+
+
+Teorem  6.2   Svaki konvergentan niz je omeđen.
+Dokaz. 
+Neka je 
+. Odaberimo 
+. Tada se članovi niza
+
+
+
+
+
+nalaze unutar
+intervala 
+. To znači da za svaki  vrijedi
+
+
+
+
+ 
+i teorem je dokazan.     Q.E.D.
+
+
+
+Teorem  6.3   Svaki niz ima monotoni podniz.
+Dokaz. 
+Neka je zadan niz . Definirajmo skup 
+
+
+
+
+ 
+Na primjer, ako je niz zadan s
+
+
+
+
+ 
+tada je , 
+, .
+Skup 
+ je ili konačan ili beskonačan pa svaki od
+tih slučajeva razmatramo posebno.
+
+
+Ako je skup  beskonačan, tada u njemu možemo odabrati strogo
+uzlazni niz 
+
+
+
+
+ 
+Prema definiciji skupa  vrijedi
+
+
+
+
+ 
+Dakle, 
+ je rastući podniz niza  i teorem je
+dokazan.
+
+
+Ako je skup  konačan, odaberimo 
+ koji je veći od svih
+elemenata od . Tada postoji 
+ takav da je 
+ i 
+, jer bi u protivnom  bio iz .
+Očito je i 
+. Nastavljajući ovim postupkom dobivamo 
+strogo uzlazni niz 
+
+
+
+
+ 
+čiji su elementi iz skupa 
+. Vrijedi
+
+
+
+
+ 
+pa je 
+ strogo padajući podniz niza .
+    Q.E.D.
+
+
+
+Teorem  6.4   Svaki monoton i omeđen niz je konvergentan.
+Dokaz. 
+Dokazat ćemo slučaj kada je niz  padajući.
+Neka je  najveća donja međa skupa čiji su elementi članovi niza,
+
+. Tada
+
+
+
+
+ 
+Naime, u protivnom bi postojao 
+ takav da je 
+ za
+svaki , što je u suprotnosti s pretpostavkom da je  infimum.
+
+
+Niz je padajući pa za 
+ vrijedi
+
+
+
+
+ 
+odnosno 
+. Dakle, definicija 6.1 povlači
+
+ i teorem je dokazan.
+    Q.E.D.
+
+
+Koristeći ovaj teorem u poglavlju 6.1.3 dat ćemo 
+definiciju broja , odnosno baze prirodnih
+logaritama.
+Prethodna dva teorema nam također koriste za dokazivanje poznatog
+Bolzano-Weierstrassovog teorema.
+
+
+
+Teorem  6.5   [Bolzano--Weierstrass]Svaki omeđen niz ima konvergentan
+podniz.
+Dokaz. 
+Po teoremu 6.3 svaki niz ima monotoni podniz.
+Ako je zadani niz omeđen, tada je i monotoni podniz omeđen pa
+podniz konvergira po teoremu 6.4.
+    Q.E.D.
+
+
+
+
+
+
+
+
+ 
+Natrag: Gomilište i podniz  
+Gore: Niz realnih brojeva  
+Naprijed: Broj  
+
+
+
+

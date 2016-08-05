@@ -1,0 +1,337 @@
+
+
+
+
+Derivacija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: DERIVACIJE I PRIMJENE  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Tangenta i normala  
+
+
+
+
+
+Derivacija
+
+
+U ovom poglavlju definirat ćemo derivaciju te derivacije slijeva i
+zdesna, izvesti formule za jednadžbe tangente i normale
+ i dati osnovna pravila deriviranja.
+Potom ćemo izvesti formule za derivacije svih elementarnih funkcija iz
+poglavlja 4.6.
+
+
+
+Definicija  5.1   Funkcija 
+ je 
+derivabilna u točki 
+ 
+ako postoji limes
+
+
+
+
+
+Broj  je 
+derivacija funkcije  u točki .
+ definirana na ovaj način je također funkcija i vrijedi 
+
+
+
+
+
+Ako je 
+, tada je funkcija    derivabilna na skupu 
+, a ako je 
+
+, tada je  derivabilna funkcija.
+Ako je pored toga funkcija  neprekidna, tada je    neprekidno derivabilna ili glatka 
+funkcija.
+
+
+Definicija limesa 4.5 povlači da u izoliranoj točki
+ derivacija  ne postoji, premda je funkcija 
+definirana u toj točki (vidi sliku 5.1). 
+
+
+
+
+Slika 5.1:
+Izolirana točka
+
+
+
+
+Dokažimo sljedeći važan teorem.
+
+
+
+Teorem  5.1     Ako je funkcija  derivabilna u točki , tada je i neprekidna
+  u toj točki. 
+Dokaz. 
+Derivabilnost funkcije  u točki  povlači
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Dakle, 
+, 
+pa je funkcija  neprekidna u točki  po definiciji 
+4.6.
+    Q.E.D.
+
+
+Vidimo da funkcija nema derivaciju u točkama prekida. 
+Obrat teorema ne vrijedi, odnosno ako je funkcija  neprekidna u
+točki , ne mora imati derivaciju u toj točki
+(vidi primjer 5.3). 
+
+
+Ako u definiciji 5.1
+prirast nezavisne varijable u točki
+   označimo s
+
+
+
+
+
+a prirast funkcije  u točki  označimo s
+
+
+
+
+
+tada imamo
+
+
+
+
+
+Kada u ovoj formuli zamijenimo  s , dobijemo izraz za
+derivaciju koji je pogodan za primjene,
+
+
+
+
+
+
+(5.1)
+
+
+
+Iz teorema 5.1 slijedi da u  definiciji 5.1 i formuli
+(5.1) brojnik i nazivnik istovremeno teže k nuli, odnosno
+derivacija je definirana kao limes neodređenog oblika 
+. 
+Međutim, takvi neodređeni limesi se mogu izračunati, što nam daje
+formule za derivacije zadanih funkcija.
+
+
+
+Primjer  5.1   
+a)
+Za 
+konstantnu funkciju
+ po formuli
+    (5.1) vrijedi
+
+
+
+
+
+
+b)
+Za funkciju  vrijedi
+
+
+
+
+
+
+c)
+Za funkciju  vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+d)
+Adicioni teoremi 
+(A4) i (A5) povlače
+
+
+
+
+
+Primjena ove formule daje 
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+U predzadnjoj jednakosti koristili smo treću tvrdnju teorema 
+4.3 o limesu produkta, a u zadnjoj jednakosti koristili smo 
+zadatak 4.5.
+
+e)
+Na sličan način možemo pokazati da je 
+
+
+
+
+
+Dokažite ovu formulu.
+
+
+
+Primijetimo da su po definiciji 5.1 sve ove funkcije
+glatke, jer su im derivacije neprekidne.
+
+
+Derivacija je nezaobilazni alat u rješavanju mnogih problema u fizici,
+mehanici i općenito tehnici. 
+Isaac Newton 
+je u XVII. stoljeću započeo razvijati diferencijalni
+račun baveći se problemom određivanja brzine.
+
+
+
+Primjer  5.2   Neka je s
+
+
+
+
+
+dan zakon prema kojem se točka  giba po pravcu, pri čemu 
+označava prijeđeni put, a  označava vrijeme. Pretpostavimo da je
+kretanje započelo iz ishodišta, odnosno .
+Tada točka  do trenutka  prevali put 
+, a do
+trenutka  put . Prosječna brzina kojom se točka
+ gibala u vremenu od trenutka  do trenutka  jednaka je
+
+
+
+
+
+Ako je  derivabilna funkcija, tada kada  gornji izraz
+teži k trenutačnoj brzini točke  u trenutku , 
+
+
+
+
+
+Dakle, brzina je derivacija puta po vremenu. 
+Na sličan način možemo pokazati i da je ubrzanje (akceleracija)
+derivacija brzine po vremenu. 
+Vidimo da u ovom slučaju vrijedi općenita tvrdnja, izrečena na početku
+poglavlja, o derivaciji kao "mjeri promjene".   
+
+
+ 
+
+Poglavlja
+
+Tangenta i normala
+Derivacije slijeva i zdesna
+Pravila deriviranja
+Deriviranje implicitno zadane funkcije
+Derivacije elementarnih funkcija
+
+Trigonometrijske i arkus funkcije
+Eksponencijalna i logaritamska funkcija
+Hiperbolne i area funkcije
+Potencije
+
+
+Logaritamsko deriviranje
+
+
+
+
+
+
+
+
+ 
+Natrag: DERIVACIJE I PRIMJENE  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Tangenta i normala  
+
+
+
+

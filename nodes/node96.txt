@@ -1,0 +1,175 @@
+
+
+
+
+Polinomi i racionalne funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Klasifikacija elementarnih funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Hiperbolne i area  
+
+
+
+
+
+Polinomi i racionalne funkcije
+
+
+Polinom -tog stupnja je funkcija
+
+
+
+
+
+pri čemu su koeficijenti  realni brojevi i
+vrijedi . Napomenimo da je prirodno definirati i polinome 
+čiji su koeficijenti kompleksni brojevi. Takvi polinomi se razmatraju
+u Matematici 3.
+
+
+Za polinome vrijedi sljedeći važan teorem kojeg navodimo bez dokaza,
+a koji slijedi iz poznatog 
+Osnovnog teorema algebre.
+
+
+
+Teorem  4.9     Svaki polinom -tog stupnja  ima točno  kompleksnih 
+  nul-točaka
+ za koje vrijedi 
+. Drugim
+  riječima,  se dade rastaviti kao
+
+
+
+
+
+Nadalje, strogo kompleksne nul-točke (one za koje 
+je 
+) se uvijek javljaju u konjugirano
+kompleksnim parovima, 
+odnosno
+
+
+
+
+
+
+
+Primijetimo da u iskazu teorema nul-točke  ne moraju biti
+međusobno različite. Ako je neki broj  nul-točka koja se u gornjem 
+rastavu pojavljuje  puta, tada kažemo da je  -terostruka
+nul-točka polinoma  ili nul-točka kratnosti .
+
+
+Zadnja tvrdnja teorema također ima zanimljive posljedice.
+Tako polinom drugog stupnja može imati samo 
+ili dvije realne ili dvije konjugirano kompleksne nul-točke, a ne
+može imati jednu realnu i jednu strogo kompleksnu nul-točku.
+Na primjer,
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Slično, polinom trećeg stupnja može imati ili tri ili jednu realnu
+nul-točku, a polinom četvrtog stupnja može imati ili četiri ili dvije
+ili nijednu realnu nul-točku.
+
+
+
+Zadatak  4.13   Nacrtajte nekoliko polinoma različitih stupnjeva pomoću programa 
+NetPlot
+
+i opišite njihovo ponašanje.
+
+
+Racionalna funkcija je kvocijent
+dvaju polinoma,
+
+
+
+
+
+Očito vrijedi
+
+
+
+
+
+U točkama prekida racionalna funkcija ima ili vertikalu 
+asimptotu s obje
+strane ili uklonjivi prekid.
+
+
+Ako je stupanj brojnika manji od stupnja nazivnika, , tada kažemo 
+da je 
+prava racionalna funkcija.
+Ako je , tada možemo podijeliti polinom 
+ s polinomom , odnosno vrijedi
+
+
+
+
+
+pri čemu su  i  također polinomi.
+Ostatak
+
+
+
+
+
+je prava racionalna funkcija, odnosno vrijedi .
+Na primjer, 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Klasifikacija elementarnih funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Hiperbolne i area  
+
+
+
+

@@ -1,0 +1,73 @@
+
+
+
+
+Potencije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Hiperbolne i area  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Logaritamsko deriviranje  
+
+
+
+Potencije
+
+Derivacija potencije 
+dana je s
+
+
+
+
+
+Dokažimo ovu formulu: koristeći Teorem o deriviranju kompozicije
+5.4 i formule za derivaciju eksponencijalne i logaritamske
+funkcije imamo
+
+
+
+
+
+
+Formula za derivaciju potencije vrijedi i u svim ostalim slučajevima u
+kojima je  definirano (vidi poglavlje 4.6.2).
+
+
+
+Zadatak  5.2   Nađite jednadžbe tangente i normale na krivulju 
+
+ u točki 
+.  
+
+
+
+
+
+
+
+
+ 
+Natrag: Hiperbolne i area  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Logaritamsko deriviranje  
+
+
+
+

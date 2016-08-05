@@ -1,0 +1,136 @@
+
+
+
+
+Geometrijski ekstrem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ekstremi  
+Gore: Ekstremi  
+Naprijed: Zakrivljenost  
+
+
+
+
+
+Geometrijski ekstrem
+
+
+U ovom poglavlju objasnit ćemo postupak traženje globalnih ekstrema u
+slučaju kada su u problemu koji rješavamo zadana neka ograničenja.
+Ograničenja se često javljaju prilikom rješavanja geometrijskih i
+fizikalnih problema pa odatle i naziv 
+geometrijski ekstrem.
+
+
+Riješimo sljedeći zadatak: od svih valjaka 
+koje možemo upisati u
+zadani stožac 
+visine  i radijusa baze , na način da donja baza
+valjka leži na bazi stošca, nađimo onaj koji ima najveći volumen.
+
+
+Stožac i valjak prikazani su na slici 5.10. Volumen traženog
+valjka je  
+
+
+
+
+
+
+
+
+Slika 5.10:
+Valjak upisan u stožac
+
+
+
+
+Naš cilj je izraziti volumen kao funkciju jedne varijable te naći njen
+maksimum uz zadani uvjet da se valjak nalazi unutar stošca.
+Sličnost trokuta daje
+
+
+
+
+
+odnosno
+
+
+
+
+
+Dakle,
+
+
+
+
+
+ je neprekidna funkcija, a u našem zadatku  poprima
+vrijednosti u intervalu . Po teoremu 4.8
+neprekidna funkcija poprima na zatvorenom intervalu svoj maksimum i
+minimum pa zadani problem sigurno ima rješenje. Pored toga, vrijedi
+ i , što se također vidi sa slike.
+Potražimo lokalne ekstreme funkcije . Vrijedi
+
+
+
+
+
+Jednadžba  ima dva rješenja,  i . Prvo rješenje
+nije rješenje našeg zadatka, jer je .
+Kako je  za 
+ i  za 
+,
+zaključujemo da je  točka lokalnog maksimuma.
+Iz istog razloga zaključujemo da je  ujedno i točka
+globalnog maksimuma promatrane funkcije na intervalu . 
+Dakle, traženi valjak ima radijus , visinu  i volumen
+
+
+
+
+
+Ovisnost volumena upisanog valjka o njegovom radijusu prikazana je 
+na slici 5.11. 
+
+
+
+
+Slika 5.11:
+Volumen upisanog valjka
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ekstremi  
+Gore: Ekstremi  
+Naprijed: Zakrivljenost  
+
+
+
+

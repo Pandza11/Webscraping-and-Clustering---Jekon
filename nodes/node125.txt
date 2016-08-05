@@ -1,0 +1,102 @@
+
+
+
+
+NIZOVI I REDOVI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje problema ravnoteže  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Niz realnih brojeva  
+
+
+
+
+
+NIZOVI I REDOVI
+
+
+U ovoj glavi, čiji je sadržaj za većinu studenata potpuno nov, 
+bavit ćemo se nizovima realnih brojeva, redovima realnih brojeva
+te nizovima i redovima funkcija.
+Redovi brojeva su zapravo sume beskonačno pribrojnika koji se zbrajaju
+u zadanom redoslijedu i premda je tih pribrojnika beskonačno, njihova
+suma može biti konačna. S tim problemima bavili su se već grčki
+matematičari pa ćemo objasniti poznati Zenonov paradoks o Ahilu i
+kornjači.
+
+
+Kod redova funkcija najzanimljiviji su redovi potencija.
+Jedna od najvažnijih primjena takvih redova je razvoj elementarnih
+funkcija u Taylorov red potencija. Taylorov red 
+nam omogućuje računanje 
+vrijednosti elementarnih funkcija (npr. , , ,
+) do unaprijed zadane točnosti pomoću osnovnih računskih 
+operacija .
+
+
+ 
+
+Poglavlja
+
+Niz realnih brojeva
+
+Gomilište i podniz
+Omeđenost, monotonost i konvergencija
+Broj 
+Svojstva limesa
+Cauchyjev niz
+Dva važna limesa
+
+
+Red realnih brojeva
+
+Nužan uvjet konvergencije
+Kriteriji konvergencije
+Apsolutna konvergencija
+Alternirani redovi
+
+
+Niz funkcija
+Red funkcija
+
+Ispitivanje konvergencije
+Red potencija
+Deriviranje reda funkcija
+
+
+Taylorov red
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje problema ravnoteže  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Niz realnih brojeva  
+
+
+
+

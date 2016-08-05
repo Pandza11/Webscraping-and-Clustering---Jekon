@@ -1,0 +1,312 @@
+
+
+
+
+Pravila deriviranja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacije slijeva i  
+Gore: Derivacija  
+Naprijed: Deriviranje implicitno zadane  
+
+
+
+
+
+Pravila deriviranja
+
+
+Pravila koja ćemo dati u ovom poglavlju znatno olakšavaju 
+računanje derivacija zadanih funkcija.
+
+
+
+Teorem  5.2   Ako su  funkcije 
+ derivabilne na skupu 
+
+, tada za svaki 
+ vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Dokaz. 
+Dokažimo zadnju tvrdnju teorema. Prema formuli (5.1)
+vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+što je i trebalo dokazati.
+Dokaz prve tri tvrdnje ostavljamo za vježbu.
+    Q.E.D.
+
+
+
+Primjer  5.4    
+a)
+Treća tvrdnja teorema 5.2 i primjer 5.1 povlače
+
+
+
+
+
+
+b)
+Četvrta tvrdnja teorema 5.2 i primjer 5.1
+  povlače
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+
+Primijetimo da po su definiciji 5.1 sve derivirane funkcije
+glatke, jer su im derivacije neprekidne na čitavom području definicije.
+
+
+Sljedeća dva teorema navodimo bez dokaza.
+
+
+
+Teorem  5.3   [Deriviranje inverzne funkcije]
+Neka je funkcija 
+ bijekcija, neka je derivabilna u
+točki  i neka je 
+. Neka je inverzna funkcija 
+
+ neprekidna u točki .
+Tada je 
+
+
+
+
+
+
+
+
+Primjer  5.5   
+a)
+Za funkciju  koja ima inverznu funkciju za  
+teorem 5.3 daje
+
+
+
+
+
+Sada na lijevoj i na desnoj strani imamo funkciju od  pa  
+možemo zamijeniti  s  što nam daje standardni
+zapis
+
+
+
+
+
+Dodatno ograničenje  smo morali uvesti jer dijeljenje s nulom
+nije moguće. Na slici 4.20 vidimo da funkcija
+ nema derivaciju u točki . 
+
+
+
+b)
+Za funkciju  koja ima inverznu funkciju za 
+
+ vrijedi
+
+
+
+
+
+odnosno, nakon zamjene  s ,
+
+
+
+
+
+Funkcija  je definirana na intervalu  (poglavlje
+4.6.6), dok njena derivacija nije definirana u rubovima tog
+intervala kako bi se izbjeglo dijeljenje s nulom.
+
+c)
+Za funkciju 
+ koja ima inverznu funkciju za 
+
+ (vidi sliku 4.38) vrijedi
+
+
+
+
+
+odnosno, nakon zamjene  s ,
+
+
+
+
+
+
+
+
+
+
+Teorem  5.4   [Deriviranje kompozicije funkcija]
+
+  Ako je funkcija  derivabilna u točki , a funkcija  
+  derivabilna u točki , tada je kompozicija 
+  derivabilna u točki  i vrijedi
+
+
+
+
+
+
+
+Ovaj način deriviranja je vrlo čest. Sada ćemo navesti samo dva
+primjera, a dvije važne primjene dat ćemo u poglavljima o deriviranju
+implicitno zadane funkcije 5.1.4 i logaritamskom
+deriviranju 5.1.6.
+
+
+
+Primjer  5.6    
+a)
+Ako je , tada je 
+
+
+
+
+
+Tako iz primjera 5.1 i 5.4 za 
+
+slijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+b)
+Ako je , tada teorem 5.6 i primjer 5.1
+povlače
+
+
+
+
+
+Tako za funkciju 
+ vrijedi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacije slijeva i  
+Gore: Derivacija  
+Naprijed: Deriviranje implicitno zadane  
+
+
+
+

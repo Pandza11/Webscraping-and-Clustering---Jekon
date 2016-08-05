@@ -1,0 +1,204 @@
+
+
+
+
+Gomilište i podniz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Niz realnih brojeva  
+Gore: Niz realnih brojeva  
+Naprijed: Omeđenost, monotonost i  
+
+
+
+
+
+Gomilište i podniz
+
+
+
+Definicija  6.5   Broj  je gomilište 
+niza  ako se u svakoj
+
+-okolini broja  nalazi beskonačno mnogo članova niza,
+odnosno
+
+
+
+
+ 
+Dalje,  je gomilšte niza  ako
+
+
+
+
+ 
+a  je gomilšte niza  ako
+
+
+
+
+ 
+Najveće gomilište zove se limes superior 
+i označava s 
+, a najmanje gomilište zove se limes
+  inferior  i
+označava s .
+
+
+Limes je ujedno i gomilište, dok gomilište ne mora biti limes.
+Nadalje, razlika između gomilišta i limesa je u tome što se
+unutar svake 
+-okoline gomilišta  (koje nije ujedno i limes) 
+nalazi beskonačno članova niza, ali se i izvan te okoline također nalazi 
+beskonačno članova niza.
+Ukoliko je niz konvergentan, tada je očito
+
+
+
+
+
+
+
+Primjer  6.3    
+a)
+Niz 
+
+
+
+
+ 
+je divergentan i ima dva gomilišta  i . Očito je
+
+ i 
+.
+
+b)
+Niz 
+
+
+
+
+ 
+je također divergentan i ima gomilišta 0 i  te vrijedi
+
+ i 
+.
+  
+
+
+
+
+
+Definicija  6.6   Podniz
+niza 
+ je svaka kompozicija ,
+gdje je 
+ strogo rastuća funkcija.
+-ti član podniza  je 
+
+
+
+
+ 
+
+
+Drugim riječima, podniz se dobije iz polaznog niza
+preskakanjem članova. Podniz je očito ponovo niz.
+
+
+Na primjer, podniz 
+ niza 
+
+
+
+
+
+glasi
+
+
+
+
+ 
+a podniz 
+ istog niza glasi
+
+
+
+
+
+
+Sljedeći primjer opisuje ponašanje jednog važnog niza.
+
+
+
+Primjer  6.4   Niz 
+
+
+
+
+ 
+zove se geometrijski niz. 
+Za  niz konvergira prema nuli.
+Za  niz je stacionaran, 
+, i konvergira prema 1.
+Za  niz glasi 
+ pa ima dva gomilišta
+ i . Za  niz divergira. Posebno, za  niz
+divergira prema  po definiciji 6.4, odnosno 
+konvergira prema  po napomeni 6.1.
+
+
+Kombinirajući definicije podniza i gomilišta 6.5 i
+6.6, zaključujemo sljedeće:
+
+(i)
+broj  je gomilište niza  ako i samo ako postoji
+  (barem jedan) podniz 
+ koji konvergira prema
+  ;
+
+(ii)
+ako je niz  konvergentan, tada za svaki podniz
+
+ vrijedi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Niz realnih brojeva  
+Gore: Niz realnih brojeva  
+Naprijed: Omeđenost, monotonost i  
+
+
+
+

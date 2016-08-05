@@ -1,0 +1,112 @@
+
+
+
+
+Deriviranje implicitno zadane funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pravila deriviranja  
+Gore: Derivacija  
+Naprijed: Derivacije elementarnih funkcija  
+
+
+
+
+
+
+Deriviranje implicitno zadane funkcije
+
+Implicitno zadanu funkciju  deriviramo  
+tako da izraze koji sadrže zavisnu varijablu  deriviramo koristeći 
+Teorem o deriviranju kompozicije 5.4.
+
+
+Na primjer, želimo odrediti tangentu na 
+elipsu
+
+
+
+
+
+u točki , . Kako su lijeva i desna strana jednadžbe elipse
+jednake, jednake su im i derivacije. Pored toga,  deriviramo kao u
+primjeru 5.6. Dakle,
+
+
+
+
+
+odnosno
+
+
+
+
+
+Vidimo da smo dobili izraz za derivaciju  kao funkciju od  i
+. Za točku u kojoj tražimo jednadžbu tangente vrijedi
+
+
+
+
+
+(pozitivnu vrijednost korijena smo uzeli zbog uvjeta ) pa je
+koeficijent smjera tangente dan s
+
+
+
+
+
+Uvrštavanje u formulu (5.2) nakon sređivanja 
+daje jednadžbu tražene tangente,
+
+
+
+
+
+
+(5.3)
+
+
+Zadana elipsa i njena tangenta prikazane su na slici 5.3.
+
+
+
+
+Slika 5.3:
+Elipsa i tangenta
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pravila deriviranja  
+Gore: Derivacija  
+Naprijed: Derivacije elementarnih funkcija  
+
+
+
+

@@ -1,0 +1,83 @@
+
+
+
+
+Cauchyjev niz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva limesa  
+Gore: Niz realnih brojeva  
+Naprijed: Dva važna limesa  
+
+
+
+
+
+Cauchyjev niz
+
+
+Prilikom dokazivanja konvergencije pomoću osnovne nejednadžbe
+konvergencije potrebno je poznavati limes niza.
+No, konvergenciju niza možemo ispitati i bez poznavanja limesa.
+
+
+
+Definicija  6.7   Niz  je Cauchyjev niz ako 
+
+
+
+
+ 
+
+
+
+Teorem  6.8   Niz je konvergentan ako i samo ako je Cauchyjev.
+
+
+
+Primjer  6.7   Niz 
+ je Cauchyjev pa prema tome konvergira.
+Zaista,
+
+
+
+
+ 
+Posljednja nejednakost je sigurno ispunjena čim je 
+
+, odnosno možemo uzeti 
+.
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva limesa  
+Gore: Niz realnih brojeva  
+Naprijed: Dva važna limesa  
+
+
+
+

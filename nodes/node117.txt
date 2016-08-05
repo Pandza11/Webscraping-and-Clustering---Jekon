@@ -1,0 +1,251 @@
+
+
+
+
+L'Hospitalovo pravilo i računanje limesa neodređenih oblika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cauchyjev i Lagrangeov  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: Monotonost  
+
+
+
+
+
+L'Hospitalovo pravilo i računanje limesa neodređenih 
+
+oblika
+
+
+Kod računanja limesa može se pojaviti jedan od sedam
+neodređenih oblika,
+
+
+
+
+
+Neodređeni oblici  i 
+ rješavaju se pomoću
+L'Hospitalovog pravila, a ostali neodređeni oblici se pomoću 
+odgovarajućih transformacija svode na jedan od ova dva oblika
+(vidi primjer 5.11).
+
+
+
+Teorem  5.10   [L'Hospitalovo pravilo]
+Neka za funkcije 
+ vrijedi
+
+
+
+
+
+pri čemu je 
+. Neka su  i  
+neprekidne na skupu  i neprekidno
+derivabilne na skupu  
+. Neka je 
+ za svaki
+
+. Ako postoji 
+,
+pri čemu je 
+ ili  ili ,  
+tada je 
+
+
+
+
+
+Dokaz. 
+Kako su  i  neprekidne, to je 
+ pa je 
+
+
+
+
+
+Za svaki 
+ funkcije  i  ispunjavaju
+pretpostavke Cauchyjevog teorema 5.8 na intervalu  ako
+je , odnosno  ako je . Po Cauchyjevom teoremu postoji 
+točka 
+, odnosno 
+, za koju je  
+
+
+
+
+
+Prijelaz na limes kada  i korištenje  činjenice da
+
+ čim , daje
+
+
+
+
+
+i teorem je dokazan.     Q.E.D.
+
+
+Važno je uočiti da pretpostavke L'Hospitalovog teorema traže samo da
+limes 
+
+ postoji, a ne da je 
+. 
+Ukoliko dodatno vrijedi 
+, odnosno 
+ za svaki
+
+, tada možemo iskoristiti teorem 4.3 pa dokaz
+L'Hospitalovog teorema postaje još jednostavniji:
+
+
+
+
+
+
+
+Napomena  5.1    
+(i)
+L'Hospitalovo pravilo vijedi i kada 
+ ili
+  
+, za neodređeni oblik 
+ te za limese
+  i derivacije slijeva ili zdesna.
+  
+
+(ii)
+L'Hospitalovo pravilo se može primijeniti više puta uzastopce
+    ako se ponovo dobije jedan od neodređenih oblika  ili 
+    
+ te ako nove funkcije ispunjavaju uvjete teorema
+    5.12 ili neke njegove varijante iz prethodne točke
+    (vidi primjer 5.11).
+  
+
+(iii)
+Ostali neodređeni oblici se pogodnim transformacijama mogu
+    svesti na jedan od oblika  ili 
+
+    (vidi primjer 5.11). 
+  
+
+
+
+
+
+Primjer  5.11    
+a)
+Limes kojeg smo izračunali u  primjeru 4.6 možemo još 
+    jednostavnije izračunati pomoću L'Hospitalovog pravila:
+
+
+
+
+
+
+b)
+U sljedećem slučaju L'Hospitalovo pravilo moramo
+  primijeniti dva puta:
+
+
+
+
+
+Iz ovog primjera indukcijom možemo zaključiti da  
+eksponencijalna funkcija 
+s bazom većom od 1 raste brže od bilo koje
+  potencije!
+
+c)
+U ovom primjeru potrebno je izvršiti nekoliko transformacija.
+Izračunajmo
+
+
+
+
+
+U zadnjoj jednakosti koristili smo neprekidnost funkcije  i 
+teorem 4.7 (vidi primjer 4.9). Izračunajmo limes u
+eksponentu posebno:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Dakle, traženi limes je
+
+
+
+
+
+
+d)
+Sljedeći primjer također možemo primijeniti na široku klasu
+  zadataka:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cauchyjev i Lagrangeov  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: Monotonost  
+
+
+
+

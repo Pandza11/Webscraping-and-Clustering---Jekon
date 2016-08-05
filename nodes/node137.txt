@@ -1,0 +1,125 @@
+
+
+
+
+Alternirani redovi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Apsolutna konvergencija  
+Gore: Red realnih brojeva  
+Naprijed: Niz funkcija  
+
+
+
+
+
+Alternirani redovi
+
+
+Razmatranje redova čiji članovi imaju različite predznake, a koji nisu
+apsolutno konvergentni, je složenije. U posebnom slučaju kada 
+predznaci alterniraju, pomaže nam Leibnitzov kriterij konvergencije.
+
+
+Red  za koji je 
+ za svaki  zove se
+alternirani red.
+
+
+
+Teorem  6.13   [Leibnitz]
+Alternirani red  konvergira ako vrijedi:
+
+(i)
+
+,  
+
+(ii)
+
+.
+
+
+
+
+Na primjer, alternirani harmonijski red
+
+
+
+
+
+ 
+konvergira po Leibnitzovom kriteriju, ali 
+ne konvergira apsolutno jer red apsolutnih vrijednosti 
+ divergira.
+Zadnju jednakost ćemo dokazati u primjeru 6.21.
+
+
+Alternirani red
+
+
+
+
+
+također konvergira po Leibnitzovom kriteriju, ali ne konvergira
+apsolutno jer red 
+ divergira.
+Zadnja jednakost bit će dokazana u
+Matematici 2.
+Pomoću ovog reda možemo izračunati vrijednost broja
+, međutim konvergencija je vrlo spora. 
+
+
+Pokažimo da teorem 6.12 ne vrijedi za alternirani
+harmonijski red, odnosno suma reda koji je konvergentan ali nije
+apsolutno konvergentan ovisi o redoslijedu zbrajanja.
+Prvo primijetimo da su i pozitivni i negativni dio alterniranog
+harmonijskog reda beskonačni,
+
+
+
+
+ 
+Izborom odgovarajućeg redoslijeda zbrajanja, možemo postići bilo koju
+unaprijed zadanu sumu  (recimo ): uzmemo onoliko pozitivnih
+članova dok ne pređemo , zatim uzmemo onoliko negativnih članova
+dok se ne vratimo ispod , zatim onoliko pozitivnih članova dok ne
+pređemo , i tako dalje. Ovaj postupak možemo ponavljati unedogled
+jer je svaki ostatak od pozitivnog i negativnog dijela i dalje
+beskonačan. Dakle, suma će biti jednaka , a pri tome koristimo sve
+članove reda. 
+Ovakav postupak očito ne možemo provesti za redove (6.2) i 
+(6.3) jer su i pozitivni i negativni dijelovi tih redova
+konačni.
+
+
+
+
+
+
+
+
+ 
+Natrag: Apsolutna konvergencija  
+Gore: Red realnih brojeva  
+Naprijed: Niz funkcija  
+
+
+
+

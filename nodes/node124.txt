@@ -1,0 +1,356 @@
+
+
+
+
+Rješavanje problema ravnoteže
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Parametarski zadana funkcija  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: NIZOVI I REDOVI  
+
+
+
+
+
+Rješavanje problema ravnoteže
+
+
+Diferencijalni račun izložen u prethodnim poglavljima ima 
+mnoge važne primjene u fizici i tehnici. Ovdje ćemo kao ilustraciju
+detaljno opisati postupak riješavanja problema ravnoteže prikazanog na
+slici 5.18:
+
+Preko koluta radijusa  koji se nalazi na
+udaljenosti  od ishodišta namotana je nit duljine  
+na čijim su krajevima obješeni utezi s masama  i .
+Pri tome je  i . Kolut se oko svoje osi vrti bez
+trenja, a uteg s masom  se također bez trenja kliže po -osi.
+Zadatak je odrediti ima li navedeni mehanički sustav položaj
+ravnoteže, te ukoliko ima, naći taj položaj.5.1
+
+
+
+
+Slika 5.18:
+Položaj ravnoteže mehaničkog sustava
+
+
+
+
+Sa slike 5.18 vidimo da je . 
+Potencijalna energija  zadanog sustava u polju sile teže s
+gravitacijskom konstantom  dana je jednadžbom
+
+
+
+
+
+
+(5.12)
+
+
+Sustav će, kao što je poznato, imati ravnotežu tamo gdje je
+potencijalna energija minimalna. Naš je zadatak stoga izraziti
+potencijalnu energiju kao funkciju jedne varijable, utvrditi da li ta
+funkcija ima minimum te naći minimum ukoliko postoji.
+
+
+Pokazuje se da je najpogodnija varijabla kut . 
+Zbog sličnosti trokuta vrijedi 
+.
+Očito je 
+.
+Trokut 
+ je pravokutan pa je 
+
+
+
+
+
+Zbog pravokutnosti trokuta 
+ vrijedi
+
+
+
+
+
+pa je 
+
+
+
+
+
+
+(5.13)
+
+
+
+Označimo s  duljinu dijela niti namotanog na kolut,
+
+
+
+
+
+Tada je 
+
+
+
+
+
+Vrijedi
+
+
+
+
+
+pa je
+
+
+
+
+
+
+(5.14)
+
+
+Konačno, uvrštavanje izraza (5.13) i (5.14) u formulu
+(5.12) daje traženu funkciju
+
+
+
+
+
+
+Sada treba utvrditi ima li funkcija  minimum za 
+
+. Zapravo se u ovom slučaju također radi o 
+geometrijskom ekstremu 
+(vidi poglavlje 5.7.1).
+
+
+Pogledajmo prvo kako se funkcija ponaša u
+rubovima intervala. Vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+U zadnjoj jednakosti smo koristili činjenicu da zbog pretpostavki 
+vrijedi  i .
+Promotrimo funkciju  na zatvorenom intervalu
+
+ pri čemu je 
+ takav da je 
+.
+Takav 
+ sigurno postoji jer je 
+. No, kako je funkcija  na tom intervalu
+neprekidna, teorem 4.8 nam garantira da funkcija na tom
+intervalu dostiže svoj minimum. 
+Dakle, zadani sustav ima položaj ravnoteže.
+
+
+Ovim smo napravili važan korak u analizi zadanog sustava, jer čak i
+ako položaj ravnoteže ne budemo mogli točno odrediti, znamo da on
+postoji. 
+
+
+Da bi odredili položaj ravnoteže, nađimo prvo derivaciju zadane
+funkcije:
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+
+ 
+
+
+
+Izjednačavanje (brojnika) s nulom daje kvadratnu jednadžbu po 
+
+,
+
+
+
+
+
+Rješenja ove jednadžbe su
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+odnosno
+
+
+
+
+
+Kako je  to je  pa je prvo rješenje nemoguće. 
+S druge strane, po pretpostavci je 
+ pa je rješenje
+jednadžbe 
+ dano s
+
+
+
+
+
+odnosno
+
+
+
+
+
+Kako je derivacija 
+ neprekidna na promatranom intervalu, 
+to je  jedina kritična točka funkcije . 
+
+
+Dovoljan uvjet ekstrema provjerit ćemo pomoću teorema 5.14.
+Pri tome možemo koristiti postupak skraćenog deriviranja koji se
+sastoji u sljedećem: ako je derivacija neke funkcije razlomak
+
+
+
+
+
+i ako je , to jest , tada drugu derivaciju u toj
+točki možemo jednostavnije izračunati koristeći sljedeću jednakost
+
+
+
+
+
+Dakle, 
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Vrijedi
+
+
+
+
+
+pa funkcija  ima u točki  lokalni minimum.
+
+
+Trebamo još ustanoviti da se u točki  nalazi i globalni
+minimum zadane funkcije na promatranom intervalu.
+Zaista, kako je 
+ to znači da je derivacija
+
+ rastuća u nekoj okolini točke . Kako je
+
+, to je 
+ negativna lijevo od točke
+, a pozitivna desno od točke .
+Kako je  jedina nul-točka derivacije na promatranom
+intervalu, slijedi da je 
+ za 
+ i
+
+ za 
+.
+Teorem o monotonosti 5.11 povlači da je funkcija 
+strogo padajuća na intervalu 
+ i strogo rastuća na
+intervalu 
+ pa zaključujemo je  točka
+globalnog minimuma.
+
+
+Zadani sustav će zauzeti položaj ravnoteže za kut 
+
+. 
+Zanimljivo je uočiti da položaj ravnoteže ne ovisi ni o udaljenosti
+, ni o radijusu koluta , niti o duljini niti , nego samo o
+omjeru masa utega. Na primjer, kada se udaljenost  poveća, tada se
+uteg s masom  podigne, a uteg s masom  spusti. 
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Parametarski zadana funkcija  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: NIZOVI I REDOVI  
+
+
+
+

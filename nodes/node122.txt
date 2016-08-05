@@ -1,0 +1,544 @@
+
+
+
+
+Ispitivanje toka funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Zakrivljenost  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Parametarski zadana funkcija  
+
+
+
+
+
+Ispitivanje toka funkcije
+
+
+Ispitivanje toka funkcije 
+je složen postupak u kojem se primjenjuje 
+sve što je do sada rečeno o funkcijama i derivacijama.
+Ispitivanje funkcije  sastoji se od sljedećih koraka:
+
+
+
+1.
+Područje definicije -
+potrebno je poznavati elementarne funkcije iz poglavlja 4.6
+  i postupke za rješavanje jednadžbi ili nejednadžbi.
+
+2.
+Parnost 
+- provjerava se pomoću definicije 4.2. 
+
+3.
+Periodičnost - 
+ provjerava se
+ pomoću definicije 4.4. Pri tome je važno uočiti da
+ elementarna funkcija (vidi poglavlje 4.6.7) ne može biti 
+ periodična ako ne sadrži neku od trigonometrijskih funkcija.   
+
+4.
+Nul-točke - 
+  postupak se sastoji od rješavanja
+  jednadžbe .
+
+5.
+Asimptote (vertikalne, horizontalne i
+    kose) - 
+ postupak koji je opisan u poglavlju 4.5 sastoji se od
+ nalaženje limesa te primjene L'Hospitalovog 
+ pravila
+ iz poglavlja
+ 5.5.3 ukoliko je to potrebno.
+ Pri tome je nužno voditi računa o sljedećem: 
+ 
+a)
+asimptote je najbolje tražiti u opisanom redoslijedu,
+ 
+
+b)
+kod traženja horizontalnih i kosih asimptota limese kada 
+  
+ i kada 
+ uvijek treba
+    računati posebno,
+
+c)
+treba biti oprezan u slučaju parnih korijena kada 
+,
+  na primjer
+
+
+
+
+
+
+
+
+6.
+Ekstremi - potrebno je provjeriti nužne i
+  dovoljne uvjeta ekstrema. Provjera nužnih 
+   uvjeta vrši se po teoremu 
+  5.12. Potrebno je naći stacionarne 
+  i kritične točke po
+  definiciji 5.5, odnosno potrebno je odrediti područje
+  definicije prve derivacije  i riješiti jednadžbu .  
+  Provjera dovoljnih uvjeta ekstrema 
+  može se vršiti na tri načina:
+  
+a)
+pomoću promjene predznaka prve derivacije (teorem 5.13),
+  
+
+b)
+pomoću druge derivacije (teorem 5.14) ili
+  
+
+c)
+pomoću viših derivacija (teorem 5.18).
+  
+
+
+
+7.
+Intervali monotonosti - 
+  nakon što smo u prethodnoj
+  točki izračunali prvu derivaciju , intervale monotonosti
+  određujemo promatrajući predznake od  po teoremu 5.11.
+
+8.
+Intervali zakrivljenosti - prvo je potrebno izračunati
+  drugu derivaciju . Potom intervale 
+  konveksnosti i 
+  konkavnosti
+  možemo odrediti pomoću teorema 5.15 promatrajući predznake
+  od . Također možemo pogledati gdje prva derivacija  raste, a
+  gdje pada i primijeniti napomenu 5.2 d).
+
+9.
+Točke
+  infleksije
+  - potrebno je naći točke u kojima 
+  druga derivacija  mijenja predznak,
+  odnosno točke koje ispunjavaju dovoljne uvjete infleksije po 
+  teoremu 5.17. Za provjeru dovoljnih uvjeta infleksije možemo
+  koristiti i više derivacije po teoremu 5.18. U tom slučaju 
+  potrebno je prvo naći točke u kojima je druga derivacija 
+  jednaka nuli, odnosno točke koje zadovoljavaju nužan uvjet
+  infleksije po teoremu 5.16.
+
+10.
+Graf funkcije - 
+  potrebno je sve do sada dobivene
+  informacije o funkciji spojiti u suvislu sliku.
+  Prilikom crtanja grafa moguće je otkriti nelogičnosti, odnosno
+  pogreške u prethodnom računu te ih ispraviti.
+
+
+
+Kao primjer, ispitat ćemo tok i nacrtati graf funkcije 
+
+
+
+
+
+
+
+1.
+Područje definicije
+
+Domena funkcije je 
+.
+
+2.
+Parnost
+
+Vrijedi 
+, dok je 
+
+. Zaključujemo da funkcija nije ni
+parna ni neparna jer je 
+ i 
+.
+
+3.
+Periodičnost
+
+Funkcija nije periodična, jer je elementarna, a ne sadrži neku od 
+trigonometrijskih funkcija.   
+
+4.
+Nul-točke
+
+Riješimo jednadžbu . Vrijedi
+
+
+
+
+
+pa su nul-točke jednake  i .
+
+5.
+Asimptote
+
+a)
+Vertikalne asimptote
+
+Funkcija nema vertikalnih asimptota jer je 
+.
+ 
+
+b)
+Horizontalne asimptote
+
+U lijevoj strani vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+pa funkcija nema horizontalnu asimptotu u lijevoj strani.
+U desnoj strani vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+pa funkcija nema horizontalnu asimptotu ni u desnoj strani.
+Dakle, funkcija nema horizontalnih asimptota, no dobili smo
+korisne informacije.
+
+c)
+Kose asimptote
+
+U lijevoj strani vrijedi
+
+
+
+
+
+Dalje,
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Dakle, pravac 
+ je kosa asimptota u lijevoj strani.
+U desnoj strani vrijedi
+
+
+
+
+
+Dalje,
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Dakle, pravac 
+ je kosa asimptota i u desnoj strani.
+
+
+
+6.
+Ekstremi
+
+Izračunajmo prvu derivaciju:
+
+
+
+
+
+Područje definicije derivacije jednako je 
+
+. Dakle, dvije kritične točke funkcije
+su  i . Za 
+ možemo skratiti  u
+brojniku i nazivniku, odnosno vrijedi
+
+
+
+
+
+Vidimo da je stacionarna točka (treća kritična točka) jednaka 
+. Dakle, imamo tri točke koje zadovoljavaju nužan uvjet
+ekstrema, odnosno u kojima funkcija može imati lokalne ekstreme.
+Dovoljne uvjete ekstrema provjerit ćemo pomoću prve derivacije,
+odnosno provjerit ćemo da li u kritičnim točkama prva derivacija
+mijenja predznak. Imamo tri slučaja:
+
+(i)
+Za  je brojnik veći od nule, a nazivnik manji of nule pa je 
+. Drugim riječima, funkcija  je strogo padajuća
+na intervalu 
+. 
+
+(ii)
+Za 
+ su i brojnik i nazivnik veći od nule, 
+pa je . 
+Drugim riječima, funkcija  je strogo rastuća
+na intervalu .  
+
+(iii)
+Za  je brojnik manji od nule, a nazivnik veći od nule pa je 
+. Drugim riječima, funkcija  je strogo padajuća
+na intervalu 
+.
+
+
+
+Iz prethodnog razmatranja možemo zaključiti sljedeće:
+
+a)
+Iz (i) i (ii) slijedi da funkcija ima lokalni
+minimum u kritičnoj točki . Vrijednost lokalnog minimuma je
+.
+
+b)
+Iz (ii) i (iii) slijedi da funkcija ima lokalni
+maksimum u kritičnoj točki . Vrijednost lokalnog maksimuma je
+
+.
+
+c)
+Iz (iii) također slijedi da funkcija
+nema lokalni ekstrem u kritičnoj točki , jer prva derivacija ne
+mijenja predznak u toj točki, odnosno funkcija je strogo padajuća s
+obje strane te točke.
+
+
+
+Funkcija nema globalni maksimum ni globalni minimum jer je
+kodomena jednaka 
+.
+
+
+
+7.
+Intervali monotonosti
+
+Monotonost smo već ispitali u prethodnoj točki:
+  funkcija je strogo padajuća na intervalima 
+ i 
+  
+, a strogo rastuća na intervalu .
+
+
+
+8.
+Intervali zakrivljenosti
+
+Izračunajmo drugu derivaciju:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+Vidimo da je predznak od  obrnut od predznaka izraza . 
+Dakle, za  je  pa je funkcija  konkavna 
+po teoremu 5.15. Za  je  pa je funkcija 
+ konveksna po teoremu 5.15.
+
+
+
+9.
+Točke infleksije
+
+Iz razmatranja zakrivljenosti u prethodnoj točki, po teoremu
+  5.17 zaključujemo da je  jedina točka infleksije
+  funkcije . 
+
+10.
+Graf funkcije
+
+Kombinirajući sve prethodne rezultate dobijemo graf zadane funkcije
+  i njene kose asimptote, koji je prikazan na slici 5.14.
+  Kako je slika nacrtana pomoću programa 
+Gnuplot,
+funkciju smo morali nacrtati iz dva dijela, kao što je objašnjeno u 
+napomeni 4.8.
+
+
+
+
+
+Slika 5.14:
+Graf iracionalne funkcije
+
+
+
+
+
+Zadatak  5.6     Ispitajte tok i skicirajte grafove sljedećih funkcija:
+  
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Rješenja provjerite tako što ćete funkcije nacrtati pomoću programa 
+NetPlot.
+
+
+ 
+
+Poglavlja
+
+Parametarski zadana funkcija
+
+
+
+
+
+
+
+
+ 
+Natrag: Zakrivljenost  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Parametarski zadana funkcija  
+
+
+
+

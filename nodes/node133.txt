@@ -1,0 +1,164 @@
+
+
+
+
+Red realnih brojeva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Dva važna limesa  
+Gore: NIZOVI I REDOVI  
+Naprijed: Nužan uvjet konvergencije  
+
+
+
+
+
+Red realnih brojeva
+
+
+U ovom poglavlju definirat ćemo red realnih brojeva, odnosno
+sumu beskonačno mnogo sumanada, zatim  konvergenciju
+reda pomoću niza parcijalnih suma, dat ćemo nužne i dovoljne uvjete
+konvergencije te uvesti pojmove  apsolutne i uvjetne konvergencije.
+
+
+
+Definicija  6.8   Red realnih brojeva 
+(kraće red) je zbroj beskonačno
+(prebrojivo mnogo) pribrojnika koji se nalaze u zadanom poretku.
+Koristimo oznake
+
+
+
+
+ 
+Broj  je -ti član reda.
+Broj 
+ je 
+-ta parcijalna suma reda
+,
+a niz  je niz parcijalnih suma.
+
+
+Niz  je jednoznačno određen nizom  i očito vrijedi
+
+
+
+
+ 
+Konvergencija reda definira se pomoću niza parcijalnih suma.
+
+
+
+Definicija  6.9   Red konvergira ako konvergira niz parcijalnih suma.
+Ako je red konvergentan, suma reda jednaka je limesu
+niza parcijalnih suma,
+
+
+
+
+ 
+Još koristimo izraze: red je   konvergentan;
+  niz 
+ je zbrojiv ili sumabilan. 
+
+
+
+Primjer  6.8   Promotrimo geometrijski red
+
+
+
+
+ 
+Za  očito vrijedi  pa je 
+. 
+Iz
+
+
+
+
+ 
+za  slijedi
+
+
+
+
+ 
+Za  vrijedi  (vidi primjer 6.4) pa 
+geometrijski red konvergira i vrijedi
+
+
+
+
+ 
+Za  je 
+, a za  niz 
+nema limes. 
+
+
+
+Primjer  6.9   Zenon je postavio sljedeće pitanje poznato kao Zenonov
+  paradoks: 
+
+Ahil se nalazi 1 metar iza kornjače, a 10 puta je brži.
+Ako krenu istovremeno, dok Ahil stigne do početnog položaja kornjače, 
+kornjača će odmaknuti malo naprijed.
+Dok Ahil stigne do novog položaja kornjače, 
+kornjača će odmaknuti malo naprijed i tako dalje. Stoga Ahil nikad
+  neće stići kornjaču, što je paradoks.
+
+
+Zenon slušatelja navodi na zaključak da zbroj od
+  beskonačno udaljenosti mora biti beskonačan, što u ovom slučaju nije
+  točno.
+Zapravo se radi o geometrijskom redu 
+i Ahil stigne kornjaču nakon
+
+
+
+
+ 
+
+
+ 
+
+Poglavlja
+
+Nužan uvjet konvergencije
+Kriteriji konvergencije
+Apsolutna konvergencija
+Alternirani redovi
+
+
+
+
+
+
+
+
+ 
+Natrag: Dva važna limesa  
+Gore: NIZOVI I REDOVI  
+Naprijed: Nužan uvjet konvergencije  
+
+
+
+

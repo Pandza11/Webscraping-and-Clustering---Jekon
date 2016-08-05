@@ -1,0 +1,109 @@
+
+
+
+
+Ispitivanje konvergencije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Red funkcija  
+Gore: Red funkcija  
+Naprijed: Red potencija  
+
+
+
+
+
+Ispitivanje konvergencije
+
+
+Ispitati konvergenciju reda funkcija znači naći područje, odnosno sve
+vrijednosti , za koje dani red konvergira.
+Često ispitujemo područje apsolutne konvergencije koristeći
+kriterije konvergencije za redove realnih brojeva iz poglavlja
+6.2.2. Postupak ćemo objasniti na primjeru.
+
+
+Zadan je red funkcija
+
+
+
+
+
+
+(6.5)
+
+
+Cauchyjev kriterij iz teorema 6.10 daje
+
+
+
+
+ 
+Dakle, red (6.5) konvergira apsolutno za sve točke 
+
+ za koje je
+
+
+
+
+ 
+odnosno za 
+. U točki  Cauchyjev kriterij ne
+daje odluku pa ćemo taj slučaj razmotriti posebno:
+
+
+
+
+
+
+Uniformnu konvergenciju možemo ispitati na sljedeći način.
+
+
+
+Teorem  6.15   [Weierstrass]
+
+Red funkcija , pri čemu je 
+, konvergira
+uniformno na skupu  ako ima konvergentnu majorantu ,
+
+, 
+odnosno
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Natrag: Red funkcija  
+Gore: Red funkcija  
+Naprijed: Red potencija  
+
+
+
+

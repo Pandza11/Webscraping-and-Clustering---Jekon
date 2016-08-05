@@ -1,0 +1,308 @@
+
+
+
+
+Zakrivljenost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Geometrijski ekstrem  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Ispitivanje toka funkcije  
+
+
+
+
+
+Zakrivljenost
+
+
+U ovom poglavlju opisat ćemo postupak za ispitivanje zakrivljenosti
+funkcije, pri čemu važnu ulogu ima druga derivacija zadane funkcije.
+
+
+
+Definicija  5.7   Funkcija  je konveksna 
+na intervalu 
+ ako za
+proizvoljne točke 
+ takve da je 
+ vrijedi
+
+
+
+
+
+Slično, funkcija  je konkavna
+ na intervalu 
+ ako za
+proizvoljne točke 
+ takve da je 
+ vrijedi
+
+
+
+
+
+U slučaju strogih nejednakosti, funkcija  je 
+strogo konveksna
+odnosno strogo konkavna.
+
+
+Strogo konveksna funkcija prikazana je na slici 5.12. Na istoj
+slici je prikazano i geometrijsko značenje definicije 5.7.
+Funkcija prikazana na slici 5.13 a) je konkavna, ali ne i
+strogo konkavna, dok je funkcija na slici 5.13 b)
+istovremeno i konveksna i konkavna.
+
+
+
+
+Slika 5.12:
+Strogo konveksna funkcija
+
+
+
+
+
+
+Slika 5.13:
+Konkavna i konveksna funkcija
+
+
+
+
+
+Napomena  5.2     Za graf 
+  konveksne funkcije vrijedi sljedeće:
+  
+a)
+graf zakreće na gore na intervalu ;
+  
+
+b)
+u svakoj točki 
+ graf se nalazi iznad tangente u
+    toj točki (vidi sliku 5.12);
+  
+
+c)
+za proizvoljne točke 
+ takve da je ,
+    graf restrikcije 
+ nalazi se ispod spojnice
+    točaka 
+ i 
+ (vidi sliku 5.12);
+  
+
+d)
+ako je funkcija  derivabilna na intervalu , tada je
+     (strogo) konveksna na intervalu  ako i samo ako je
+    derivacija  (strogo) rastuća na intervalu .
+  
+
+
+
+
+
+Zadatak  5.4     Kako glase tvrdnje analogne onima iz napomene 5.2 za
+  konkavne funkcije? 
+
+
+
+Teorem  5.15   [Dovoljan uvjet zakrivljenosti]  Neka je funkcija  dva puta derivabilna na intervalu . 
+  Ako je  za svaki 
+, tada je funkcija 
+  strogo konveksna 
+  na intervalu . Ako je  za svaki 
+  
+, tada je funkcija  strogo 
+  konkavna na intervalu .
+Dokaz. 
+Kako  postoji na intervalu , to po definiciji derivacije na
+tom intervalu postoji i prva derivacija . 
+Dokažimo prvu tvrdnju teorema.
+Ako je  za svaki 
+, tada je po teoremu 
+5.11 prva derivacija  strogo rastuća na tom intervalu pa je
+funkcija  konveksna po napomeni 5.2 d). 
+Dokaz druge tvrdnje je sličan.     Q.E.D.
+
+
+Ovaj teorem daje samo dovoljan, ali ne i nužan uvjet zakrivljenosti. 
+Na primjer, funkcija  je konveksna na čitavom skupu 
+, ali
+je .
+
+
+U proučavanju funkcija zanimaju nas točke u kojima se
+zakrivljenost mijenja.
+
+
+
+Definicija  5.8   Glatka funkcija  ima 
+infleksiju u točki  ako
+postoji 
+-okolina točke , 
+, takva da
+je  strogo konveksna na intervalu 
+ i strogo konkavna na 
+intervalu 
+ ili obrnuto.
+Točka  je 
+točka infleksije 
+grafa funkcije .
+
+
+
+Teorem  5.16   [Nužan uvjet za postojanje infleksije]Ako funkcija  ima infleksiju u točki  i ako  postoji,
+tada je .  
+Dokaz. 
+Kako  postoji, definicija derivacije 5.1 povlači da 
+prva derivacija  postoji u nekoj okolini točke .
+Također, kako je  derivabilna u točki , to je i neprekidna u
+točki .
+Neka funkcija  ima infleksiju u točki  i to tako da je, na
+primjer, strogo konveksna lijevo od točke  i strogo konkavna desno
+od točke . To po napomeni 5.2 d) znači da je  strogo
+rastuća lijevo od točke  i strogo padajuća desno od točke , 
+odnosno  ima lokalni maksimum u točki .
+No tada je  po teoremu 5.12.     Q.E.D.
+
+
+Prethodni teorem daje samo nužan, ali ne i dovoljan uvjet za
+postojanje infleksije. Na primjer, za funkcije  i  
+ vrijedi , a samo prva funkcija ima infleksiju u
+točki , dok druga nema. 
+
+
+
+Teorem  5.17   [Dovoljan uvjet za postojanje infleksije]  Neka je funkcija dva puta derivabilna na nekoj 
+-okolini
+  točke , osim možda u točki . Ako 
+   mijenja predznak u točki , tada funkcija  ima infleksiju
+  u točki . 
+Dokaz. Neka  mijenja predznak u točki . Tada je po teoremu
+5.15 funkcija  konveksna lijevo od točke , a konkavna
+desno od točke , ili obrnuto pa stoga ima infleksiju u točki .
+    Q.E.D.
+
+
+Na primjer, za funkciju 
+ vrijedi
+
+
+
+
+
+Očito je  za 
+ i  za .
+Dakle, funkcija 
+ je po teoremu 5.15 konkavna za 
+
+ i konveksna za , pa ima infleksiju u točki
+.
+
+
+Konačno, za ispitivanje lokalnih ekstrema 
+i točaka 
+infleksije 
+možemo koristiti i više 
+derivacije. 
+Sljedeći važan teorem navodimo bez
+dokaza.
+
+
+
+Teorem  5.18     Neka funkcija  ima u nekoj 
+-okolini točke  neprekidne
+  derivacije do uključivo reda , pri čemu je . Neka je 
+
+
+
+
+
+Ako je  neparan, tada funkcija  ima infleksiju u točki . 
+Ako je  paran i ako je uz to još i , tada funkcija  ima
+lokalni ekstrem u točki  i to minimum za 
+ i maksimum
+za 
+.
+
+
+
+Primjer  5.14    
+a)
+Za funkciju  vrijedi 
+,
+    
+. Kako je  i 
+, zadana
+    funkcija ima po teoremu 5.18 lokalni minimum u točki .
+  
+
+b)
+Za funkciju  vrijedi 
+,
+    
+. Kako je  neparan, iz teorema
+    5.18 slijedi da zadana funkcija ima infleksiju u točki
+    . U ovom slučaju radi se o "horizontalnoj infleksiji", jer je
+    , odnosno tangenta u točki infleksije je paralelna s
+    -osi.
+  
+
+c)
+Za funkciju 
+ vrijedi 
+    , 
+ pa je po teoremu 5.18 točka
+     točka infleksije. U ovom slučaju radi se o "kosoj
+    infleksiji", jer je , odnosno tangenta u točki infleksije
+    zatvara s -osi kut od .
+  
+
+
+
+
+
+Zadatak  5.5   Ispitajte područja konveksnosti i konkavnosti te nađite točke
+infleksije i lokalne ekstreme funkcija , , 
+ i
+
+. Kod točaka infleksije utvrdite da li se radi o
+horizontalnim ili kosim infleksijama.  
+
+
+
+
+
+
+
+
+ 
+Natrag: Geometrijski ekstrem  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Ispitivanje toka funkcije  
+
+
+
+

@@ -1,0 +1,105 @@
+
+
+
+
+Derivacije slijeva i zdesna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Tangenta i normala  
+Gore: Derivacija  
+Naprijed: Pravila deriviranja  
+
+
+
+
+
+Derivacije slijeva i zdesna
+
+
+Ako u definiciji 5.1 ili formuli (5.1) umjesto limesa 
+izračunamo limes slijeva odnosno zdesna
+(vidi poglavlje 4.3.2), dobit ćemo derivaciju slijeva
+odnosno zdesna u zadanoj točki.
+
+
+
+Definicija  5.2   Derivacija slijeva 
+funkcije  u točki  je broj 
+
+
+
+
+
+ukoliko limes na desnoj strani postoji.
+Derivacija zdesna 
+funkcije  u točki  je broj
+
+
+
+
+
+ukoliko limes na desnoj strani postoji.  
+
+
+Uspoređujući ovu definiciju s definicijom derivacije (5.1)
+zaključujemo da derivacija  postoji ako i samo ako u točki  
+postoje derivacije slijeva i zdesna i ako su one jednake. 
+
+
+
+Primjer  5.3   Funkcija  
+(definicija 1.18) je neprekidna, ali je moramo
+rastaviti kako bi je mogli derivirati:
+
+
+za  vrijedi  pa je ,
+
+za  vrijedi  pa je .
+
+
+
+Dakle, 
+
+
+
+
+
+pri čemu je funkcija 
+ definirana u primjeru 4.7 i
+prikazana na slici 4.10. 
+Vidimo da derivacija  ima u točki  prekid prve vrste te 
+da funkcija  ima u točki  derivacije slijeva i zdesna.  
+
+
+
+
+
+
+
+
+ 
+Natrag: Tangenta i normala  
+Gore: Derivacija  
+Naprijed: Pravila deriviranja  
+
+
+
+

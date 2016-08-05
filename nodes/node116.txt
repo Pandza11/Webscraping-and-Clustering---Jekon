@@ -1,0 +1,192 @@
+
+
+
+
+Cauchyjev i Lagrangeov teorem srednje vrijednosti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Fermatov i Rolleov  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: L'Hospitalovo pravilo i  
+
+
+
+
+
+Cauchyjev i Lagrangeov teorem srednje vrijednosti
+
+
+
+Teorem  5.8   [Cauchy]
+Neka su funkcije  i  neprekidne na zatvorenom intervalu
+ i derivabilne na otvorenom intervalu  te neka je
+
+ za svaki . 
+Tada postoji točka
+ takva da je
+
+
+
+
+
+Dokaz. 
+Pretpostavka 
+ za svaki 
+ povlači da je
+
+. Naime, ako bi vrijedilo , tada 
+bi po Rolleovom teoremu postojala točka  iz intervala  
+za koju je . Sada možemo definirati funkciju
+
+
+
+
+
+Funkcija  je dobro definirana jer je nazivnik u gornjem izrazu
+različit od nule.
+Očito vrijedi 
+ i 
+. Nadalje, kako su 
+ i  neprekidne na intervalu  i derivabilne na intervalu
+, takva je i . Funkcija  stoga ispunjava pretpostavke 
+Rolleovog teorema 5.7 pa postoji točka  takva da
+je . 
+Dakle,
+
+
+
+
+
+i teorem je dokazan.     Q.E.D.
+
+
+Ako u Cauchyjevom teoremu odaberemo , tada je  i
+
+ pa imamo sljedeći važan teorem.
+
+
+
+Teorem  5.9   [Lagrange]
+Neka je funkcija  neprekidna na zatvorenom intervalu  i
+derivabilna na otvorenom intervalu . Tada postoji točka
+ takva da je
+
+
+
+
+
+
+
+Lagrangeov teorem ima zanimljivu geometrijsku interpretaciju koja je
+prikazana na slici 5.6. Vrijednost 
+
+
+
+
+
+je koeficijent smjera sekante koja prolazi kroz točke 
+ i 
+
+, a vrijednost  je koeficijent smjera tangente
+kroz točku 
+. Lagrangeov teorem dakle znači da (ako su
+ispunjene pretpostavke) postoji točka u kojoj je tangenta
+paralelna sa sekantom. Zbog toga se često za oba teorema u ovom
+poglavlju koristi i naziv 
+Teorem srednje vrijednosti. 
+Primijetimo da Lagrangeov teorem
+samo kaže da točka  postoji. To ne isključuje mogućnost da postoji više
+takvih točaka, kao što je slučaj na slici 5.6.
+Može li postojati beskonačno takvih točaka?
+
+
+
+
+Slika 5.6:
+Geometrijska interpretacija  Lagrangeovog teorema
+
+
+
+
+Da bi bolje razumjeli Lagrangeov teorem, važno je uočiti zbog čega su
+važne pretpostavke da je  neprekidna na intervalu  i
+derivabilna na intervalu . Ukoliko  nije neprekidna, tada je
+moguća situacija kao na slici 5.7 a) pa tražena točka  ne
+postoji. Ukoliko je  neprekidna ali nije derivabilna, tada je
+moguća situacija kao na slici 5.7 b) pa tražena točka 
+opet ne postoji.
+
+
+
+
+Slika 5.7:
+Pretpostavke Lagrangeovog teorema
+
+
+
+
+Tvrdnju Lagrangeovog teorema možemo zapisati na još nekoliko načina.
+Često se koristi zapis
+
+
+
+
+
+Uz oznaku 
+
+
+
+
+
+vrijedi
+
+
+
+
+
+pa se Lagrangeov teorem često zapisuje u obliku
+
+
+
+
+
+Dalje, koristeći oznake  i 
+ možemo pisati 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Fermatov i Rolleov  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: L'Hospitalovo pravilo i  
+
+
+
+

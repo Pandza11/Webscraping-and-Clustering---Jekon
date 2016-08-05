@@ -1,0 +1,125 @@
+
+
+
+
+Fermatov i Rolleov teorem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Teoremi diferencijalnog računa  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: Cauchyjev i Lagrangeov  
+
+
+
+
+
+Fermatov i Rolleov teorem
+
+
+
+Teorem  5.6   [Fermat]
+  Neka funkcija  poprima u točki 
+ svoju
+  najmanju ili najveću vrijednost na intervalu . Ako derivacija
+  u točki  postoji, tada je . 
+Dokaz. 
+Dokažimo teorem za slučaj da funkcija  u točki  poprima najveću
+vrijednost na intervalu  (dokaz u slučaju najmanje vrijednosti
+je sličan). Ako  nije derivabilna u točki , tada je teorem 
+dokazan. 
+Ako  postoji, tada u točki  postoje i derivacije slijeva i
+zdesna i one su jednake. Vrijedi (vidi sliku 5.5):
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Kako su ova dva limesa jednaka, oba moraju biti jednaka nuli pa je
+.     Q.E.D.
+
+
+
+
+Slika 5.5:
+Fermatov teorem
+
+
+
+
+Odabir otvorenog intervala u iskazu Fermatovog teorema je važan stoga
+što je u slučaju zatvorenog intervala moguće da funkcija
+poprima najmanju ili najveću vrijednost u točki koja se nalazi u
+intervalu, a u kojoj derivacija nije nula: ako na primjeru sa slike
+5.5 promatramo zatvoreni interval , tada funkcija svoju
+najmanju vrijednost na tom intervalu dostiže upravo u točki  u
+kojoj je očito 
+.
+
+
+Posljedica Fermatovog teorema je i sljedeći korolar.
+
+
+
+Korolar  5.1     Funkcija  može imati ekstrem u točki 
+ samo ako nije
+  derivabilna u  (odnosno, ako  ne postoji u ) ili ako je
+  . 
+Više govora o ekstremima bit će u poglavlju 5.7.
+
+
+
+Teorem  5.7   [Rolle]
+Neka je funkcija  neprekidna na zatvorenom intervalu ,
+derivabilna na otvorenom intervalu  te neka je . 
+Tada postoji točka  takva da je .   
+Dokaz. Razlikujemo dva slučaja. Ako je funkcija  konstantna na
+intervalu , odnosno , 
+, tada je 
+, 
+ pa je teorem dokazan.
+Ako  nije konstantna, tada ona poprima svoju najveću ili najmanju
+vrijednost na intervalu  u nekoj točki  pa tvrdnja 
+slijedi iz Fermatovog teorema 5.6.     Q.E.D.
+
+
+
+
+
+
+
+
+ 
+Natrag: Teoremi diferencijalnog računa  
+Gore: Teoremi diferencijalnog računa  
+Naprijed: Cauchyjev i Lagrangeov  
+
+
+
+

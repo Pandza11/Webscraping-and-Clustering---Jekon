@@ -1,0 +1,198 @@
+
+
+
+
+Niz funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Alternirani redovi  
+Gore: NIZOVI I REDOVI  
+Naprijed: Red funkcija  
+
+
+
+
+
+Niz funkcija
+
+
+U ovom poglavlju definirat ćemo niz funkcija, konvergenciju u točki 
+te običnu i uniformnu konvergenciju na nekom skupu.
+
+
+
+Definicija  6.12   Neka je 
+. Označimo s 
+ skup svih funkcija iz  u
+
+. Niz funkcija 
+je svaka funkcija 
+,
+pri čemu je 
+. Funkcija 
+ je 
+-ti član niza. 
+
+
+Niz funkcija označavamo s , 
+,
+
+
+
+
+ 
+Na primjer, niz funkcija zadan s 
+ glasi
+
+
+
+
+
+
+(6.4)
+
+
+
+
+Definicija  6.13   Niz funkcija  
+konvergira u točki  prema funkciji 
+
+ako niz realnih brojeva 
+ konvergira prema .
+Niz funkcija  
+konvergira po točkama
+ 
+ili obično
+
+prema funkciji  na skupu  ako 
+ za 
+
+. Simbolički zapisujemo:
+
+
+
+
+ 
+Funkcija  je 
+limes 
+niza funkcija 
+, odnosno
+
+
+
+
+
+
+Ako 
+ ne ovisi o  već samo o 
+, odnosno
+
+, niz funkcija  konvergira
+uniformno
+
+ili jednoliko
+
+prema funkciji .
+
+
+Iz definicije slijedi da je uniformna konvergencija jače svojstvo,
+odnosno niz funkcija koji konvergira uniformno konvergira i po
+točkama, dok obrnuto općenito ne vrijedi.
+
+
+Promotrimo konvergenciju niza funkcija (6.4).
+Iz svojstava geometrijskog niza danog u primjeru 6.4,
+vidimo da niz konvergira za 
+ prema funkciji
+
+ zadanoj s
+
+
+
+
+ 
+Niz konvergira obično što ćemo vidjeti rješavajući osnovnu nejednadžbu
+konvergencije. Promotrimo prvo točke  i .
+Za  niz je stacionaran počevši od drugog člana pa je 
+
+ za 
+.
+Za  niz je stacionaran od početka pa je 
+
+ za 
+.
+Za  vrijedi
+
+
+
+
+ 
+Prilikom dijeljenja negativnim brojem  nejednakost je
+promijenila smjer. Dakle, 
+
+.
+Slično se dobije u slučaju  pa se radi o običnoj
+konvergenciji. 
+Konvergencija niza prikazana je na slici 6.2.
+
+
+
+
+Slika 6.2:
+Konvergencija niza funkcija
+
+
+
+
+Premda su svi članovi niza 
+ neprekidne funkcije, 
+limes nije neprekidna
+funkcija. To se ne može dogoditi kada se radi o uniformnoj
+konvergenciji.
+
+
+
+Teorem  6.14   Ako niz neprekidnih funkcija  konvergira uniformno prema
+funkciji , tada je  također neprekidna funkcija.
+
+
+
+Zadatak  6.3   Pokažite da niz neprekidnih funkcija 
+ 
+konvergira uniformno prema neprekidnoj funkciji  na čitavom
+skupu 
+.
+
+
+
+
+
+
+
+
+ 
+Natrag: Alternirani redovi  
+Gore: NIZOVI I REDOVI  
+Naprijed: Red funkcija  
+
+
+
+

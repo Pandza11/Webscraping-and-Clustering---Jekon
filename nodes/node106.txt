@@ -1,0 +1,160 @@
+
+
+
+
+Eksponencijalna i logaritamska funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijske i arkus  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Hiperbolne i area  
+
+
+
+
+
+Eksponencijalna i logaritamska funkcija
+
+Za eksponencijalnu funkciju definiranu u poglavlju 4.6.3
+vrijedi
+
+
+
+
+
+
+(5.4)
+
+
+Posebno, za  zbog  vrijedi
+
+
+
+
+
+
+(5.5)
+
+
+pa je  jedina funkcija koju deriviranje "ne mijenja".
+Izvod formule je nešto složeniji. Koristeći definiciju derivacije
+(5.1) i teorem 4.3 imamo
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Uvedimo supstituciju 
+, odnosno
+
+
+
+
+
+što povlači 
+
+
+
+
+
+Koristeći redom teorem 4.3, teorem 4.7 i primjer 
+4.9 b) imamo
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+što smo i željeli dokazati.
+
+
+Za logaritamsku funkciju iz poglavlja 4.6.4 vrijedi
+
+
+
+
+
+
+Posebno, za  imamo
+
+
+
+
+
+Zaista, Teorem o deriviranju inverzne funkcije 5.3 i formula
+(5.4) daju
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijske i arkus  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Hiperbolne i area  
+
+
+
+

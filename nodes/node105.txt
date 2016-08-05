@@ -1,0 +1,121 @@
+
+
+
+
+Trigonometrijske i arkus funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacije elementarnih funkcija  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Eksponencijalna i logaritamska  
+
+
+
+
+
+Trigonometrijske i arkus funkcije
+
+Za trigonometrijske funkcije iz poglavlja 4.6.5 vrijedi:
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+Ove formule su dokazane u primjerima 5.1 i 5.4.
+
+
+Za arkus funkcije definirane u poglavlju 4.6.6 vrijedi
+
+(vidi primjer 5.5):
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacije elementarnih funkcija  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Eksponencijalna i logaritamska  
+
+
+
+

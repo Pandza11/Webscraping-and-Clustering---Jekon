@@ -1,0 +1,221 @@
+
+
+
+
+Diferencijal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Logaritamsko deriviranje  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Približno računanje  
+
+
+
+
+
+Diferencijal
+
+
+Za razliku od derivacije koja daje koeficijent smjera tangenta,
+diferencijal je linearna aproksimacija prirasta funkcije u okolini
+neke točke.
+
+
+
+Definicija  5.3   Neka je funkcija  derivabilna u točki . 
+Diferencijal funkcije  u točki  
+je izraz
+
+
+
+
+
+
+
+Geometrijsko značenje diferencijala prikazano je na slici 
+5.4. Ono slijedi iz definicije tangensa kuta u pravokutnom
+trokutu 
+ s vrhovima 
+, 
+
+ i 
+ jer je 
+
+. 
+
+
+
+
+Slika 5.4:
+Diferencijal
+
+
+
+
+Iz formule (5.1) i definicije 5.3 slijedi
+
+
+
+
+
+pa zaključujemo da razlika 
+ teži k nuli brže 
+od . To se također može vidjeti i na slici 5.4.
+
+
+Isto tako, za dovoljno male  vrijedi
+
+
+
+
+
+
+(5.8)
+
+
+Oznaka "" znači "približno jednako". 
+Što je "dovoljno malo", a što "približno jednako" zavisi od primjene, 
+Više o tome bit će govora u sljedećem poglavlju.
+
+
+Zanimljiva ilustracija formule (5.8) na kojoj
+  se vidi kako diferencijal sve bolje aproksimira prirast funkcije
+  kada 
+ dana je u sljedećoj 
+
+animaciji.
+Diferencijal se lako računa pomoću derivacija. Tako je, na primjer,
+
+
+
+
+
+Također, 
+
+
+
+
+
+
+Iz ove jednakosti i definicije diferencijala slijedi
+
+
+
+
+
+
+(5.9)
+
+
+odnosno
+
+
+
+
+
+
+(5.10)
+
+
+što je još jedan način zapisivanja derivacije (usporedite formule
+(5.10) i (5.1)). 
+Formule (5.8) i (5.10) zapravo znače
+da krivulju možemo dobro aproksimirati s njenom tangentom
+
+za dovoljno
+male vrijednosti od .
+Ilustracija te činjenice dana je u sljedećoj 
+zanimljivoj
+
+animaciji
+na kojoj se vidi kako razlika između funkcije i njene tangente na
+intervalu 
+ postaje sve manje kada  
+
+.
+Svojstva diferencijala slična su svojstvima derivacija iz teorema
+5.2.
+
+
+
+Teorem  5.5   Ako su  funkcije 
+ derivabilne na skupu 
+
+, tada u svakoj točki 
+
+ vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Dokaz. 
+Dokažimo, na primjer, treću tvrdnju teorema.
+Koristeći teorem 5.2 imamo
+
+
+
+
+
+Ostale tvrdnje lako se dokažu na sličan način. 
+    Q.E.D.
+
+
+ 
+
+Poglavlja
+
+Približno računanje
+
+
+
+
+
+
+
+
+ 
+Natrag: Logaritamsko deriviranje  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Približno računanje  
+
+
+
+

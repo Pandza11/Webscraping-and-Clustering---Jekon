@@ -1,0 +1,138 @@
+
+
+
+
+Klasifikacija elementarnih funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Arkus funkcije  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Polinomi i racionalne  
+
+
+
+
+
+Klasifikacija elementarnih funkcija
+
+
+Elementarna funkcija 
+je svaka funkcija koja nastaje primjenjujući 
+konačan broj puta zbrajanje, oduzimanje, množenje, dijeljenje i
+komponiranje na do sada opisane elementarne funkcije.
+Pri tome je
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+Primjer  4.13   Funkcija 
+ zadana s
+
+
+
+
+
+je elementarna funkcija jer je sastavljena na sljedeći način:
+
+
+
+
+
+gdje je
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+Algebarske funkcije
+su one elementarne funkcije koje nastaju 
+komponiranjem potencije 
+s racionalnim eksponentom (vidi poglavlje
+4.6.2 i racionalne funkcije
+s racionalnim koeficijentima 
+(vidi poglavlje 4.6.8).
+Sve ostale elementarne funkcije su 
+transcendentne funkcije.
+
+
+Na primjer, funkcija
+
+
+
+
+
+je algebarska, dok je funkcija
+
+
+
+
+
+transcendentna.
+
+
+Od algebarskih funkcija posebno nas zanimaju polinomi i racionalne
+funkcije (vidi poglavlje 4.6.8), a od transcendentnih  
+funkcija posebno nas zanimaju hiperbolne funkcije i njima inverzne 
+area funkcije (vidi poglavlje 4.6.9).
+
+
+
+
+
+
+
+
+ 
+Natrag: Arkus funkcije  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Polinomi i racionalne  
+
+
+
+

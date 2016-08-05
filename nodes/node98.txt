@@ -1,0 +1,123 @@
+
+
+
+
+DERIVACIJE I PRIMJENE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Hiperbolne i area  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Derivacija  
+
+
+
+DERIVACIJE I PRIMJENE
+
+
+
+Ova je glava posvećena derivacijama i njihovim primjenama.
+To je jedno od najvažnijih područja matematičke analize, još poznato i
+kao diferencijalni račun. 
+
+
+Za derivaciju općenito možemo reći je da je ona mjera promjene.
+Stoga nam derivacije omogućuju određivanje područja na kojem funkcija
+raste ili pada, nalaženje točaka u kojima funkcija 
+dostiže najmanju ili najveću
+vrijednost te određivanje područja na kojima je funkcija 
+konkavna ili konveksna.
+Rješavanje navedenih zadataka sastavni je dio rješavanja mnogih 
+problema koji se javljaju u inženjerskim primjenama pa je stoga
+potpuno
+poznavanje diferencijalnog računa nužno za svakog inženjera.
+
+
+Klasične primjene zbog kojih se u XVII. stoljeću i razvio
+diferencijalni račun su nalaženje brzine i ubrzanja 
+(primjer 5.2) i nalaženje jednadžbe tangente (poglavlje
+5.1.1).
+
+
+ 
+
+Poglavlja
+
+Derivacija
+
+Tangenta i normala
+Derivacije slijeva i zdesna
+Pravila deriviranja
+Deriviranje implicitno zadane funkcije
+Derivacije elementarnih funkcija
+
+Trigonometrijske i arkus funkcije
+Eksponencijalna i logaritamska funkcija
+Hiperbolne i area funkcije
+Potencije
+
+Logaritamsko deriviranje
+
+
+Diferencijal
+
+Približno računanje
+
+
+Više derivacije i diferencijali
+Deriviranje parametarski zadane funkcije
+Teoremi diferencijalnog računa
+
+Fermatov i Rolleov teorem
+Cauchyjev i Lagrangeov teorem srednje vrijednosti
+L'Hospitalovo pravilo i računanje limesa neodređenih 
+
+oblika
+
+
+Monotonost
+Ekstremi
+
+Geometrijski ekstrem
+
+
+Zakrivljenost
+Ispitivanje toka funkcije
+
+Parametarski zadana funkcija
+
+
+Rješavanje problema ravnoteže
+
+
+
+
+
+
+
+
+ 
+Natrag: Hiperbolne i area  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Derivacija  
+
+
+
+

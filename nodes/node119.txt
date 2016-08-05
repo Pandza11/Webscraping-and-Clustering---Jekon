@@ -1,0 +1,322 @@
+
+
+
+
+Ekstremi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Monotonost  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Geometrijski ekstrem  
+
+
+
+
+
+Ekstremi
+
+
+Kod ekstrema razlikujemo 
+lokalne
+i globalne ekstreme.
+Za ispitivanje lokalnih ekstrema koristimo Fermatov teorem 5.6
+i Teorem o monotonosti 5.11.
+
+
+U definiciji lokalnih ekstrema te u iskazima i dokazima teorema o
+ekstremima, koristimo pojam 
+-okoline:
+
+-okolina točke  je interval 
+
+ pri čemu je 
+. 
+
+
+
+Definicija  5.4    
+(i)
+Funkcija  ima lokalni minimum
+ u točki 
+
+  ako postoji 
+-okolina točke  takva da je  neprekidna na 
+  toj okolini i pri tome vrijedi
+   za svaki 
+.
+
+(ii)
+Funkcija  ima lokalni maksimum
+ u točki 
+
+  ako postoji 
+-okolina točke  takva da je  neprekidna na 
+  toj okolini i pri tome vrijedi  za svaki 
+  
+.
+
+(iii)
+Funkcija  ima globalni minimum
+ u točki 
+
+  ako je 
+ za svaki 
+.
+
+(iv)
+Funkcija  ima globalni
+    maksimum
+ u točki 
+
+  ako je 
+ za svaki 
+.
+
+
+
+
+Razlike između lokalnih i globalnih ekstrema prikazane su na slici 
+5.9. Kod lokalnih ekstrema se traži da je vrijednost funkcije
+u točki ekstrema strogo najmanja ili najveća na nekoj okolini.
+S druge strane, definicija globalnih ekstrema dozvoljava da se
+globalni ekstrem nalazi u više točaka pa čak i na nekom intervalu.
+Na primjer, za prikazanu funkciju 
+ vrijedi sljedeće:
+
+
+ni jedna točka u intervalu  nije ni
+lokalni, niti globalni ekstrem;
+
+u točki  funkcija ima lokalni minimum, ali ne i globalni
+  minimum;
+
+u točki  funkcija ima lokalni maksimum, ali ne i globalni
+  maksimum;  
+
+sve točke u intervalu  su točke globalnog minimuma, a
+  ni jedna nije točka lokalnog minimuma;
+
+u točki  funkcija istovremeno ima lokalni i globalni
+  maksimum;
+
+u točki  funkcija ima lokalni minimum.
+
+
+
+
+
+Slika 5.9:
+Lokalni i globalni ekstremi
+
+
+
+
+Za iskazivanje teorema koji daju uvjete za postojanje ekstrema,
+potrebna nam je sljedeća definicija.
+
+
+
+Definicija  5.5     Neka je funkcija  neprekidna u točki . Točka  je
+  stacionarna točka
+  funkcije  ako je .
+  Točka  je kritična točka
+  funkcije  ako je 
+  stacionarna točka ili ako  nije derivabilna u točki . 
+
+
+Na primjer, za funkciju prikazanu na slici 5.9 stacionarne
+točke su sve točke u intervalima  i  te točke , 
+i . Kritične točke su sve navedene točke te još točke 
+, , , ,  i .
+
+
+Razlikujemo dvije vrste uvjeta za postojanje lokalnog ekstrema u nekoj
+točki: nužan uvjet je uvjet kojeg ispunjava svaka točka u kojoj
+funkcija ima lokalni ekstrem; dovoljan uvjet je uvjet koji znači
+da funkcija u nekoj točki ima lokalni ekstrem čim je taj uvjet ispunjen.
+
+
+
+Teorem  5.12   [Nužan uvjet za postojanje ekstrema]
+Neka je funkcija  neprekidna u točki . Ako funkcija  ima
+lokalni ekstrem u točki , tada je  kritična točka funkcije .
+Dokaz. 
+Ako funkcija  nije derivabilna u točki , tada je teorem dokazan
+(nemamo što dokazivati). Ako je  derivabilna u točki  i ima
+lokalni ekstrem u toj točki, tada po definiciji 5.4 funkcija
+ ima u točki  najveću ili najmanju vijednost na nekoj
+
+-okolini točke . Sada po Fermatovom teoremu 5.6 vrijedi 
+.     Q.E.D.
+
+
+Na primjer, vidimo da su točke , ,  i  u kojima funkcija
+prikazana na slici 5.9 ima lokalne ekstreme 
+ujedno i kritične točke te funkcije.
+S druge strane, vidimo da teorem 5.12 daje samo nužan, a ne i
+dovoljan uvjet za postojanje lokalnog ekstrema, jer funkcija nema
+lokalne ekstreme u ostalim kritičnim točkama.
+
+
+Teorem 5.12 ćemo ilustrirati još jednim primjerom.
+
+
+
+Primjer  5.13    
+a)
+Funkcija  ima lokalni (i globalni) minimum u točki
+    . Teorem 5.12 vrijedi jer je  pa je
+    .
+  
+
+b)
+Funkcija  ima lokalni (i globalni) minimum u točki
+    . Teorem 5.12 vrijedi jer je funkcije nije derivabilna
+    u točki 0.
+  
+
+c)
+Za funkciju  vrijedi 
+ pa je .
+  Međutim,  nije lokalni ekstrem pa vidimo da obrat teorema
+  5.12 ne vrijedi, odnosno teorem daje samo nužan uvjet za
+  postojanje ekstrema.  
+  
+
+
+
+
+Za iskazivanje teorema koji daju dovoljne uvjete za postojanje ekstrema,
+potrebna nam je sljedeća definicija.
+
+
+
+Definicija  5.6   Funkcija  mijenja predznak u točki , ako postoji
+
+ takav da su vrijednosti funkcije
+ na intervalu 
+ stalnog i suprotnog predznaka od
+vrijednosti te funkcije na intervalu 
+.
+
+
+Primijetimo da funkcija može mijenjati predznak u nekoj točki, a da pri
+tome nije definirana u toj točki.
+
+
+
+Teorem  5.13   [Dovoljan uvjet za postojanje ekstrema] 
+  Ako prva derivacija  mijenja predznak u kritičnoj točki , tada
+  funkcija  ima lokalni ekstrem u točki . 
+  Pri tome vrijedi sljedeće: ako  mijenja predznak s 
+  na , tada je  lokalni minimum, a ako  mijenja predznak 
+  s  na , tada je  lokalni maksimum.
+Dokaz. 
+Ako derivacija  mijenja predznak s  na , tada po teoremu
+5.11 funkcija  strogo pada na intervalu 
+ i strogo
+raste na intervalu 
+. Stoga funkcija  ima u točki 
+lokalni minimum po definiciji 5.4.
+Ako derivacija  mijenja predznak s  na , tada na sličan
+način zaključujemo da funkcija  ima u točki 
+lokalni maksimum.     Q.E.D.
+
+
+Na primjer, funkcije iz primjera 5.13 a) i b) ispunjavaju uvjete 
+teorema, dok funkcija iz primjera 5.13 c) te uvjete ne
+ispunjava.
+
+
+Dovoljan uvjet za postojanje ekstrema možemo izraziti i pomoću druge
+derivacije.
+
+
+
+Teorem  5.14   [Dovoljan uvjet za postojanje ekstrema] 
+  Neka je u stacionarnoj točki  funkcija  dva puta derivabilna. 
+  Ako je 
+, tada funkcija  ima lokalni ekstrem u
+  točki .  Pri tome vrijedi sljedeće: ako je , tada je 
+   lokalni minimum, a ako je , tada je  
+  lokalni maksimum.
+Dokaz. 
+Druga derivacija  je derivacija prve derivacije pa 
+pretpostavka da  postoji zbog definicije 5.1 znači da
+prva derivacija  postoji ne samo u točki , već i u nekoj 
+
+-okolini točke . Neka je .
+Tada vrijedi
+
+
+
+
+
+Zadnja jednakost vrijedi jer je  stacionarna točka pa je
+. Za  je  pa gornja nejednakost povlači
+. Za  je  pa gornja nejednakost povlači
+. Dakle, prva derivacija  mijenja predznak u točki  i
+to s  na  pa po teoremu 5.13 funkcija  ima lokalni
+minimum u točki . Slično se dokaže da za  i 
+funkcija  ima u točki  lokalni maksimum.     Q.E.D.
+
+
+Prethodni dokaz možemo riječima iskazati i na sljedeći način:
+ako je , tada je  veća od nule i na nekoj okolini točke
+. To znači da je prva derivacija  strogo rastuća na toj
+okolini. Kako je , zaključujemo da je  negativna lijevo od
+točke  i pozitivna desno do točke . To pak znači da funkcija 
+strogo pada lijevo od točke , a strogo raste desno od točke  pa je
+ točka lokalnog minimuma.
+
+
+Na primjer, funkcija  ispunjava uvjete teorema 5.14 u
+točki , jer je , a 
+ pa se u točki
+ nalazi lokalni minimum. 
+S druge strane, teorem ne možemo primijeniti na funkciju  
+u točki , jer nije derivabilna u toj točki.
+Teorem također ne možemo primijeniti niti na funkciju  u
+točki , jer je  i . U tom slučaju možemo
+koristiti više derivacije (vidi teorem 5.18).
+
+
+ 
+
+Poglavlja
+
+Geometrijski ekstrem
+
+
+
+
+
+
+
+
+ 
+Natrag: Monotonost  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Geometrijski ekstrem  
+
+
+
+

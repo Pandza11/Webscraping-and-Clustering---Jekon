@@ -1,0 +1,130 @@
+
+
+
+
+Nužan uvjet konvergencije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Red realnih brojeva  
+Gore: Red realnih brojeva  
+Naprijed: Kriteriji konvergencije  
+
+
+
+
+
+Nužan uvjet konvergencije
+
+
+
+Teorem  6.9   Ako je red  konvergentan, tada je 
+.
+Teorem možemo iskazati drukčije:
+ako je 
+, tada red  divergira.
+Dokaz. 
+Neka je 
+
+
+
+
+ 
+pri čemu je   limes niza parcijalnih suma.
+Kako limes niza ne ovisi o pomicanju indeksa za konačan broj mjesta,
+vrijedi 
+. Sada imamo
+
+
+
+
+ 
+i teorem je dokazan.     Q.E.D.
+
+
+
+Primjer  6.10   Harmonijski red
+
+
+
+
+ 
+ispunjava nužan uvjet
+konvergencije jer je 
+, ali divergira, odnosno
+
+. Dokažimo tu tvrdnju: niz parcijalnih suma 
+ je strogo rastući, a za njegov podniz 
+ vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Dakle, 
+, što povlači
+ 
+.
+
+
+
+Napomena  6.3   Red
+
+
+
+
+ 
+konvergira za , a divergira za , što ćemo analizirati
+u sljedećem poglavlju.
+
+
+
+
+
+
+
+
+ 
+Natrag: Red realnih brojeva  
+Gore: Red realnih brojeva  
+Naprijed: Kriteriji konvergencije  
+
+
+
+

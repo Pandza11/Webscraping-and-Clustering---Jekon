@@ -1,0 +1,155 @@
+
+
+
+
+Dva važna limesa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cauchyjev niz  
+Gore: Niz realnih brojeva  
+Naprijed: Red realnih brojeva  
+
+
+
+
+
+Dva važna limesa
+
+
+Pokažimo 
+
+
+
+
+ 
+tako što ćemo riješiti osnovnu nejednadžbu
+konvergencije.
+
+Za  tvrdnja je očita.
+Za  vrijedi
+
+
+
+
+ 
+Logaritmirajući obje strane dobivamo
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Za  vrijedi
+
+
+
+
+ 
+Logaritmirajući obje strane dobivamo
+
+
+
+
+ 
+Nejednakost je promijenila smjer prilikom dijeljenja s
+negativnim brojem  
+.
+Dakle, 
+
+
+
+
+
+
+Gornji limes mogli smo odrediti i primjenjujući proširenje po
+  neprekidnosti. 
+ Naime, u ovom slučaju je 
+
+
+
+
+ 
+Sada na 
+ možemo primijeniti tehnike
+za nalaženje limesa funkcija realne varijable (logaritamsko
+deriviranje, L'Hospitalovo pravilo
+, ...). Dakle,
+
+
+
+
+ 
+pa je .
+
+
+Postupak proširenja po neprekidnosti se često koristi.
+Tako, na primjer, iz definicije broja  iz poglavlja 
+6.1.3 slijedi
+
+
+
+
+ 
+a zamjenom  slijedi
+
+
+
+
+ 
+Slika 6.1 prikazuje  i .
+
+
+
+Slika 6.1:
+Proširenje po neprekidnosti
+
+
+
+
+
+Zadatak  6.2   Pokažite
+
+
+
+
+ 
+tako što ćete riješiti osnovnu nejednadžbu konvergencije te pomoću
+proširenja po neprekidnosti.
+
+
+
+
+
+
+
+
+ 
+Natrag: Cauchyjev niz  
+Gore: Niz realnih brojeva  
+Naprijed: Red realnih brojeva  
+
+
+
+

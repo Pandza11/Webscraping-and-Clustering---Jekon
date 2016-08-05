@@ -1,0 +1,119 @@
+
+
+
+
+Tangenta i normala
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacija  
+Gore: Derivacija  
+Naprijed: Derivacije slijeva i  
+
+
+
+
+
+Tangenta i normala
+
+
+Gottfried Wilhelm Leibnitz,
+filozof i matematičar, u XVII. stoljeću je nezavisno od Newtona razvio osnove diferencijalnog računa
+rješavajući problem nalaženja tangente 
+zadane krivulje u nekoj
+točki.
+
+
+Neka je krivulja zadana s formulom , pri čemu je 
+derivabilna funkcija. Sekanta
+ krivulje  koja prolazi
+točkama 
+ i , pri čemu je , je
+pravac s koeficijentom (vidi sliku 5.2)
+
+
+
+
+
+
+
+
+Slika 5.2:
+Tangenta na krivulju
+
+
+
+
+Kada , tada sekanta teži k tangenti krivulje  u
+točki 
+, čiji je koeficijent smjera jednak 
+. 
+Također možete pogledati i
+
+animaciju konvergencije
+sekante prema tangenti.
+Očito vrijedi
+
+
+
+
+
+Stoga je jednadžba tangente 
+na krivulju  u točki 
+ dana s
+
+
+
+
+
+
+(5.2)
+
+
+
+Normala 
+na krivulju  u točki 
+ je pravac koji prolazi kroz točku  
+
+i okomit je na tangentu u toj točki.
+Jednadžba normale stoga glasi
+
+
+
+
+
+pri čemu smo pretpostavili da je 
+. 
+
+
+
+
+
+
+
+
+ 
+Natrag: Derivacija  
+Gore: Derivacija  
+Naprijed: Derivacije slijeva i  
+
+
+
+

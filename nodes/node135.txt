@@ -1,0 +1,295 @@
+
+
+
+
+Kriteriji konvergencije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Nužan uvjet konvergencije  
+Gore: Red realnih brojeva  
+Naprijed: Apsolutna konvergencija  
+
+
+
+
+
+Kriteriji konvergencije
+
+
+Kod razmatranja konvergencije geometrijskog reda u primjeru
+6.8, istovremeno smo odgovorili na pitanje da li red konvergira
+i našli njegovu sumu. Međutim, zapravo se radi o dva odvojena pitanja:
+
+1)
+Da li zadani red konvergira?
+
+2)
+Ukoliko red konvergira, koja mu je suma?
+
+
+Često je lakše odgovoriti na prvo, nego na drugo pitanje.
+Tako kod redova čiji su svi članovi pozitivni, na prvo pitanje 
+često možemo odgovoriti koristeći jedan od četiri kriterija
+konvergencije koje navodimo u ovom poglavlju.
+
+
+
+Definicija  6.10   Neka su  i  redovi s pozitivnim članovima,
+odnosno  za 
+. Ako postoji 
+
+takav da  povlači 
+, red  je
+majoranta reda , a red  je 
+minoranta reda .
+
+
+
+Teorem  6.10   [Kriteriji konvergencije]Neka su  i  redovi s pozitivnim članovima.
+Tada vrijede sljedeći kriteriji konvergencije:
+
+(i)
+Poredbeni kriterij I.
+    Red je konvergentan ako ima konvergentnu
+    majorantu, 
+    a divergentan ako ima divergentnu minorantu.
+
+(ii)
+Poredbeni kriterij II. 
+Neka je
+
+
+
+
+
+Tada vrijedi:
+
+(a)
+ako je 
+, tada oba reda ili konvergiraju ili
+  divergiraju;
+
+(b)
+ako je  i red  divergira, tada red 
+  divergira;
+
+(c)
+ako je  i red  konvergira, tada red 
+   konvergira;
+
+(d)
+ako je  i red  konvergira, tada red
+ konvergira;
+
+(e)
+ako je  i red  divergira, tada red
+ divergira.
+
+
+
+(iii)
+D'Alembertov kriterij.
+ 
+Neka je 
+
+
+
+
+ 
+Ako je , tada red  konvergira, a ako je , tada
+red  divergira.
+
+
+
+(iv)
+Cauchyjev kriterij.
+
+ Neka je 
+
+
+
+
+ 
+Ako je , tada red  konvergira, a ako je , tada
+red  divergira.
+
+
+
+(v)
+Raabeov kriterij.
+
+Neka je 
+
+
+
+
+ 
+Ako je , tada red  konvergira, a ako je , tada
+red  divergira.
+
+
+Dokaz. 
+Dokazat ćemo samo prvu varijantu poredbenog kriterija, dok
+dokaze ostalih tvrdnji izostavljamo.
+
+
+Neka red  ima konvergentnu majorantu 
+ i neka je
+
+. Niz parcijalnih suma  reda  je
+  omeđen odozgo, . Kako je  , niz  je i 
+strogo rastući pa konvergira po teoremu 6.4.
+Druga tvrdnja je očita.
+    Q.E.D.
+
+
+Raabeov kriterij se obično koristi tek kada zakaže D'Alembertov
+kriterij, dakle kada je 
+.
+
+
+Dat ćemo nekoliko primjera.
+
+Primjer  6.11   Kako je 
+, red
+
+
+
+
+ 
+divergira jer ima divergentnu minorantu 
+ (vidi 
+primjer 6.10). Općenito, red 
+
+
+
+
+
+divergira za  zbog istog razloga (vidi napomenu 6.3).
+
+
+
+Primjer  6.12   Promotrimo red
+
+
+
+
+ 
+Zbog
+
+
+
+
+ 
+vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Stoga je 
+. Red 
+
+
+
+
+ 
+također konvergira jer ima konvergentnu majorantu
+ 
+. No, tada konvergira i red
+
+
+
+
+ 
+Zadnju jednakost ćemo dokazati u Matematici 3.
+Konačno, prema poredbenom kriteriju red 
+
+ konvergira za  (vidi napomenu
+6.3).
+
+
+
+Primjer  6.13   Ispitajmo konvergenciju reda 
+
+
+
+
+ 
+po D'Alembertovom i Cauchyjevom kriteriju.
+Red konvergira po D'Alembertovom kriteriju jer je
+
+
+
+
+ 
+Red konvergira po Cauchyjevom kriteriju jer je
+
+
+
+
+ 
+
+
+
+Primjer  6.14   Sljedeći važan red daje nam prikaz broja : 
+
+
+
+
+
+
+(6.1)
+
+
+Red konvergira po D'Alembertovom kriteriju jer je 
+
+
+
+
+ 
+Zadnja jednakost u formuli (6.1) dokazat će se u zadatku 
+6.5.
+
+
+
+
+
+
+
+
+ 
+Natrag: Nužan uvjet konvergencije  
+Gore: Red realnih brojeva  
+Naprijed: Apsolutna konvergencija  
+
+
+
+

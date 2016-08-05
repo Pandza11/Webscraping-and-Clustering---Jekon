@@ -1,0 +1,144 @@
+
+
+
+
+Hiperbolne i area funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalna i logaritamska  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Potencije  
+
+
+
+Hiperbolne i area funkcije
+
+
+Derivacije hiperbolnih funkcija 
+
+iz poglavlja 4.6.9
+lako dobijemo pomoću formule (5.5) i osnovnih pravila
+deriviranja:
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+(5.6)
+
+
+
+
+
+
+   
+
+
+
+Derivacije area funkcija 
+
+dobijemo 
+primjenjujući Teorem o deriviranju inverzne funkcije 5.3 
+na formule (5.6):
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+(5.7)
+
+
+
+
+
+
+   
+
+
+
+
+Zadatak  5.1   
+a)
+Opišite sličnosti i razlike između derivacija hiperbolnih i
+    area funkcija i derivacija trigonometrijskih i arkus
+    funkcija.
+  
+
+b)
+Dokažite formule (5.6) i (5.7).
+  
+
+c)
+Nađite asimptote funkcija u (5.7) i skicirajte te
+    funkcije.  
+  
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalna i logaritamska  
+Gore: Derivacije elementarnih funkcija  
+Naprijed: Potencije  
+
+
+
+

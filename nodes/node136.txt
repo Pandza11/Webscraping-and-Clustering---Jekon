@@ -1,0 +1,132 @@
+
+
+
+
+Apsolutna konvergencija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kriteriji konvergencije  
+Gore: Red realnih brojeva  
+Naprijed: Alternirani redovi  
+
+
+
+
+
+Apsolutna konvergencija
+
+
+U prethodnom poglavlju dani su kriteriji konvergencije za redove s
+pozitivnim članovima. Razmatranje redova čiji članovi imaju različite
+predznake je složenije. U nekim slučajevima pomaže nam
+teorem o apsolutnoj konvergenciji.
+
+
+
+Definicija  6.11   Red  je 
+apsolutno konvergentan 
+odnosno konvergira
+  apsolutno ako konvergira red 
+.
+Za redove s pozitivnim članovima koje smo razmatrali u prethodnom
+poglavlju vrijedi  pa 
+nema razlike između konvergencije i apsolutne konvergencije. 
+
+
+Sljedeća dva teorema vezana uz apsolutno konvergentne redove 
+navodimo bez dokaza.
+
+
+
+Teorem  6.11   Ako je red apsolutno konvergentan, tada je i konvergentan.
+
+
+Na primjer, redovi 
+
+
+
+
+
+
+(6.2)
+
+
+i
+
+
+
+
+
+
+(6.3)
+
+
+su apsolutno konvergentni jer je njihov red apsolutnih vrijednosti
+konvergentan geometrijski red 
+. 
+Sume su im, naravno, različite.
+
+
+Apsolutno konvergentni redovi imaju sljedeće važno i korisno
+svojstvo.
+
+
+
+Teorem  6.12   Apsolutno konvergentnom redu smijemo komutirati sumande, to jest
+redoslijed zbrajanja ne utječe na sumu reda.
+Redovi koji su konvergentni, ali nisu apsolutno konvergentni nemaju
+ovo svojstvo (vidi poglavlje 6.2.4).
+Po prethodnom teoremu suma reda (6.2) jednaka je
+
+
+
+
+ 
+Slično, suma reda (6.3) jednaka je
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kriteriji konvergencije  
+Gore: Red realnih brojeva  
+Naprijed: Alternirani redovi  
+
+
+
+

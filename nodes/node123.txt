@@ -1,0 +1,530 @@
+
+
+
+
+Parametarski zadana funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ispitivanje toka funkcije  
+Gore: Ispitivanje toka funkcije  
+Naprijed: Rješavanje problema ravnoteže  
+
+
+
+
+
+Parametarski zadana funkcija
+
+Postupak opisan u prethodnim poglavljima se, uz odgovarajuće izmjene, 
+može primijeniti i za ispitivanje toka parametarski zadane 
+funkcije.
+Međutim, kako su kod parametarski zadanih funkcija varijable  i 
+ravnopravne, postupak ispitivanja takvih funkcija može biti složeniji od
+ispitivanja eksplicitno zadanih funkcija.
+
+
+Ispitivanje toka parametarski zadane funkcije ilustrirat ćemo na
+primjeru Descartesovog lista 
+iz primjera 4.2, 4.4 i
+4.12, koji je u parametarskom obliku zadan s
+
+
+
+
+
+
+
+1.
+Područje definicije
+
+Funkcija je definirana za 
+. 
+Primijetimo da za ove vrijednosti parametra , varijable  i  
+poprimaju sve vrijednosti iz skupa 
+.
+
+2.
+Parnost
+
+Kako kod implicitno zadane funkcije jednoj vrijednosti varijable 
+može odgovarati više vrijednosti varijable , to 
+definicija parne i neparne funkcije na način dan u definiciji 4.2
+nema smisla. Kod parametarski zadanih funkcija ima smisla koristiti
+sljedeću definiciju: funkcija je parna ako je njen graf
+simetričan s obzirom na -os, a neparna ako je njen graf
+simetričan s obzirom na ishodište. Primijetimo da je ova definicija
+uključuje definiciju 4.2.
+
+
+Ispitajmo parnost zadane funkcije po prethodnoj definiciji. 
+Pretpostavimo da je funkcija parna. Ako je točka 
+ element 
+grafa funkcije, tada je i točka 
+ također element grafa
+funkcije. No, tada postoji 
+ takav da je 
+
+. Uvrštavanje u definiciju funkcije daje
+
+
+
+
+
+Gornje jednakosti su ispunjene samo za . Naime, za 
+
+ gornje jednakosti povlače
+
+
+
+
+
+Nakon kraćenja prva jednakost povlači , odnosno .
+Uvrštavanje u drugu jednakost daje 
+, odnosno
+
+ što je nemoguće pa zaključujemo da funkcije nije parna.
+
+
+Pretpostavimo sada da je funkcija neparna. Ako je točka 
+
+ element grafa funkcije, tada je i točka 
+ 
+također element grafa funkcije. 
+No, tada postoji 
+ takav da je 
+
+. Uvrštavanje u definiciju funkcije daje
+
+
+
+
+
+Kao i u prethodnom slučaju, gornje jednakosti su ispunjene samo 
+za . Naime, za 
+
+ gornje jednakosti povlače
+
+
+
+
+
+Nakon kraćenja prva jednakost povlači , odnosno .
+Uvrštavanje u drugu jednakost daje 
+, što je
+nemoguće pa zaključujemo da funkcije nije neparna.
+
+3.
+Periodičnost
+
+Funkcija nije periodična, jer su  i  zadane pomoću elementarnih
+funkcija, a ne sadrže neku od trigonometrijskih funkcija.   
+
+4.
+Nul-točke
+
+Jednadžba  povlači , a jednadžba  također povlači
+ pa je ishodište jedina nul-točka funkcije. 
+
+
+5.
+Asimptote
+
+a)
+Vertikalne asimptote
+
+Funkcija nema vertikalnih asimptota jer je 
+.
+ 
+
+b)
+Horizontalne asimptote
+
+U primjeru 4.12 smo pokazali da 
+ kada
+ . No,
+
+
+
+
+
+pa funkcija nema horizontalnu asimptotu u lijevoj strani.
+Slično, 
+ kada . Kako je
+
+
+
+
+
+zaključujemo da funkcija nema horizontalnu asimptotu ni u 
+desnoj strani.
+
+c)
+Kose asimptote
+
+U primjeru 4.12 smo pokazali da je pravac  kosa 
+asimptota u obje strane.
+
+
+
+6.
+Ekstremi
+
+Za razliku od implicitno zadane funkcije, kod parametarski zadane 
+funkcije su varijable  i  ravnopravne pa 
+možemo imati dvije vrste lokalnih ekstrema: 
+
+a)
+lokalni ekstrem po , odnosno lokalno najmanji ili najveći
+   i 
+
+b)
+lokalni ekstrem po , odnosno lokalno najmanji ili najveći .
+
+
+Ekstreme po  i po  također tražimo pomoću prve i viših
+derivacija kako je opisano u poglavlju 5.7, odnosno
+koristeći teoreme 5.12, 5.13, 5.14 i 5.18.
+Pri tome derivacije  i , kao i više derivacije,
+računamo po pravilima o deriviranju parametarski zadanih funkcija
+iz poglavlja 5.4:
+
+
+
+
+
+Zbog složenosti postupka, kod ispitivanje ekstrema i monotonosti
+potrebno je voditi računa o mnogim detaljima.
+
+
+Nađimo ekstreme po . Vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Dakle, 
+
+
+
+
+
+Po Teoremu o nužnim uvjetima ekstrema 5.12 
+imamo tri točke u kojima se mogu nalaziti lokalni ekstremi i to za
+vrijednosti parametra , 
+ i
+
+.
+Međutim, da bi mogli ispravno primijeniti teoreme o nužnim i dovoljnim
+uvjetima ekstrema iz poglavlja 5.7, potrebno je da je u
+okolini kritičnih točaka zaista definirana neka funkcija . 
+Po teoremu 4.1, to će sigurno biti ispunjeno ako je u
+okolini promatrane točke funkcija  injekcija. S druge strane,
+ je sigurno injekcija tamo gdje je strogo rastuća ili padajuća.
+Vidimo da u okolini točke  vrijedi 
+ pa 
+je po Teoremu o monotonosti 5.11 funkcija  strogo
+rastuća u okolini točke . Kako  mijenja predznak s  na
+ u okolini točke , teorem 5.13 nam kaže da se radi o
+lokalnom maksimumu. To, međutim, nije dovoljno! Naime, kako
+bi zaista bili sigurni da se radi o lokalnom maksimumu po  u smislu
+definicije 5.4, moramo još provjeriti da i funkcija 
+raste u okolini točke . No, to smo već pokazali jer je u toj
+okolini 
+ pa je naš zaključak da se radi o lokalnom
+minimumu opravdan. (Obrnuti slučaj pokazat ćemo kasnije).
+
+
+Međutim, s ovim još nismo riješili status točaka  i .
+Pogledajmo sada ekstreme po . Vrijedi
+
+
+
+
+
+Očito je u okolinama točaka  i 
+ 
+derivacija 
+ pa je funkcija  injekcija.
+U okolini točke  je 
+, odnosno  je rastuća,
+a kako  mijenja predznak s  na  radi se o lokalnom
+minimumu. U okolini točke  derivacija  također 
+mijenja predznak s  na  pa bi mogli
+zaključiti da se radi o lokalnom minimumu po . 
+Kako je u toj okolini 
+, odnosno  je padajuća,
+zaključujemo da se zapravo radi o lokalnom maksimumu.
+Naime, činjenica da  pada, zapravo znači da je derivacija 
+negativna desno od točke , a pozitivna lijevo od te točke, što
+je zapravo definicija lokalnog maksimuma gledano od desne prema lijevoj
+strani.
+
+
+Radi lakšeg praćenja prethodnog izlaganja, funkcije  i  te
+njihove derivacije po parametru  i po  i  prikazane su na
+slikama 5.15, 5.16 i 5.17.
+Vidimo da je prilikom ispitivanja toka parametarski zadane funkcije
+korisno detaljno ispitati i tokove funkcija  i .
+To je u ovom slučaju jednostavno, jer se radi o racionalnim
+funkcijama.
+
+
+
+
+Slika 5.15:
+Varijable  i  Descartesovog lista
+
+
+
+
+
+
+Slika 5.16:
+Derivacije varijabli Descartesovog lista po parametru
+
+
+
+
+
+
+Slika 5.17:
+Derivacije Descartesovog lista po varijablama  i 
+
+
+
+
+Ove slike nam daju još neke korisne informacije. Tako iz oblika
+funkcija  i  na slici 5.15 zaključujemo se na
+dijelu grafa funkcije ista vrijednosti varijable  javlja za tri
+različite točke (konkretno, isti  se javlja za po jedan  iz
+intervala ,  i 
+).
+S druge strane, svakoj vrijednosti 
+ odgovara točno
+jedan  (funkcija  je na tom intervalu injekcija). 
+Također, kako funkcija  raste na intervalu , a pada na
+intervalu 
+, zaključujemo da tu graf funkcije ima
+petlju.
+
+
+
+7.
+Intervali monotonosti
+
+Ispitat ćemo monotonost od  kao funkcije od  
+koristeći teorem 5.11. Radi preglednosti rezultate ćemo
+prikazati tablično. U tablici 5.1 prikazani su redom intervali
+parametra , vrijednost derivacije  te kao posljedica,  
+monotonost odgovarajuće funkcije . 
+Radi lakšeg crtanja grafa funkcije prikazani su i odgovarajući
+intervali u kojima se nalazi varijabla  te vrijednost derivacije
+ iz koje zaključujemo da li na danom intervalu  raste
+ili pada.
+
+
+
+
+
+Tablica 5.1:
+Monotonost Descartesovog lista
+ 
+
+
+
+
+
+
+
+
+
+
+pada
+
+
+
+
+
+
+pada
+
+
+
+
+
+
+raste
+
+
+
+
+
+
+pada
+
+
+
+
+
+
+
+raste
+
+
+
+
+
+
+
+
+
+
+
+Iz tablice 5.1 se također lijepo vidi da graf krivulje ima
+petlju za 
+, odnosno za 
+, kao i
+da svakoj vrijednosti 
+
+odgovaraju tri vrijednosti varijable .
+
+
+
+8.
+Zakrivljenost
+
+Ispitat ćemo zakrivljenost od  kao funkcije od .
+Pri tome ćemo koristiti napomenu  5.2 d), sliku
+5.17 iz koje vidimo da li na odgovarajućem intervalu 
+derivacija  raste ili pada te sliku 5.15 iz koje
+vidimo da li funkcija  raste ili pada.
+Zaključujemo na sljedeći način:
+
+
+ako na nekom intervalu  raste i pri tome  raste,
+  tada je graf funkcije na tom intervalu konveksan;
+
+ako na nekom intervalu  raste, a pri tome  pada,
+  to zapravo znači da  pada kada  raste pa
+  je graf funkcije na tom intervalu konkavan;
+
+ako na nekom intervalu  pada i pri tome  raste,
+  tada je graf funkcije na tom intervalu konkavan;
+
+ako na nekom intervalu  pada, a pri tome  pada,
+  to zapravo znači da  raste kada  raste pa
+  je graf funkcije na tom intervalu konveksan.
+
+
+
+Radi preglednosti rezultate ćemo
+opet prikazati tablično. U tablici 5.2 dani su redom 
+intervali parametra , ponašanje derivacije , 
+ponašanje varijable  i konačan zaključak o zakrivljenosti.
+
+
+
+
+
+Tablica 5.2:
+Zakrivljenost Descartesovog lista
+ 
+
+
+
+
+zakrivljenost
+
+
+
+pada
+pada
+konveksna
+
+
+pada
+pada
+konveksna
+
+
+pada
+raste
+konkavna
+
+
+pada
+raste
+konkavna
+
+
+
+pada
+pada
+konveksna
+
+
+
+
+
+
+
+
+
+9.
+Točke infleksije
+
+Iz definicije 5.8 i tablice 5.2 slijedi da se
+ infleksije nalaze u točkama za koje je  i , odnosno u 
+ točkama  i 
+.
+
+
+
+10.
+Graf funkcije
+
+Kombinirajući sve prethodne rezultate dobijemo graf zadane funkcije
+  i njene kose asimptote, koji je prikazan na slici 4.6.
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ispitivanje toka funkcije  
+Gore: Ispitivanje toka funkcije  
+Naprijed: Rješavanje problema ravnoteže  
+
+
+
+

@@ -1,0 +1,83 @@
+
+
+
+
+Teoremi diferencijalnog računa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Deriviranje parametarski zadane  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Fermatov i Rolleov  
+
+
+
+
+
+Teoremi diferencijalnog računa
+
+
+U ovom poglavlju dokazat ćemo  osnovne teoreme diferencijalnog
+računa. To su Fermatov teorem, Rolleov teorem, 
+Cauchyjev teorem, Lagrangeov teorem i L'Hospitalov teorem
+(L'Hospitalovo pravilo). 
+Fermatov teorem služi za ispitivanje ekstrema (poglavlje
+5.7) i za dokazivanje
+Rolleovog teorema. Rolleov teorem služi za dokazivanje 
+Cauchyjevog teorema srednje vrijednosti.
+Lagrangeov teorem slijedi iz Cauchyjevog teorema i 
+služi za dokazivanje Teorema o monotonosti
+(poglavlje 5.6).
+Cauchyjev teorem služi za dokazivanje 
+L'Hospitalovog pravila, a L'Hospitalovo 
+pravilo služi za nalaženje limesa u slučaju neodređenih oblika.
+Odnose između navedenih teorema možemo prikazati i shematski:
+
+
+
+
+
+
+
+ 
+
+Poglavlja
+
+Fermatov i Rolleov teorem
+Cauchyjev i Lagrangeov teorem srednje vrijednosti
+L'Hospitalovo pravilo i računanje limesa neodređenih 
+
+oblika
+
+
+
+
+
+
+
+
+ 
+Natrag: Deriviranje parametarski zadane  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Fermatov i Rolleov  
+
+
+
+

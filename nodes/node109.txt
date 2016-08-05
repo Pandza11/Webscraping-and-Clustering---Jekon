@@ -1,0 +1,114 @@
+
+
+
+
+Logaritamsko deriviranje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potencije  
+Gore: Derivacija  
+Naprijed: Diferencijal  
+
+
+
+
+
+Logaritamsko deriviranje
+
+
+Logaritamsko deriviranje koristimo za deriviranje funkcija oblika
+
+
+
+
+
+U onim točkama u kojima derivacija postoji vrijedi
+
+
+
+
+
+Postupak kojim se dolazi do derivacije sastoji se od tri koraka koji
+se lako pamte:
+
+
+logaritmiramo obje strane,
+
+deriviramo obje strane, pri čemu  deriviramo kao složenu
+  funkciju (kompoziciju),
+
+sredimo dobivenu jednakost.
+
+
+
+Ovaj jednostavan postupak ilustrirat ćemo sljedećim primjerom.
+
+
+
+Primjer  5.7     Izračunajmo derivaciju funkcije 
+
+
+
+
+
+Logaritmiranje daje
+
+
+
+
+
+Deriviranje obaju strana daje
+
+
+
+
+
+pri čemu smo  derivirali po teoremu 5.4.
+Konačno, sređivanje ove jednakosti daje
+
+
+
+
+
+
+
+
+Zadatak  5.3   Izračunajte derivacije funkcija 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potencije  
+Gore: Derivacija  
+Naprijed: Diferencijal  
+
+
+
+

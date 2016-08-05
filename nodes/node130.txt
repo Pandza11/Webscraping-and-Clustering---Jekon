@@ -1,0 +1,177 @@
+
+
+
+
+Svojstva limesa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Broj  
+Gore: Niz realnih brojeva  
+Naprijed: Cauchyjev niz  
+
+
+
+
+
+Svojstva limesa
+
+
+Svojstva limesa nizova slična su svojstvima limesa funkcija koja su
+dana u poglavlju 4.3.1. Dokaz sljedećeg teorema sličan je
+dokazu teorema 4.3 pa ga stoga izostavljamo.
+
+
+
+Teorem  6.6    Neka su nizovi  i 
+  konvergentni. Tada vrijedi:
+  
+(i)
+
+,
+  
+
+(ii)
+
+,
+  
+
+(iii)
+
+,
+  
+
+(iv)
+ako za svaki  vrijedi  i ako je 
+, tada je
+
+
+
+
+
+
+(v)
+ako za svaki  vrijedi  i ako je 
+, tada je
+
+
+
+
+ 
+Posebno, ako je  stacionaran niz, , tada je
+
+
+
+
+
+
+
+
+
+
+Primjer  6.5    
+a)
+Za niz 
+
+
+
+
+ 
+vrijedi
+
+
+
+
+
+
+b)
+Za niz 
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+vrijedi
+
+
+
+
+
+
+
+
+
+Sljedeći teorem je sličan pravilu o ukliještenoj funkciji 
+4.4.
+
+
+
+Teorem  6.7   Ako za nizove ,  i  
+postoji 
+ takav da  povlači 
+
+ i ako je 
+, tada je i
+
+.
+
+
+
+Primjer  6.6   Pokažimo 
+
+
+
+
+ 
+Zaista, budući je 
+, to za svaki 
+
+vrijedi 
+
+
+
+
+ 
+Kako 
+ i 
+, tvrdnja slijedi iz
+teorema 6.7.
+
+
+
+
+
+
+
+
+ 
+Natrag: Broj  
+Gore: Niz realnih brojeva  
+Naprijed: Cauchyjev niz  
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+Broj 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Omeđenost, monotonost i  
+Gore: Niz realnih brojeva  
+Naprijed: Svojstva limesa  
+
+
+
+
+
+Broj 
+
+
+Dokazat ćemo da je niz
+
+
+
+
+ 
+rastući i omeđen odozgo pa stoga konvergira po teoremu 6.4.
+Limes tog niza označavamo s ,
+
+
+
+
+ 
+Broj  ima beskonačni neperiodični decimalni zapis, a njegovih prvih
+pedeset znamenaka glasi
+
+
+
+
+
+
+Dokažimo da je zadani niz omeđen:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+Dokažimo da je zadani niz strogo rastući:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+Također možemo dokazati 
+
+
+
+
+
+
+
+Napomena  6.2   Broj  također možemo izračunati i kao sumu beskonačnog reda
+  brojeva (vidi formulu (6.1) u poglavlju 6.2.2 i 
+  zadatak 6.5).
+
+
+
+Zadatak  6.1     Niz (4.7), koji je u poglavlju 4.6.5
+  naveden kao jedna od mogućih definicija broja 
+  , možemo definirati i rekurzivno kao niz
+   koji je definiran formulama:
+  
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+Prema (4.7) vrijedi 
+. Dokažite da je niz 
+   konvergentan tako što ćete pokazati da je strogo rastući 
+  i omeđen odozgo.
+
+
+
+
+
+
+
+
+ 
+Natrag: Omeđenost, monotonost i  
+Gore: Niz realnih brojeva  
+Naprijed: Svojstva limesa  
+
+
+
+

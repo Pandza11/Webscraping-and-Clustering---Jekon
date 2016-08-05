@@ -1,0 +1,120 @@
+
+
+
+
+Približno računanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Diferencijal  
+Gore: Diferencijal  
+Naprijed: Više derivacije i  
+
+
+
+
+
+Približno računanje
+
+
+Jedna od važnih primjena diferencijala
+je približno računanje.
+Neka smo vrijednost nezavisne varijable  izmjerili s pogreškom koja
+po apsolutnoj vrijednosti ne prelazi neki .
+Ako pomoću tako izračunatog  računamo vrijednost funkcije , 
+tada po (5.8) apsolutna pogreška 
+u tako izračunatoj vrijednosti
+funkcije približno iznosi
+
+
+
+
+
+dok relativna pogreška 
+iznosi
+
+
+
+
+
+Ovo je krasna ideja, uz uvjet da znamo preciznije 
+kazati što znači "".
+
+
+
+Primjer  5.8   Izračunajmo približno 
+ koristeći činjenicu
+da je 
+. Vrijedi
+
+
+
+
+
+Definirajmo funkciju
+
+
+
+
+
+i odaberimo  i 
+. 
+Koristeći diferencijal imamo
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Točna vrijednost na četiri decimale je 3.0274 pa smo u ovom slučaju
+uz vrlo jednostavne operacije dobili dobru aproksimaciju izbjegavši
+pri tome računanje četvrtog korijena.
+
+
+Pri računanju 
+ zaporavo smo koristili prva dva člana 
+Taylorovog reda 
+odabrane funkcije.
+Taylorov red je tema kojom se bavi poglavlje 6.5 pa će
+tamo također biti više riječi o ocjeni pogreške prilikom ovakvog
+približnog računanja.
+
+
+
+
+
+
+
+
+ 
+Natrag: Diferencijal  
+Gore: Diferencijal  
+Naprijed: Više derivacije i  
+
+
+
+

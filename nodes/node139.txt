@@ -1,0 +1,177 @@
+
+
+
+
+Red funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Niz funkcija  
+Gore: NIZOVI I REDOVI  
+Naprijed: Ispitivanje konvergencije  
+
+
+
+
+
+Red funkcija
+
+
+U ovom poglavlju definirat ćemo red funkcija, konvergenciju u točki,
+ te običnu, apsolutnu i uniformnu konvergenciju na nekom skupu. Pokazat
+ ćemo kako se može odrediti područje konvergencije reda funkcija te
+ dati jedan lako primjenjiv kriterij konvergencije.
+
+
+
+Definicija  6.14   Red funkcija
+je zbroj beskonačno (prebrojivo mnogo) 
+funkcija, 
+
+
+
+
+ 
+pri čemu je 
+. Koristimo i oznake
+
+
+
+
+ 
+Funkcija  je -ti član reda, 
+a
+funkcija 
+
+
+
+
+ 
+je 
+-ta parcijalna suma.
+Niz funkcija  je niz
+  parcijalnih suma 
+reda funkcija .
+
+
+Na primjer, red funkcija 
+ možemo zapisati i kao
+
+
+
+
+
+
+
+Definicija  6.15   
+(i)
+Red funkcija  
+konvergira u točki  prema funkciji 
+
+ako red realnih brojeva 
+ konvergira prema ,
+odnosno ako niz realnih brojeva  konvergira prema .
+
+(ii)
+Red funkcija   konvergira po točkama ili obično 
+prema funkciji  na skupu  ako 
+ konvergira prema
+ za  
+, odnosno ako 
+ za 
+
+. 
+
+(iii)
+Red funkcija  konvergira apsolutno
+
+ na skupu  ako red
+brojeva 
+ konvergira za  
+.
+
+(iv)
+Red funkcija  konvergira uniformno
+
+ prema funkciji  
+na skupu  ako niz funkcija  konvergira uniformno prema
+funkciji  na skupu .
+
+
+
+
+Dakle, konvergenciju u nekoj točki i običnu konvergenciju možemo
+definirati na dva načina: preko reda brojeva ili preko niza
+parcijalnih suma. Također, pored obične konvergencije imamo još dvije
+različite vrste konvergencije, apsolutnu i uniformnu.
+
+
+
+Primjer  6.15   Iz svojstava geometrijskog reda iz primjera 6.8 slijedi da za
+geometrijski red funkcija
+ vrijedi
+
+
+
+
+ 
+Konvergencija je apsolutna jer red 
+ konvergira za 
+
+. Konvergencija je također uniformna prema teoremu
+6.16, a prikazana je na slici 6.3.
+Također možete pogledati i
+
+animaciju konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.3:
+Konvergencija geometrijskog reda funkcija
+
+
+
+
+ 
+
+Poglavlja
+
+Ispitivanje konvergencije
+Red potencija
+Deriviranje reda funkcija
+
+
+
+
+
+
+
+
+ 
+Natrag: Niz funkcija  
+Gore: NIZOVI I REDOVI  
+Naprijed: Ispitivanje konvergencije  
+
+
+
+

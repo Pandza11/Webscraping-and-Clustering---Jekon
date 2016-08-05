@@ -1,0 +1,114 @@
+
+
+
+
+Deriviranje parametarski zadane funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Više derivacije i  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Teoremi diferencijalnog računa  
+
+
+
+
+
+
+Deriviranje parametarski zadane funkcije
+
+Jedna od važnih primjena diferencijala je deriviranje parametarski
+zadanih funkcija. Derivaciju parametarski zadane funkcije 
+
+
+
+
+
+računamo pomoću formule (5.10):
+
+
+
+
+
+Često se koristi i kraći zapis
+
+
+
+
+
+pri čemu  označava deriviranje po nezavisnoj varijabli , 
+a  i  označava deriviranje po parametru.
+
+
+
+Primjer  5.10   Odredimo tangentu na krivulju zadanu s 
+
+
+
+
+
+u točki , . Ovo je parametarski
+zadana elipsa 
+iz poglavlja 5.1.4 koja je prikazana na
+slici 5.3. 
+Formula (5.10) daje
+
+
+
+
+
+Odredimo : iz 
+ slijedi 
+ pa je 
+ ili . Uvjet  povlači 
+i 
+. Dakle,
+
+
+
+
+
+pa je jednadžba tražene tangente dana s (5.3).
+
+
+Formulu za drugu derivaciju parametarski zadane funkcije također
+dobijemo primjenom formule (5.10):
+
+
+
+
+
+Ovu formulu smo također mogli izvesti koristeći formulu (5.11).
+
+
+
+
+
+
+
+
+ 
+Natrag: Više derivacije i  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Teoremi diferencijalnog računa  
+
+
+
+

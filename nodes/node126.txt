@@ -1,0 +1,296 @@
+
+
+
+
+Niz realnih brojeva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: NIZOVI I REDOVI  
+Gore: NIZOVI I REDOVI  
+Naprijed: Gomilište i podniz  
+
+
+
+
+
+Niz realnih brojeva
+
+
+U ovom poglavlju definirat ćemo niz realnih brojeva, 
+osnovne tipove nizova, limes niza, odnosno konvergenciju niza,
+dokazati jedinstvenost limesa te dati nekoliko primjera. 
+
+
+Definicija niza je vrlo jednostavna.
+
+
+
+Definicija  6.1   Niz realnih brojeva 
+(kraće niz) je svaka funkcija 
+
+. Broj 
+ je -ti
+  član  niza.
+
+
+Niz možemo označiti tako da napišemo prvih nekoliko članova i opći
+član:
+
+
+
+
+ 
+Također koristimo oznake
+
+
+
+
+ 
+Pri tome treba razlikovati niz  od skupa
+
+. Naime, kod niza svaki član ima točno određeno
+mjesto na kojem se nalazi, dok kod skupa to nije slučaj.
+Također, ako se elementi ponavljaju, tada skup ostaje isti, dok se niz
+mijenja.
+
+
+
+Primjer  6.1   
+a)
+Niz čiji je opći član 
+
+
+
+
+
+glasi
+
+
+
+
+
+
+b)
+Niz zadan s pravilom
+
+
+
+
+ 
+glasi
+
+
+
+
+
+
+c)
+Niz zadan s pravilom
+
+
+
+
+ 
+glasi
+
+
+
+
+ 
+Ovo je takozvani stacionarni niz, 
+odnosno niz sa svojstvom
+
+
+
+
+
+
+
+
+
+
+Definicija  6.2   Niz  je rastući 
+(padajući, strogo rastući,
+strogo padajući, monoton) ako je 
+takva pripadna funkcija 
+ 
+.
+Na primjer, niz
+
+
+
+
+
+je monoton (strogo padajući) jer vrijedi
+
+
+
+
+ 
+S druge strane, niz
+
+
+
+
+ 
+nije monoton.
+
+
+
+Definicija  6.3   Realan broj  je granična vrijednost 
+ili limes
+niza  ako
+
+
+
+
+ 
+Niz koji ima limes je konvergentan 
+odnosno konvergira.
+U protivnom je niz divergentan 
+odnosno divergira.
+Iz definicije zaključujemo da kod konvergentog niza svaki 
+ 
+interval 
+ sadrži beskonačno članova niza, dok se izvan
+toga intervala nalazi samo konačno članova niza.
+
+
+Konvergenciju niza označavamo na sljedeće načine:
+
+
+
+
+
+
+
+Primjer  6.2   Dokažimo
+
+
+
+
+ 
+Zaista, neka je 
+ proizvoljan. Tada
+
+
+
+
+ 
+pa je 
+
+
+
+
+ 
+S  označavamo najveće cijelo pozitivnog broja .
+Na primjer, za 
+ je 
+ pa se članovi niza
+
+ nalaze unutar intervala 
+. 
+Kada smanjimo 
+, tada veći broj (ali uvijek konačan) članova
+niza ostane izvan intervala 
+, dok je uvijek beskonačno
+članova niza unutar tog intervala.
+
+
+Postupkom iz primjera 6.2 riješili smo 
+osnovnu nejednadžbu konvergencije
+
+za niz .
+
+
+
+Definicija  6.4   Niz  divergira prema
+ ako vrijedi
+
+
+
+
+ 
+Slično, niz  divergira prema
+ ako vrijedi
+
+
+
+
+ 
+Na primjer, niz  divergira u , a niz
+ divergira u .
+
+
+
+Napomena  6.1     Zbog jedinstvenosti terminologije u nastavku izlaganja, u
+  prvom slučaju iz definicije 6.4 još kažemo da  
+  niz  konvergira prema
+ i pišemo 
+.
+Slično, u
+  drugom slučaju iz definicije 6.4 još kažemo da  
+  niz  konvergira prema
+ i pišemo 
+.
+
+
+Na kraju dokažimo jedinstvenost limesa.
+
+Teorem  6.1   Niz može imati najviše jedan limes.
+Dokaz. 
+Neka su  i  dva različita (konačna) limesa niza
+. Neka je 
+. Tada se unutar 
+intervala 
+ mora nalaziti beskonačno članova niza, dok
+se izvan toga intervala nalazi samo konačno članova niza.
+Isto mora vrijediti i za interval 
+.
+Kako su intervali disjunktni, to je nemoguće.     Q.E.D.
+
+
+ 
+
+Poglavlja
+
+Gomilište i podniz
+Omeđenost, monotonost i konvergencija
+Broj 
+Svojstva limesa
+Cauchyjev niz
+Dva važna limesa
+
+
+
+
+
+
+
+
+ 
+Natrag: NIZOVI I REDOVI  
+Gore: NIZOVI I REDOVI  
+Naprijed: Gomilište i podniz  
+
+
+
+

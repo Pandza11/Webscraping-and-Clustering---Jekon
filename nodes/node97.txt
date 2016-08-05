@@ -1,0 +1,325 @@
+
+
+
+
+Hiperbolne i area funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Polinomi i racionalne  
+Gore: Pregled elementarnih funkcija  
+Naprijed: DERIVACIJE I PRIMJENE  
+
+
+
+
+
+Hiperbolne i area funkcije
+
+
+Hiperbolne funkcije 
+definiramo pomoću eksponencijalne 
+funkcije 
+(poglavlje 4.6.3). Hiperbolne funkcije su zanimljive jer
+su rješenja mnogih problema u fizici i tehnici izražena pomoću njih. 
+Veze između hiperbolnih funkcija
+slične su vezama između trigonometrijskih 
+funkcija.
+
+
+Sinus hiperbolni je funkcija
+
+
+
+
+
+a 
+kosinus hiperbolni 
+je funkcija
+
+
+
+
+
+Funkcije 
+ i 
+ prikazane su na slici 4.39.
+
+
+
+
+Slika 4.39:
+Sinus hiperbolni i kosinus hiperbolni
+
+
+
+
+Vidimo da je sinus hiperbolni neparna, a
+kosinus hiperbolni parna funkcija te da je sinus hiperbolni 
+strogo rastuća funkcija.
+Kosinus hiperbolni se još zove i lančanica,
+jer lanac obješen o
+dvije točke u gravitacijskom polju zauzme oblik dijela te krivulje.
+Za funkcije 
+ i 
+ vrijedi
+
+
+
+ 
+
+
+   
+
+ 
+
+
+(4.11)
+
+ 
+
+
+   
+
+
+
+
+Zadatak  4.14   Dokažite svojstva (4.11). Usporedite ta svojstva s
+  trigonometrijskim 
+  identitetom (4.9) i 
+  adicionim teoremima  
+  (A3) i (A6). Opišite sličnosti i
+  razlike?
+
+
+Slično kao kod trigonometrijskih funkcija, 
+tangens hiperbolni
+definiramo kao kvocijent sinusa i kosinusa, a 
+kotangens hiperbolni
+kao kvocijent kosinusa i sinusa, odnosno
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+Funkcije 
+ i 
+ prikazane su na slici 4.40.
+Funkcija 
+ je neparna, strogo rastuća i neprekidna te
+ima horizontalne asimptote  i lijevom i  u desnom kraju.
+Funkcija 
+ je neparna, strogo padajuća i ima prekid druge
+vrste u točki . Njene horizontalne asimptote su također pravci 
+ i lijevom i  u desnom kraju, a pravac  je vertikalna
+asimptota s obje strane.
+
+
+
+
+Slika 4.40:
+Tangens hiperbolni i kotangens hiperbolni
+
+
+
+
+
+Zadatak  4.15   Koristeći svojstva funkcije  izračunajte limese
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+Area funkcije 
+su inverzne funkcije hiperbolnih funkcija.
+Primijetimo da su sve hiperbolne funkcije bijekcije, osim 
+ pa
+za kosinus hiperbolni inverznu funkciju definiramo za restrikciju
+
+. Funkcije 
+area sinus hiperbolni, 
+area kosinus hiperbolni, 
+area tangens hiperbolni i 
+area kotangens hiperbolni
+definirane su redom na sljedeći način:
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+(4.12)
+
+ 
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+Area funkcije se ponekad označavaju i s velikim početnim slovom kao na
+primjer 
+. Funkcije 
+ i 
+ prikazane su na
+slici 4.41, a funkcije 
+ i 
+ na
+slici 4.42.
+
+
+
+
+Slika 4.41:
+Area sinus hiperbolni i area kosinus hiperbolni
+
+
+
+
+
+
+Slika 4.42:
+Area tangens hiperbolni i area kotangens hiperbolni
+
+
+
+
+
+Zadatak  4.16    
+a)
+Dokažite da su formule za area funkcije te  njihove domene i
+ kodomene zaista dane s odgovarajućim izrazima u (4.12).
+
+b)
+Koje su horizontalne i vertikalne asimptote funkcija 
+ i
+ 
+ (vidi sliku 4.42)? Dokažite da su
+ to asimptote tako što ćete izračunati odgovarajuće limese.
+
+c)
+Nacrtajte funkcije
+  
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Polinomi i racionalne  
+Gore: Pregled elementarnih funkcija  
+Naprijed: DERIVACIJE I PRIMJENE  
+
+
+
+

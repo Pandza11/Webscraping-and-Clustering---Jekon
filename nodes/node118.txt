@@ -1,0 +1,189 @@
+
+
+
+
+Monotonost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: L'Hospitalovo pravilo i  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Ekstremi  
+
+
+
+
+
+Monotonost
+
+
+Predznak derivacije nam također kazuje da li funkcija raste ili pada
+na nekom intervalu. Pojam rastuće i padajuće 
+(monotone) funkcije dan je u 
+definiciji 4.3. U dokazu sljedećeg teorema koristit ćemo
+Lagrangeov teorem srednje vrijednosti 5.9.
+
+
+
+Teorem  5.11     
+ Neka je funkcija  derivabilna na
+  intervalu . Tada vrijedi:
+  
+(i)
+funkcija  je rastuća
+  na intervalu  ako i samo ako je
+  
+ za svaki 
+;
+  
+
+(ii)
+funkcija  je padajuća na 
+  intervalu  ako i samo ako je
+  
+ za svaki 
+;
+  
+
+(iii)
+ako je  za svaki 
+, tada je funkcija  
+  strogo rastuća 
+  na intervalu ;  
+  
+
+(iv)
+ako je  za svaki 
+, tada je funkcija  
+  strogo padajuća na intervalu 
+  .
+  
+
+
+Dokaz. 
+Dokažimo prvu tvrdnju, pri čemu treba dokazati oba smjera.
+
+
+Neka je  rastuća i derivabilna na intervalu . Trebamo
+dokazati da je 
+ za svaki 
+. Odaberimo
+proizvoljni 
+. 
+Kako je  rastuća, za 
+ vrijedi 
+
+ pa je 
+
+
+
+
+
+S druge strane, za 
+ vrijedi 
+
+ pa je
+
+
+
+
+
+Kako je  derivabilna, to je 
+
+
+
+
+
+Točka  je bila proizvoljno odabrana pa zaključujemo da je
+
+ za svaki 
+.
+
+
+Dokažimo drugi smjer. Neka je  derivabilna na intervalu  i
+neka je 
+ za svaki 
+. Trebamo dokazati da je
+ rastuća po definiciji 4.3. Odaberimo dvije točke
+
+, takve da je . Po Lagrangeovom teoremu
+5.9 postoji točka 
+ takva da je 
+
+
+
+
+
+Kako je , zaključujemo da je nužno 
+,
+odnosno  je rastuća na intervalu . 
+S ovim smo dokazali prvu tvrdnju teorema. Dokaz ostalih tvrdnji je
+sličan.     Q.E.D.
+
+
+Dok prve dvije tvrdnje teorema vrijede u jednom i u
+drugom smjeru (ako i samo ako), zadnje dvije tvrdnje vrijede samo u
+jednom smjeru. Kao primjer zašto kod tih tvrdnji ne vrijedi drugi
+smjer,  možemo uzeti funkciju  koja je strogo rastuća na
+čitavom skupu 
+, ali je .
+
+
+
+Primjer  5.12     Odredimo intervale monotonosti funkcije 
+. 
+  Vrijedi 
+. Stoga funkcija  raste za 
+.
+  Nakon rješavanja nejednadžbe zaključujemo da je  rastuća na
+  intervalima 
+ i 
+. Štoviše, pošto u 
+  prethodnoj nejednakosti jednakost vrijedi samo za  i , 
+  zaključujemo da je na tim intervalima  strogo rastuća.
+  Slično, funkcija  pada za 
+  
+, odnosno  je strogo padajuća na intervalu 
+  . Funkcija  i njena derivacija prikazane su na slici
+  5.8.
+
+
+
+
+Slika 5.8:
+Intervali monotonosti
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: L'Hospitalovo pravilo i  
+Gore: DERIVACIJE I PRIMJENE  
+Naprijed: Ekstremi  
+
+
+
+
