@@ -1,0 +1,367 @@
+
+
+
+
+Osnove matematičke logike
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: OSNOVE MATEMATIKE  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Binarne relacije  
+
+
+
+
+
+Osnove matematičke logike
+
+
+U ovom poglavlju definirat ćemo pojam suda, osnovne operacije sa
+sudovima, pojam predikata te vrste kvantifikatora.
+
+
+
+Definicija  1.1   Sud 
+je svaka smislena izjava koja može biti samo istinita ili
+neistinita, odnosno lažna.
+
+
+
+Primjer  1.1   ''Je li danas četvrtak?''
+ nije sud nego pitanje.
+''Jutro je pametnije od večeri'' nema smisla kao izjava, osim
+u prenesenom značenju, pa nije sud.
+''Danas je četvrtak'' je sud koji je istinit ili neistinit, već
+prema danu u kojem se izgovara. 
+''Svaki brod je jedrenjak'' je neistinit sud.
+
+
+Istinitost 
+suda  označimo s . Pri tome 
+
+znači  je istinit, a 
+ znači  je
+  neistinit. Osnovne operacije sa sudovima i njihove tablice
+istinitosti su:
+
+
+konjunkcija, 
+, [ i ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+disjunkcija,  
+, [ ili ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ekskluzivna disjunkcija, 
+
+, 
+[ili  ili ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+implikacija, 
+, 
+[ povlači ; iz  slijedi ;  je dovoljan
+  uvjet
+za ;  je nužan uvjet za ], 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ekvivalencija, 
+
+,
+[ je ekvivalentno s  ;  je ako i samo ako je ;
+ je nužan i dovoljan uvjet za ], 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+negacija,  , 
+[ne ; non ], 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Za sudove ,  i  vrijede DeMorganovi
+  zakoni,
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+i zakoni distribucije,
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+Zadatak  1.1   Dajte primjere za osnovne operacije sa sudovima i protumačite
+tablice istinitosti. Dajte primjere za DeMorganove zakone i zakone 
+distribucije. 
+
+
+
+Definicija  1.2   Otvorena rečenica ili 
+predikat je izjavna rečenica koja 
+sadrži parametre i koja postaje sud kada
+parametri poprime određenu vrijednost.
+
+
+Na primjer, predikat  je rođen prije  postaje sud kada su 
+i  dvije osobe. Predikat s dvije varijable označavamo s .
+
+
+Kod izražavanja pomoću predikata koristimo kvantifikatore: 
+
+
+univerzalni, 
+
+, odnosno za svaki  je
+    , i 
+
+egzistencijalni, 
+
+, odnosno postoji 
+    takav da je  te 
+, odnosno postoji
+    točno jedan  takav da je .
+
+
+
+
+Primjer  1.2    
+a)
+Neka je 
+. Tada vrijedi
+    
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+b)
+Neka  glasi . Tada vrijedi 
+    
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: OSNOVE MATEMATIKE  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Binarne relacije  
+
+
+
+

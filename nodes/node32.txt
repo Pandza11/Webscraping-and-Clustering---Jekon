@@ -1,0 +1,327 @@
+
+
+
+
+Gaussova eliminacija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje trokutastih sustava  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Primjeri  
+
+
+
+
+
+Gaussova eliminacija
+
+Lako vidimo da se rješenje sustava ne mijenja ako izvršimo bilo koju
+od sljedećih radnji:
+
+(i)
+neku jednadžbu pomnožimo s brojem različitim od nule,
+
+(ii)
+zamijenimo dvije jednadžbe,
+
+(iii)
+jednu jednadžbu pribrojimo drugoj,
+
+(iv)
+zamijenimo dvije varijable.
+
+
+Radnje (i) i (iii) često vršimo istovremeno:
+jednoj jednadžbi dodamo drugu jednadžbu pomnoženu s nekim brojem.
+
+
+Ove radnje odgovaraju sljedećim radnjama na 
+proširenoj matrici sustava: 
+
+(i')
+neki redak pomnožimo s brojem različitim od nule;
+
+(ii')
+zamijenimo dva retka;
+
+(iii')
+jedan redak pribrojimo drugome;
+
+(iv')
+zamijenimo dva stupca u matrici .
+
+
+Kombinirajući radnje (i') i (iii') imamo:
+jednom retku dodamo drugi redak pomnožen s nekim brojem.
+
+
+Koristeći navedene transformacije matricu  svodimo na gornje
+trokutasti oblik. Taj postupak se zove Gaussova eliminacija.
+Neka je zadan sustav 
+
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+(2.5)
+
+ 
+
+
+   
+
+
+Neka je 
+. Tada stavimo
+
+
+
+
+ 
+i oduzmemo prvu jednadžbu pomnoženu s  od -te jednadžbe
+ te dobijemo sustav
+
+
+
+
+
+   
+
+
+
+   
+
+
+
+   
+
+
+ 
+
+   
+
+
+gdje je 
+
+
+
+
+ 
+Primijetimo da je varijabla  eliminirana iz tri posljednje
+jednadžbe. Brojevi  kojima se u postupku eliminacije množi
+prva jednadžba zovu se multiplikatori.
+Neka je i 
+. Tada stavimo
+
+
+
+
+ 
+i oduzmemo drugu jednadžbu pomnoženu s  od -te jednadžbe
+. Rezultat je sustav
+
+
+
+
+
+   
+
+
+
+   
+
+
+
+   
+
+
+ 
+
+   
+
+
+gdje je 
+
+
+
+
+ 
+Konačno, stavimo 
+
+
+
+
+ 
+i oduzmemo treću jednadžbu pomnoženu s  od četvrte jednadžbe. 
+Rezultat je gornje trokutasti 
+sustav
+
+
+
+
+
+   
+
+
+
+   
+
+
+
+   
+
+
+ 
+
+   
+
+
+gdje je 
+
+
+
+
+ 
+Dobiveni gornje trokutasti sustav sada riješimo na način koji je opisan
+u poglavlju 2.3.
+
+
+Broj računskih operacija potrebnih za svođenje kvadratnog sustava reda
+ na gornje trokutasti oblik iznosi
+
+
+
+
+ 
+Vidimo da je za veće dimenzije  broj računskih operacija
+potreban za rješavanje trokutastog sustava zanemariv u odnosu na broj
+računskih operacija potrebnih za svođenje na trokutasti oblik. 
+Na modernim računalima (Pentium 350), koja izvršavaju do  milijuna
+operacija u sekundi, svođenje sustava dimenzije  na trokutasti
+oblik traje oko  sekundi, dok za  traje  sati, a za 
+
+ traje  puta duže, odnosno oko  godina.
+
+
+Postupak Gaussove eliminacije  
+koji smo upravo opisali za sustav reda
+četiri na očit se način može poopćiti na sustave proizvoljnog reda. 
+Ukoliko je neki od brojeva s kojima dijelimo jednak nuli, potrebno je 
+dodatno koristiti postupak pivotiranja koji je opisan u poglavlju
+2.4.2.
+
+
+Postupak Gaussove eliminacije možemo interpretirati i kao 
+množenje proširene matrice sustava s lijeve strane
+s elementarnim matricama
+  transformacije.
+Neka je 
+ 
+proširena matrica sustava 
+(2.5) i neka je
+
+
+
+
+ 
+Tada je
+
+
+
+
+
+
+   
+
+
+Dalje, neka je 
+
+
+
+
+ 
+Tada je
+
+
+
+
+
+
+   
+
+
+Konačno, neka je
+
+
+
+
+ 
+Tada je
+
+
+
+
+
+
+   
+
+
+
+
+Zadatak  2.4   Napišite program za svođenje proširene matrice sustava na trokutasti
+oblik.
+
+
+ 
+
+Poglavlja
+
+Primjeri
+Pivotiranje
+Elementarne matrice transformacija
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje trokutastih sustava  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Primjeri  
+
+
+
+

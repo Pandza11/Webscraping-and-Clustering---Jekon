@@ -1,0 +1,80 @@
+
+
+
+
+Računanje inverzne matrice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Laplaceov razvoj determinante  
+Gore: Determinante  
+Naprijed: Cramerovo pravilo  
+
+
+
+
+
+Računanje inverzne matrice
+
+Postoji još jedan važan izraz za inverznu matricu.
+
+Teorem  2.9   Neka je  regularna matrica i neka je  matrica čiji su
+elementi algebarski komplementi . 
+Tada je 
+
+
+
+
+ 
+Dokaz. 
+Stavimo 
+. Tada je
+
+
+
+
+ 
+Za  suma na desnoj strani predstavlja Laplaceov razvoj
+determinante matrice  po -tom retku pa je 
+.
+Za  suma na desnoj strani predstavlja Laplaceov razvoj 
+determinante s dva jednaka retka pa je jednaka nuli. Dakle, .
+Slično se pokaže  pa je teorem dokazan.     Q.E.D.
+
+
+
+Zadatak  2.11   Nađite inverznu matricu matrice  iz zadatka 2.7 koristeći
+prethodni teorem.   
+
+
+
+
+
+
+
+
+ 
+Natrag: Laplaceov razvoj determinante  
+Gore: Determinante  
+Naprijed: Cramerovo pravilo  
+
+
+
+

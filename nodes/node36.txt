@@ -1,0 +1,192 @@
+
+
+
+
+Linearna nezavisnost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Elementarne matrice transformacija  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Rang matrice  
+
+
+
+
+
+Linearna nezavisnost
+
+
+
+
+Neka su 
+
+
+stupčani vektori. Vektor
+
+
+
+
+ 
+zove se linearna kombinacija
+vektora 
+.
+
+
+
+Definicija  2.3     Vektori  
+ su 
+  linearno nezavisni
+  ako za sve skalare 
+
+
+
+
+
+ 
+U protivnom su vektori 
+  
+ linearno zavisni. 
+Drugim riječima, 
+ su linearno zavisni ako
+i samo ako postoje 
+ takvi da je 
+
+
+
+
+ 
+i da je barem jedan od  različit od nule, odnosno
+
+
+
+
+ 
+Ovaj uvjet još zapisujemo kao 
+.
+Ekvivalentna formulacija gornjeg uvjeta glasi 
+.
+Linearna zavisnost skupa vektora znači i da je jedan od tih
+vektora linearna kombinacija preostalih - ako je na primjer 
+
+, tada je
+
+
+
+
+
+
+Linearna kombinacija i linearna nezavisnost retčanih vektora definira
+se analogno.
+Bez dokaza navodimo sljedeće tvrdnje:
+
+(a)
+ako je neki od vektora 
+ nul-vektor,
+  tada su ti vektori linearno zavisni,
+
+(b)
+ako među vektorima 
+ ima jednakih,
+  tada su ti vektori linearno zavisni,
+
+(c)
+ako su vektori 
+ linearno
+  nezavisni, tada je svakih  vektora izabranih između tih vektora 
+  također linearno nezavisno,
+
+(d)
+ako su vektori 
+ linearno
+  zavisni, tada su i vektori  
+  
+
+
+
+ 
+linearno zavisni za bilo koje vektore 
+  
+,
+
+(e)
+bilo kojih  vektora iz skupa 
+
+  (ili 
+)  su linearno
+  zavisni. 
+
+
+
+
+Primjer  2.4   Vektori 
+ definirani s
+
+
+
+
+ 
+su nezavisni, jer
+
+
+
+
+ 
+povlači 
+. 
+Dodamo li ovom skupu peti vektor
+
+, 
+tada su vektori 
+
+linearno zavisni jer je jedan od njih linearna kombinacija ostalih,
+
+
+
+
+ 
+
+
+
+Napomena  2.2   Skup vektora 
+
+tvori jednu bazu
+četverodimenzionalnog vektorskog prostora
+
+. Općenito, svaki skup od  linearno
+nezavisnih vektora -dimenzionalnog prostora tvori jednu bazu tog
+prostora te se svaki vektor iz tog prostora može prikazati kao 
+linearna kombinacija vektora baze. 
+
+
+
+
+
+
+
+
+ 
+Natrag: Elementarne matrice transformacija  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Rang matrice  
+
+
+
+

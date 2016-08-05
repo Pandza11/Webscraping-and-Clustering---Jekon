@@ -1,0 +1,74 @@
+
+
+
+
+Podmatrice i poddeterminante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva determinanti  
+Gore: Determinante  
+Naprijed: Laplaceov razvoj determinante  
+
+
+
+
+
+
+Podmatrice i poddeterminante
+
+Rang matrice 
+možemo definirati i pomoću podmatrica.
+Neka je zadana matrica  tipa . Na presjeku  redaka
+i  stupaca matrice  nalazi se matrica tipa  
+koju zovemo podmatrica ili submatrica matrice .
+Naravno da je i  svoja vlastita podmatrica, kao i svaki element od
+. Poddeterminante matrice  su determinante kvadratnih 
+podmatrica matrice .
+
+
+
+Teorem  2.8   Sljedeće tvrdnje su ekvivalentne:
+
+(i)
+
+.
+
+(ii)
+Barem jedna poddeterminanta od  reda  je različita od nule,
+a sve poddeterminante reda većeg od  su jednake nula.
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva determinanti  
+Gore: Determinante  
+Naprijed: Laplaceov razvoj determinante  
+
+
+
+

@@ -1,0 +1,140 @@
+
+
+
+
+Svojstva logaritama
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Logaritamska funkcija  
+Gore: Logaritamska funkcija  
+Naprijed: Trigonometrijske funkcije  
+
+
+
+
+
+Svojstva logaritama
+
+Najvažnija svojstva logaritamskih funkcija su:
+
+
+
+
+ 
+
+
+(L1)
+
+ 
+
+
+(L2)
+
+ 
+
+
+(L3)
+
+ 
+
+
+(L4)
+
+ 
+
+
+(L5)
+
+ 
+
+
+(L6)
+
+
+Dokaz svojstva (L1): jednakost  možemo
+koristeći logaritme s bazama  i  zapisati kao
+
+
+
+
+
+Uvrštavanje 
+ u gornju nejednakost i primjena svojstva
+potenciranja (P2) daju
+
+
+
+
+
+Kako su u prethodnoj jednakosti baze jednake, to moraju biti jednaki i
+eksponenti, odnosno svojstvo (L1) vrijedi.
+
+Dokaz svojstva (L2): kada u svojstvo (L1) uvrstimo
+ dobijemo 
+
+
+
+
+
+Dokaz svojstva (L3): slično kao u dokazu svojstva
+(L1) izraz 
+ možemo zapisati kao 
+
+
+
+
+
+Svojstva (L4-L6) dokazuju se slično.
+
+
+
+Napomena  4.10   Kako većina programa za crtanje funkcija 
+može crtati samo funkcije  i ,  kod crtanja funkcija 
+ i 
+ na slikama 4.25 i
+  4.26 korištena su svojstva (L1) i (L2).
+Program Gnuplot 
+pomoću kojeg su
+nacrtane slike funkciju  označava s log(x). 
+
+
+
+Zadatak  4.10   Nacrtajte funkcije , ,  i 
+.
+Jesu li te funkcije omeđene,
+monotone,
+neprekidne i 
+imaju li asimptote? 
+
+
+
+
+
+
+
+
+ 
+Natrag: Logaritamska funkcija  
+Gore: Logaritamska funkcija  
+Naprijed: Trigonometrijske funkcije  
+
+
+
+

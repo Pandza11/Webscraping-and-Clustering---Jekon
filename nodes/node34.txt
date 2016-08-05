@@ -1,0 +1,77 @@
+
+
+
+
+Pivotiranje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjeri  
+Gore: Gaussova eliminacija  
+Naprijed: Elementarne matrice transformacija  
+
+
+
+
+
+Pivotiranje
+
+Ukoliko je element kojim moramo dijeliti da bi dobili multiplikatore 
+ jednak nuli, tada moramo zamijeniti odgovarajuće retke
+proširene matrice sustava. Na primjer,
+
+
+
+
+
+
+   
+
+
+pa je rješenje sustava
+
+
+
+
+
+
+U praksi je poželjno vršiti zamjenu redaka i kada je broj kojim
+dijelimo jako blizu nule. Gotovi programi uvijek vrše zamjenu redaka
+i to na način da se najveći element po apsolutnoj vrijednosti u stupcu
+kojeg poništavamo dovede na vodeću poziciju. Na taj način uvijek
+vrijedi 
+ što doprinosi numeričkoj stabilnost
+algoritma.
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjeri  
+Gore: Gaussova eliminacija  
+Naprijed: Elementarne matrice transformacija  
+
+
+
+

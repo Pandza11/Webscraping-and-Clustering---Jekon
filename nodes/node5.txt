@@ -1,0 +1,173 @@
+
+
+
+
+Binarne relacije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Osnove matematičke logike  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Uređeni skupovi  
+
+
+
+
+
+Binarne relacije
+
+
+U ovom poglavlju definirat ćemo partitivni skup, Kartezijev produkt
+skupova i binarnu relaciju te dati klasifikaciju binarnih relacija.
+
+
+Skup je pojam koji se ne definira. Skup je zadan svojim
+elementima. Na primjer, skup 
+ ima 
+elemente
+, ,  i . Tu činjenicu zapisujemo s
+
+
+
+
+ 
+dok, recimo, . 
+S  
+označavamo prazan skup, 
+odnosno skup bez elemenata.
+
+
+
+Zadatak  1.2   Ponovite pojmove podskupa, nadskupa, unije skupova, presjeka skupova i
+razlike skupova te osnovna svojstva tih operacija.
+
+
+Partitivni skup 
+skupa  je skup  čiji su elementi svi
+podskupovi skupa .  Na primjer, ako je 
+, tada je 
+
+
+
+
+ 
+Dakle, uvijek je 
+ i .
+
+
+
+Definicija  1.3   Direktni produkt 
+ili Kartezijev produkt 
+skupova  i 
+je skup svih uređenih parova , gdje je  i ,
+odnosno
+
+
+
+
+ 
+
+
+Na primjer, ako je 
+ i , tada je
+
+
+
+
+ 
+Također, 
+ za svaki skup .
+
+
+
+Definicija  1.4   Binarna relacija na skupu  
+je svaki podskup 
+
+. Ako je uređeni par 
+
+, kažemo 
+da je  u relaciji 
+ s , i pišemo
+
+ ili  
+
+. Binarna relacija je:
+
+
+refleksivna 
+ako je 
+ za svaki ;
+
+simetrična
+ ako 
+; 
+
+tranzitivna
+ ako 
+; 
+
+relacija ekvivalencije
+
+ ako je refleksivna, simetrična i
+  tranzitivna. 
+
+
+
+
+Na primjer, neka je  skup ljudi i neka je 
+
+ako su  i  rođeni istog dana. Očito vrijedi  
+
+
+
+
+ 
+pa je 
+ relacija ekvivalencije.
+
+
+
+Napomena  1.1   Relacija ekvivalencije na skupu  cijepa taj skup na
+međusobno disjunktne podskupove, takozvane klase
+  ekvivalencije. Skup  se može na jedinstven način prikazati kao 
+unija tih klasa ekvivalencije.
+
+
+ 
+
+Poglavlja
+
+Uređeni skupovi
+
+
+
+
+
+
+
+
+ 
+Natrag: Osnove matematičke logike  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Uređeni skupovi  
+
+
+
+

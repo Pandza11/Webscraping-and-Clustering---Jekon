@@ -1,0 +1,279 @@
+
+
+
+
+Binomni poučak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Uređaj na skupu  
+Gore: Prirodni brojevi  
+Naprijed: Cijeli brojevi  
+
+
+
+
+
+Binomni poučak
+
+
+U ovom poglavlju definirat ćemo permutaciju i kombinaciju, opisati 
+Pascalov trokut i dokazati binomni poučak i neke njegove posljedice.
+
+
+
+Definicija  1.16   Permutacija -tog reda 
+je svaka bijekcija s 
+ u 
+
+. Kombinacija -tog reda i -tog 
+razreda je
+svaki -člani podskup 
+.
+Pri tome je dopušten i slučaj .
+
+
+U teoremu 2.7 je dokazano da skup svih različitih
+permutacija -tog reda ima  elemenata 
+( faktorijela).
+Faktorijele su definirane rekurzivno s
+
+
+
+
+ 
+ili kao funkcija 
+ zadana s
+
+
+
+
+
+
+
+Teorem  1.4   Broj različitih kombinacija -tog reda i -tog razreda 
+jednak je binomnom koeficijentu
+
+
+
+
+
+ 
+Dokaz. 
+Svaku permutaciju -tog reda možemo dobiti u tri koraka:
+
+1.
+odaberemo jedan -člani podskup od 
+, što možemo
+  učiniti na  načina;
+
+2.
+odaberemo jednu permutaciju tog podskupa, što možemo učiniti na 
+ načina;
+
+3.
+odaberemo jednu permutaciju preostalog -članog
+podskupa, što možemo učiniti na  načina.
+
+
+Ukupan broj permutacija -tog reda stoga je jednak
+
+
+
+
+ 
+pa je teorem dokazan.     Q.E.D.
+
+
+
+Teorem  1.5   Vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+Zadatak  1.3   Dokažite teorem 1.5.
+
+
+Druga tvrdnja teorema 1.5 daje nam poznati 
+Pascalov trokut:
+
+
+
+
+
+
+(1.1)
+
+
+U -tom retku Pascalovog trokuta nalaze se binomni koeficijenti
+-tog reda, 
+, i to poredani po razredu
+
+. Vidimo da je svaki element, osim rubnih, zbroj dvaju
+elemenata koji se nalaze s lijeve i desne strane u retku iznad.
+
+
+
+Teorem  1.6   [Binomni poučak]
+Za svaki 
+ vrijedi
+
+
+
+
+
+
+(1.2)
+
+
+
+
+Na primjer, formula (1.2) i Pascalov trokut 
+(1.1) za  daju
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Binomni poučak dokazat ćemo za prirodne brojeve, no on
+  vrijedi i za racionalne, realne i kompleksne brojeve.
+
+Dokaz. 
+Teorem ćemo dokazati pomoću principa matematičke indukcije P4 iz
+definicije 1.13. Tehnika dokazivanja slična je onoj iz Primjera
+1.3. 
+
+
+Neka je  skup svih prirodnih brojeva za koje formula vrijedi. 
+Dokažimo da je 
+. Za  formula vrijedi jer je
+
+
+
+
+ 
+Dakle,  pa je ispunjena baza indukcije, odnosno
+uvjet (i) aksioma P4. Pokažimo da je ispunjen i korak indukcije,
+odnosno uvjet (ii) aksioma P4. Ako je , odnosno ako formula
+vrijedi za , tada je
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+U predzadnjoj jednakosti koristili smo Pascalov trokut (1.1).
+Dakle,  pa aksiom P4 povlači 
+ i teorem je dokazan. 
+    Q.E.D.
+
+
+
+Korolar  1.1   Za svaki 
+ vrijedi
+
+
+
+
+ 
+i
+
+
+
+
+ 
+odnosno zbroj elemenata u -tom
+retku Pascalovog trokuta 
+(1.1) jednak je .
+
+
+
+
+
+
+
+
+ 
+Natrag: Uređaj na skupu  
+Gore: Prirodni brojevi  
+Naprijed: Cijeli brojevi  
+
+
+
+

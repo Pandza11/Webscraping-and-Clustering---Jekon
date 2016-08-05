@@ -1,0 +1,122 @@
+
+
+
+
+Rang matrice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Linearna nezavisnost  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Kronecker-Capellijev teorem  
+
+
+
+
+
+Rang matrice
+
+Rang matrice  jednak je maksimalnom broju linearno nezavisnih
+stupaca. Maksimalan broj linearno nezavisnih stupaca jednak je
+maksimalnom broju linearno nezavisnih redaka matrice (ovu tvrdnju
+navodimo bez dokaza). Iz toga slijedi da je
+
+
+
+
+ 
+Također, ako je  tipa , tada je očito
+
+
+
+
+
+
+Iz primjera 2.4 zaključujemo kako jedinična
+matrica  
+ima rang . Matrice  iz poglavlja 2.4 te matrice 
+ i  iz poglavlja 2.4.3, također uvijek imaju
+rang jednak dimenziji.
+
+
+Iz ovih primjera zaključujemo da rang matrice lako možemo raspoznati
+iz trokutastog oblika. Kako elementarne transformacije iz 
+poglavlja 2.4 ne mijenjaju rang matrice, zaključujemo da
+je postupak traženja ranga istovjetan s postupkom Gaussove
+eliminacije.  
+Tako je, dakle, rang matrice sustava iz primjera 2.1 jednak
+tri, kao i rang matrice sustava iz primjera 2.2, dok je rang
+matrice sustava iz primjera 2.3 jednak dva, a rang proširene
+matrice sustava iz istog primjera jednak tri.
+
+
+
+Definicija  2.4   Matrice  i  istog tipa su   ekvivalentne ako imaju 
+isti
+rang. Pišemo . 
+
+
+
+Teorem  2.4     Ako su matrice  i  ekvivalentne, tada se matrica  može
+  dobiti iz matrice  pomoću elementarnih transformacija koje se
+  sastoje od množenja retka s brojem različitim od nule, 
+  zamjene dvaju redaka i dodavanja jednog retka drugome te istih
+  operacija sa stupcima.
+Dokaz. 
+Pomoću navedenih elementarnih transformacija matricu  možemo svesti
+na oblik
+
+
+
+
+ 
+pri čemu je 
+ jednak broju dijagonalnih elemenata koji su
+jednaki jedan. Kako  i  imaju isti rang, to i matricu  možemo
+svesti na isti oblik. Sada lako nađemo  niz elementarnih
+transformacija koje matricu  prebacuju u matricu .
+    Q.E.D.
+
+
+Kako se sve navedene elementarne transformacije mogu izvesti
+množenjem matrice  elementarnim matricama transformacija
+bilo s lijeva bilo s desna, a te matrice su regularne (vidi poglavlje
+2.8), zaključujemo da je  ako i samo ako 
+postoje regularne matrice matrice  i  takve da je 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Linearna nezavisnost  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Kronecker-Capellijev teorem  
+
+
+
+

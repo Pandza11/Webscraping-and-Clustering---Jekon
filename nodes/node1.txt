@@ -1,0 +1,159 @@
+
+
+
+
+Slike
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Matematika 1 PREDAVANJA  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Tablice  
+
+
+
+
+Slike
+
+Apsolutna vrijednost 
+Kompleksni broj
+Krug u kompleksnoj ravnini
+Dio kompleksne ravnine
+Elipsa u kompleksnoj ravnini
+Pravci koji se sijeku
+Električna mreža
+Standardna grana mreze
+Ekvivalentne usmjerene dužine
+Zbrajanje vektora (pravilo trokuta)
+Pravilo paralelograma
+Pravilo poligona
+Asocijativnost zbrajanja vektora
+Koordinatizacija ravnine
+Koordinatizacija prostora
+Komponente vektora
+Skalarni produkt
+Vektorski produkt
+Modul vektorskog produkta
+Površina trokuta
+Mješoviti produkt
+Volumen tetraedra
+Pravac u prostoru
+Pravac kao presjek ravnina
+Ravnina u prostoru
+Sjecište pravca i ravnine
+Projekcija točke na pravac
+Projekcija točke na ravninu
+Tablično zadana funkcija
+Linearna interpolacija
+Implicitno zadana funkcija 
+
+Funkcija 
+
+Implicitno zadana kružnica
+Descartesov list
+Cikloida
+Limes funkcije
+Pravilo ukliještene funkcije
+Funkcija 
+
+Funkcija 
+
+Funkcija 
+Beskonačan limes
+Neprekidna funkcija
+Funkcija 
+
+Kosa asimptota
+Konstantna funkcija
+Potenciranje s prirodnim brojem
+Funkcije 
+, 
+ 
+Funkcija 
+ 
+Funkcija 
+ 
+Funkcija 
+
+Eksponencijalne funkcije  i 
+Funkcije  i  
+Funkcija 
+
+Funkcija 
+
+Trigonometrijska kružnica
+Sinus i kosinus
+Tangens
+Kotangens
+Opća sinusoida
+Kosinusov poučak
+Adicioni teoremi
+Arkus sinus
+Kompozicije restrikcije sinusa s arkus sinusom
+Funkcija 
+
+Arkus kosinus
+Arkus tangens i arkus kotangens
+Sinus hiperbolni i kosinus hiperbolni
+Tangens hiperbolni i kotangens hiperbolni
+Area sinus hiperbolni i area kosinus hiperbolni
+Area tangens hiperbolni i area kotangens hiperbolni
+Izolirana točka
+Tangenta na krivulju
+Elipsa i tangenta
+Diferencijal
+Fermatov teorem
+Geometrijska interpretacija  Lagrangeovog teorema
+Pretpostavke Lagrangeovog teorema
+Intervali monotonosti
+Lokalni i globalni ekstremi
+Valjak upisan u stožac
+Volumen upisanog valjka
+Strogo konveksna funkcija
+Konkavna i konveksna funkcija
+Graf iracionalne funkcije
+Varijable  i  Descartesovog lista
+Derivacije varijabli Descartesovog lista po parametru
+Derivacije Descartesovog lista po varijablama  i 
+Položaj ravnoteže mehaničkog sustava
+Proširenje po neprekidnosti
+Konvergencija niza funkcija
+Konvergencija geometrijskog reda funkcija
+Konvergencija reda potencija
+Taylorov red za 
+
+Taylorov red za 
+Taylorov red za 
+
+Taylorov red za 
+
+
+
+
+
+
+ 
+Natrag: Matematika 1 PREDAVANJA  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Tablice  
+
+
+
+

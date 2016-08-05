@@ -1,0 +1,84 @@
+
+
+
+
+Potenciranje s realnim brojem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potenciranje s racionalnim  
+Gore: Potencija  
+Naprijed: Eksponencijalna funkcija  
+
+
+
+
+
+Potenciranje s realnim brojem
+
+
+Za  i 
+ definiramo funkciju  sa
+
+
+
+
+
+Pored toga, 
+, a  je neodređeni oblik.
+
+
+Pravila potenciranja  (P1),
+(P2) i (P3)  
+vrijede i za potenciranje s racionalnim i realnim brojevima, a također
+vrijede i sljedeća svojstva:
+
+
+
+ 
+
+
+(P4)
+
+ 
+
+
+(P5)
+
+ 
+
+
+(P6)
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potenciranje s racionalnim  
+Gore: Potencija  
+Naprijed: Eksponencijalna funkcija  
+
+
+
+

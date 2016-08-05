@@ -1,0 +1,214 @@
+
+
+
+
+Kompleksni brojevi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Apsolutna vrijednost  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Trigonometrijski oblik  
+
+
+
+
+
+Kompleksni brojevi
+
+
+U ovom poglavlju definirat ćemo skup kompleksnih brojeva 
+,
+osnovne računske operacije s kompleksnim brojevima i njihova svojstva,
+trigonometrijski oblik kompleksnog broja i operacije s brojevima u
+trigonometrijskom obliku te eksponencijalni oblik
+kompleksnog broja. Pretpostavljamo da čitatelj poznaje osnovna
+svojstva trigonometrijskih i arkus funkcija iz poglavlja 
+4.6.5 i 4.6.6.
+
+
+Motivacija za uvođenje kompleksnih brojeva je sljedeća: 
+jednadžba  ima dva rješenja u skupu 
+,  i ,
+dok slična jednadžba  nema niti jedno rješenje. 
+Stoga se imaginarna jedinica  definira tako što su 
+ i  rješenja jednadžbe .
+Iz ove definicije slijedi 
+
+
+
+
+
+
+
+Definicija  1.19   Skup kompleksnih brojeva 
+
+ 
+je skup svih brojeva oblika
+, gdje su 
+. Posebno je .
+Realni broj 
+ je 
+realni dio 
+kompleksnog broja , a realni broj 
+ je   
+imaginarni dio 
+kompleksnog broja .
+Dva kompleksna broja su jednaka ako su im jednaki 
+realni i imaginarni dijelovi.
+Konjugirano kompleksni broj 
+broja  je broj
+
+. Modul 
+ili apsolutna vrijednost
+ kompleksnog
+broja  je nenegativni realni broj 
+. 
+
+
+Neka su 
+ i 
+ dva kompleksna broja. 
+Računske operacije su definirane na sljedeći način:
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+Zadatak  1.5    Dokažite da za 
+ vrijedi:
+  
+a)
+
+,
+  
+
+b)
+
+,
+  
+
+c)
+
+, za ,
+
+d)
+
+,
+
+e)
+
+,
+
+f)
+
+,
+
+g)
+
+,
+
+h)
+
+,
+
+i)
+
+,
+
+j)
+
+ (nejednakost trokuta).
+  
+
+
+
+
+Kompleksnom broju  jednoznačno je pridružen uređeni par 
+
+, odnosno točka  u ravnini, kao što se
+vidi na slici 1.2.
+
+
+
+
+Slika 1.2:
+Kompleksni broj
+
+
+
+
+Iz slike 1.2 se vidi zašto su formule za zbrajanje
+kompleksnih brojeva slične formulama za zbrajanje vektora, odnosno
+zašto se posebno zbrajaju realni, a posebno imaginarni dijelovi.
+
+
+ 
+
+Poglavlja
+
+Trigonometrijski oblik
+Eksponencijalni oblik
+
+
+
+
+
+
+
+
+ 
+Natrag: Apsolutna vrijednost  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Trigonometrijski oblik  
+
+
+
+

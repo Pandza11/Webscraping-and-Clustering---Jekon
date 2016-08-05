@@ -1,0 +1,193 @@
+
+
+
+
+Primjeri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Gaussova eliminacija  
+Gore: Gaussova eliminacija  
+Naprijed: Pivotiranje  
+
+
+
+
+
+Primjeri
+
+Sljedeći primjeri pokazuju tri slučaja koja se mogu dogoditi prilikom
+rješavanja sustava pomoću Gaussove 
+eliminacije.
+
+
+
+Primjer  2.1     Riješimo sustav
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Tada imamo
+
+
+
+
+
+
+   
+
+
+Iz ovog gornje trokutastog sustava lako vidimo da je 
+
+
+
+
+ 
+Sustav ima jedinstveno rješenje.
+Rješenje sustava geometrijski odgovara točki u kojoj se sijeku
+tri ravnine.
+
+
+Postupak rješavanja sustava opisan u poglavlju 2.4
+idealan je za računala. Kada sustav rješavamo ''ručno'', tada koristimo
+pojednostavljeno pisanje. Naime, zapisujemo samo proširene matrice
+  odgovarajućih sustava, a sa 
+strane naznačimo koje operacije na
+  retcima vršimo.  Pri tom operacije biramo tako da, ukoliko je
+  moguće, izbjegnemo razlomke.
+Sustav iz primjera 2.1 rješava se na sljedeći način:
+
+
+
+
+
+
+   
+
+
+
+Sljedeći primjer pokazuje kako izgleda trokutasti oblik kada imamo
+parametarska rješenja:
+
+Primjer  2.2   
+
+
+
+
+
+   
+
+
+Četvrti redak glasi , što je točno.
+Iz trećeg retka slijedi
+
+
+
+
+ 
+a iz drugog retka slijedi 
+
+
+
+
+ 
+Vrijednosti nezavisnih varijabli  i  dobijemo iz prvog
+retka,
+
+
+
+
+ 
+Sustav ima parametarsko rješenje, 
+odnosno beskonačno rješenja koja ovise o jednom parametru ,
+
+
+
+
+ 
+Primijetimo da smo mogli i  uzeti za parametar, odnosno
+
+
+
+
+ 
+je također oblik rješenja sustava.
+
+
+Sljedeći primjer pokazuje kako iz trokutastog oblika možemo 
+zaključiti da sustav nema rješenja.
+
+
+
+Primjer  2.3   
+
+
+
+
+
+   
+
+
+Četvrti redak glasi , što je nemoguće pa sustav nema rješenja.  
+
+
+Formalan opis slučajeva koji mogu nastati prilikom rješavanja sustava
+daje nam Kronecker-Capellijev teorem 2.5.  
+
+
+
+Napomena  2.1   U praksi se sustavi jednadžbi često rješavaju
+  koristeći računala, pri čemu dolazi do pogrešaka zaokruživanja kako
+  je opisano u poglavlju 1.7.1. Zbog toga se neka pitanja
+  vezana uz Kronecker-Capellijev teorem, kao što su utvrđivanje
+  linearne nezavisnosti skupa vektora (vidi poglavlje 2.5) i
+  određivanje ranga matrice (vidi poglavlje 2.6), ne mogu
+  riješiti numeričkim računanjem.
+
+
+
+
+
+
+
+
+ 
+Natrag: Gaussova eliminacija  
+Gore: Gaussova eliminacija  
+Naprijed: Pivotiranje  
+
+
+
+

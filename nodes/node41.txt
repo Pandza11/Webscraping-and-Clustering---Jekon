@@ -1,0 +1,197 @@
+
+
+
+
+Svojstva determinanti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Determinante  
+Gore: Determinante  
+Naprijed: Podmatrice i poddeterminante  
+
+
+
+
+
+Svojstva determinanti
+
+Navodimo najvažnija svojstva determinanti.
+ Dokazi nekih tvrdnji dani su u obliku
+uputa ili naznaka ili u vrlo sažetom obliku.
+
+D1.
+Determinanta trokutaste matrice 
+jednaka je produktu elemenata na dijagonali.
+
+Ako je  recimo gornje trokutasta matrica,  tada svi
+umnošci u (2.8),
+osim 
+, imaju barem jedan element iz
+donjeg trokuta pa su jednaki nula. Na primjer, za 
+jediničnu matricu vrijedi
+
+
+
+
+
+
+
+D2.
+
+.
+
+
+Jednakost vrijedi zbog formula (2.8) i (2.9).
+Iz ovog svojstva zaključujemo da sva svojstva koja ćemo navesti za
+retke vrijede i za stupce.
+
+D3.
+Zamjenom dvaju stupaca determinanta mijenja predznak.
+
+Zamjenom dvaju stupaca u svakom umnošku u formuli
+(2.8) dolazi do zamjene dvaju elemenata u permutaciji drugih
+indeksa pa se po teoremu 2.7 u svakom umnošku 
+parnost permutacije promijeni.
+
+D4.
+Determinanta matrice s dva jednaka stupca je nula.
+
+Svojstvo slijedi stoga što po svojstvu D3 zamjenom dvaju redaka
+determinanta mijenja predznak, a kako smo zamijenili iste retke
+determinanta se ne mijenja. Koji broj jedini ostaje isti kada
+promijeni predznak?
+
+D5.
+Determinanta je multilinearna funkcija svojih stupaca, odnosno
+
+
+
+
+ 
+Ovo svojstvo slijedi direktno iz formule (2.8).
+Posebno zaključujemo da za matricu  koja se dobije tako što
+se svi elementi nekog stupca matrice  pomnože s brojem 
+vrijedi 
+
+
+
+
+ 
+Također, ako matrica  ima nul-stupac, tada je .
+
+D6.
+Determinanta se ne mijenja ako jednom stupcu pribrojimo neki
+  drugi stupac pomnožen s nekim brojem.
+
+Po svojstvu D5 vrijedi
+
+
+
+
+
+
+
+
+   
+
+
+a po svojstvu D4 je druga determinanta na desnoj strani jednaka nula.
+
+
+
+D7.
+Za matrice 
+ vrijedi
+
+
+
+
+
+
+Na primjer, za regularnu matricu 
+
+
+
+
+ 
+povlači
+
+
+
+
+
+
+D8.
+Determinanta je različita od nule ako i samo ako su stupci
+    matrice linearno nezavisni, 
+    odnosno ako je matrica regularna.
+
+Ako je 
+, tada je jedan od stupaca linearna
+kombinacija ostalih pa ga, koristeći operacije iz svojstva D6, možemo
+poništiti. Tada je  po svojstvu D5.
+
+
+Obratno, ako je , tada matrica  mora biti singularna,
+odnosno 
+, jer bi u protivnom 
+
+povlačilo 
+.
+
+
+
+Napomena  2.3   Koristeći svojstva 
+D3, D5 i D6 lako možemo pratiti kako se determinanta mijenja kada
+vršimo elementarne transformacije na matrici -
+determinanta ili promijeni predznak ili se uveća za neki faktor ili
+ostane ista. Nakon što Gaussovom eliminacijom dobijemo trokutasti
+oblik, determinantu lako izračunamo po svojstvu D1.
+Napose, ako koristimo samo matrice transformacije  opisane u
+poglavlju 2.4, čija je determinanta jednaka jedan, tada je 
+determinanta polazne matrice jednaka determinanti trokutaste matrice.
+
+
+
+Zadatak  2.10   Izračunajte
+
+
+
+
+ 
+pomoću formule (2.9) i pomoću Gaussove eliminacije
+(vidi primjer 2.1).
+
+
+
+
+
+
+
+
+ 
+Natrag: Determinante  
+Gore: Determinante  
+Naprijed: Podmatrice i poddeterminante  
+
+
+
+

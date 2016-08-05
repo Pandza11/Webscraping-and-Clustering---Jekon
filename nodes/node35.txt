@@ -1,0 +1,95 @@
+
+
+
+
+Elementarne matrice transformacija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pivotiranje  
+Gore: Gaussova eliminacija  
+Naprijed: Linearna nezavisnost  
+
+
+
+
+
+Elementarne matrice transformacija
+
+U poglavlju 2.4 smo vidjeli kako je pribrajanje jednom
+retku nekog drugog retka pomnoženog nekim brojem ekvivalentno
+množenju s elementarnom matricom  s lijeva.
+No, i ostale operacije na retcima možemo interpretirati na sličan
+način. Neka je 
+. Tada produkt
+
+
+
+
+ 
+odgovara množenju drugog retka matrice  s brojem .
+Općenito, matrica  se od jedinične matrice razlikuje samo u
+jednom elementu i to 
+ i 
+.
+
+
+Na sličan način, pomoću produkta 
+
+
+
+
+ 
+vršimo zamjenu prvog i trećeg retka matrice .
+Općenito, matrica  se od jedinične matrice razlikuje samo 
+u četiri elementa i to 
+
+
+
+
+
+Matrica  se zove matrica permutacije. Ona je simetrična, 
+, i vrijedi  
+. Dakle, matrica  je regularna,
+a njena inverzna matrica je upravo  (vidi poglavlje
+2.8). 
+
+Zadatak  2.5    Neka je 
+.
+Na koji način možemo pomoću množenja matrice  elementarnim matricama
+trećem stupcu dodati trostruki prvi stupac;
+zamijeniti drugi i peti stupac;
+treći stupac pomnožiti s dva?
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pivotiranje  
+Gore: Gaussova eliminacija  
+Naprijed: Linearna nezavisnost  
+
+
+
+

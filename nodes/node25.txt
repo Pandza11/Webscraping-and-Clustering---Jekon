@@ -1,0 +1,79 @@
+
+
+
+
+Množenje matrice sa skalarom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Zbrajanje matrica  
+Gore: Matrice  
+Naprijed: Množenje matrica  
+
+
+
+
+
+Množenje matrice sa skalarom
+
+Matrica se množi s nekim skalarom (brojem) tako da se svaki element
+matrice pomnoži s tim brojem. Drugim riječima, elementi matrice
+
+ su 
+
+
+
+
+ 
+Svojstva ove operacije proizlaze direktno iz svojstava množenja brojeva:
+
+
+
+ 
+
+
+   
+
+ 
+
+
+(2.1)
+
+ 
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Zbrajanje matrica  
+Gore: Matrice  
+Naprijed: Množenje matrica  
+
+
+
+

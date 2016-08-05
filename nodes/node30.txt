@@ -1,0 +1,171 @@
+
+
+
+
+Matrični zapis sustava linearnih jednadžbi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Još o množenju  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Rješavanje trokutastih sustava  
+
+
+
+
+
+Matrični zapis sustava linearnih jednadžbi
+
+
+Sustav
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+možemo zapisati kao
+
+
+
+
+ 
+odnosno kao
+
+
+
+
+
+
+(2.4)
+
+
+pri čemu su matrice , 
+ i 
+ zadane s
+
+
+
+
+ 
+Istoznačnost ova dva zapisa slijedi iz definicije jednakosti matrica
+2.2.
+Matrica  se zove matrica sustava, 
+a vektor 
+ se zove
+slobodni vektor 
+ili vektor slobodnih članova. 
+Zbog jednostavnosti možemo izostaviti vektor 
+ jer se
+njegovo prisustvo podrazumijeva pa stoga često zapisujemo
+proširenu matricu sustava
+
+
+
+
+ 
+Slično, sustav u obliku
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+možemo zapisati kao
+
+
+
+
+ 
+gdje je  odgovarajuća 
+nul-matrica. 
+
+
+Sada možemo lako dokazati sljedeći teorem.
+
+Teorem  2.2   Ako su 
+ i 
+ različita rješenja sustava
+
+, tada je
+
+
+
+
+ 
+također rješenje tog sustava za svaki 
+.
+Dokaz. 
+Iz svojstava množenja matrica skalarom
+i množenja matrica slijedi
+
+
+
+
+ 
+pa je teorem dokazan.     Q.E.D.
+
+
+Ovaj teorem nam zapravo kaže da je uvijek ispunjen točno jedan od tri
+slučaja:
+
+
+sustav nema rješenje,
+
+sustav ima točno jedno rješenje,
+
+sustav ima beskonačno rješenja,
+
+
+kao što smo vidjeli u uvodu. 
+Detalje o tome kada nastupa koji od ovih slučajeva daje nam
+Kronecker-Capellijev teorem 2.5.
+
+
+
+
+
+
+
+
+ 
+Natrag: Još o množenju  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Rješavanje trokutastih sustava  
+
+
+
+

@@ -1,0 +1,172 @@
+
+
+
+
+Realni brojevi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Racionalni brojevi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Aritmetika računala  
+
+
+
+
+
+Realni brojevi
+
+
+U ovom poglavlju definirat ćemo skup realnih bojeva, navesti njegova
+osnovna svojstva, objasniti kako rade računala i definirati apsolutnu
+vrijednost realnog broja.
+
+
+Kada racionalne brojeve nanosimo na brojevni 
+pravac, budući je skup
+
+ gust, mogli bismo pomisliti da njegovi elementi prekrivaju čitavi
+pravac. To, međutim, nije istina. Nanesemo li na brojevni pravac
+dijagonalu kvadrata sa stranicom dužine jedan, dobit ćemo po
+Pitagorinom poučku broj .
+
+
+
+Teorem  1.8    
+.
+Dokaz. 
+Prvo uočimo da je kvadrat prirodnog broja  paran ako i samo ako je
+ paran: ako je  paran, tada je 
+ također
+paran, a ako je  neparan, tada je 
+
+neparan. 
+
+
+Teorem ćemo dokazati koristeći tehniku kontradikcije ili   protuslovlja. Naime, ako je 
+ i ako
+  pokažemo da je 
+, tada prema tablici istinitosti za
+  implikaciju iz poglavlja 1.1 slijedi 
+.
+
+
+Ako je (A) 
+, tada je (B) 
+, pri
+čemu su  i  relativno prosti, odnosno ne mogu se dalje skratiti.
+Međutim, tada je  pa je prema prvom dijelu dokaza  paran,
+odnosno . Iz 
+ slijedi  pa je  također
+paran. Dakle,  i  nisu relativno prosti pa je tvrdnja (B)
+neistinita. No, tada i tvrdnja (A) mora biti neistinita i teorem je 
+dokazan.
+    Q.E.D.
+
+
+
+Definicija  1.17    Iracionalni
+    brojevi su brojevi
+  koji se nalaze na brojevnom pravcu, a nisu elementi skupa 
+.
+ Skup realnih brojeva 
+
+
+je unija skupa racionalnih brojeva i skupa iracionalnih brojeva. 
+
+
+Računske operacije na skupu realnih brojeva definirane su na poznati
+način te za njih vrijede svojstva slično kao u teoremu 1.3. 
+
+
+Sljedeći teorem navodimo bez dokaza.
+
+
+
+Teorem  1.9    Vrijedi:
+
+(i)
+skup 
+ je gust, 
+  odnosno između svaka dva različita realna
+  broja postoji beskonačno realnih brojeva;
+
+(ii)
+skup 
+ je gust u skupu 
+, odnosno između svaka dva
+  različita realna broja postoji beskonačno racionalnih brojeva;
+
+(iii)
+skup 
+ je gust u skupu 
+, odnosno između svaka dva
+  različita racionalna broja postoji beskonačno realnih brojeva;
+
+(iv)
+skup 
+ je neprebrojiv;
+
+(v)
+elementi skupa 
+ prekrivaju čitavi brojevni 
+ pravac.
+
+
+
+
+Odnos između do sada opisanih skupova brojeva je sljedeći:
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+ 
+
+Poglavlja
+
+Aritmetika računala
+Apsolutna vrijednost
+
+
+
+
+
+
+
+
+ 
+Natrag: Racionalni brojevi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Aritmetika računala  
+
+
+
+

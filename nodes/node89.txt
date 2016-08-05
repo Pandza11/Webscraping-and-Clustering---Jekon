@@ -1,0 +1,130 @@
+
+
+
+
+Logaritamska funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalna funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Svojstva logaritama  
+
+
+
+
+
+Logaritamska funkcija
+
+
+Kako je  bijekcija, 
+logaritamsku funkciju definiramo kao
+inverznu funkciju eksponencijalne 
+funkcije (vidi slike 4.25
+i 4.26): 
+
+
+
+
+
+Posebno se koriste   Briggsovi
+  
+ili dekadski
+  
+logaritmi s bazom 10,
+
+
+
+
+
+
+i prirodni
+logaritmi s bazom ,
+
+
+
+
+
+
+ je kratica od logaritam naturalis.
+
+
+
+
+Slika 4.25:
+Funkcija 
+
+
+
+
+
+
+
+Slika 4.26:
+Funkcija 
+
+
+
+
+Zbog svojstava inverznih funkcija vrijedi (teorem 1.1)
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+Zadatak  4.9   Nacrtajte funkcije 
+ i 
+.
+
+
+ 
+
+Poglavlja
+
+Svojstva logaritama
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalna funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Svojstva logaritama  
+
+
+
+

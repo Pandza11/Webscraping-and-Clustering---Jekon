@@ -1,0 +1,99 @@
+
+
+
+
+Još o množenju matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Transponirana matrica  
+Gore: Matrice  
+Naprijed: Matrični zapis sustava  
+
+
+
+
+Još o množenju matrica
+
+Formula (2.2) zapravo znači da se matrice množe na sljedeći
+način:
+
+
+
+
+
+
+   
+
+
+No, množenje matrica se može interpretirati na još dva načina:
+
+
+
+
+
+
+   
+
+
+i
+
+
+
+
+
+
+   
+
+
+
+
+Zadatak  2.1   Izračunajte umnožak 
+
+
+
+
+
+na sva tri opisana načina.
+
+
+
+Zadatak  2.2     Napišite programe za množenje matrica na ova tri načina u
+  programskom jeziku Matlab. Pri tome možete koristiti program 
+  Octave On-line. 
+
+Programe možete napisati i u nekom drugom programskom jeziku 
+  (basic, pascal, c, c++, FORTRAN ili java).
+  Postoji li još mogućih interpretacija matričnog množenja?
+
+
+
+
+
+
+
+
+ 
+Natrag: Transponirana matrica  
+Gore: Matrice  
+Naprijed: Matrični zapis sustava  
+
+
+
+

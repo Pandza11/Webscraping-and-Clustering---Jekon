@@ -1,0 +1,182 @@
+
+
+
+
+Funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Uređeni skupovi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Teorem o inverznoj  
+
+
+
+
+
+Funkcije
+
+
+U ovom poglavlju dat ćemo osnovne pojmove vezane uz funkcije i
+klasifikaciju funkcija, dokazati važan teorem o inverznoj
+funkciji te definirati ekvipotentnost skupova i beskonačne skupove.
+
+
+
+Definicija  1.7   Funkcija ili 
+preslikavanje 
+iz skupa  u skup  je
+svako pravilo  po kojemu se elementu  pridružuje
+jedinstveni element . Koristimo oznake
+
+
+
+
+ 
+Skup  je područje 
+definicije
+ ili domena funkcije , 
+skup  je 
+područje vrijednosti 
+ili kodomena funkcije
+,  je nezavisna varijabla ili 
+argument 
+funkcije ,
+a  je zavisna varijabla 
+funkcije . 
+Skup svih vrijednosti nezavisne varijable  za koje je funkcija
+doista definirana još označavamo s , a skup svih vrijednosti koje
+poprima zavisna varijabla označavamo s  i zovemo slika
+  funkcije, 
+
+
+
+
+ 
+
+
+Nakon što smo definirali novi matematički objekt, u ovom slučaju
+funkciju, potrebno je definirati kada su dva objekta jednaka.
+
+
+
+Definicija  1.8    Funkcije  i  su jednake, 
+odnosno , ako vrijedi
+
+
+
+
+ 
+
+
+Na primjer, funkcije  i 
+ nisu jednake
+jer je 
+, dok je 
+.
+
+
+
+Definicija  1.9   Kompozicija 
+funkcija  i , gdje je 
+
+, je funkcija  definirana s
+
+. Još koristimo oznaku 
+.
+
+
+Kompozicija funkcija je asocijativna, odnosno
+
+
+
+
+ 
+Zaista, za proizvoljni  za koji je kompozicija definirana vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+pa tvrdnja slijedi iz definicije jednakosti funkcija 1.8.
+
+
+
+Definicija  1.10   Ako je 
+ i  za svaki
+, funkcija  je 
+restrikcija
+ ili 
+suženje
+funkcije , a funkcija  je 
+ekstenzija
+ ili
+proširenje funkcije .
+
+
+Na primjer, funkcija 
+ je restrikcija funkcije 
+ na skup 
+, odnosno 
+,
+a funkcija  je ekstenzija funkcije .
+Primijetimo da je restrikcija uvijek jedinstvena, dok ekstenzija to
+nije. Tako je u ovom slučaju i funkcija 
+
+definirana s
+
+
+
+
+ 
+jedna od beskonačno mogućih ekstenzija funkcije . 
+
+
+ 
+
+Poglavlja
+
+Teorem o inverznoj funkciji
+Ekvipotencija i beskonačni skupovi
+
+
+
+
+
+
+
+
+ 
+Natrag: Uređeni skupovi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Teorem o inverznoj  
+
+
+
+

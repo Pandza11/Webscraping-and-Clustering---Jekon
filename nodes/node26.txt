@@ -1,0 +1,200 @@
+
+
+
+
+Množenje matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Množenje matrice sa  
+Gore: Matrice  
+Naprijed: Nul-matrica i jedinična  
+
+
+
+
+Množenje matrica
+
+Definicija množenja matrica je na prvi pogled neobična, ali upravo nam
+ona omogućava jednostvno zapisivanje sustava linearnih jednadžbi.
+
+
+Matrice  i  možemo pomnožiti samo ako su ulančane, odnosno
+ako  ima onoliko stupaca koliko  ima redaka. Matrica 
+ ima redaka koliko  i stupaca koliko .
+Neka je, dakle,  tipa  i  tipa . 
+Tada je matrica  tipa  i vrijedi
+
+
+
+
+
+
+(2.2)
+
+
+Element  umnoška 
+
+
+
+
+ 
+nalazi se tako da stavite lijevi kažiprst na 
+ a desni na  i kažete ''puta''.
+Tada pomičete kažiprste prema  i  govoreći ''plus''
+dok se kažiprsti pomiču i ''puta'' kada stignu na cilj.
+Nastavite li na taj način izračunat ćete 
+
+
+
+
+
+što je upravo element  produkta.   
+
+
+Na primjer,
+
+
+
+
+ 
+Uočimo da množenje u obrnutom poretku nije 
+definirano stoga što matrice nisu ulančane.
+U sljedećem primjeru su oba množenja definirana, ali umnošci 
+nisu istog tipa:
+
+
+
+
+
+
+   
+
+
+U sljedećem primjeru su umnošci  i  istog tipa,
+ali nisu jednaki:
+
+
+
+
+
+
+   
+
+
+U ovom primjeru su, pak, oba umnoška jednaka:
+
+
+
+
+ 
+Iz prethodnih primjera zaključujemo kako, za razliku od množenja brojeva, 
+
+množenje matrica općenito nije komutativno.
+
+Budite oprezni, jer se ova činjenica lako zaboravi kada se manipulira s
+formulama koje sadrže matrice.
+
+
+
+Teorem  2.1   [Svojstva množenja matrica]Za proizvoljne matrice ,  i  i broj , ukoliko su
+svi umnošci definirani vrijedi:
+
+(i)
+
+ (asocijativnost),
+
+(ii)
+
+ (distributivnost),
+
+(iii)
+
+ (distributivnost),
+
+(iv)
+
+.
+
+
+Primijetimo da zbog općenite nekomutativnosti množenja matrica, moramo
+posebno navesti distributivnost prema množenju slijeva i zdesna. 
+
+Dokaz. 
+(i) neka je  tipa ,  tipa  i 
+tipa . Tada je  tipa , a 
+je tipa . Za proizvoljni element matrice 
+vrijedi:
+
+
+
+
+
+
+   
+
+ 
+   raspišemo sumu
+
+   
+
+ 
+   zamijenimo redoslijed zbrajanja
+
+   
+
+ 
+   grupiramo pribrojnike na drugi način
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Ostale tvrdnje dokazuju se slično.     Q.E.D.
+
+
+
+
+
+
+
+
+ 
+Natrag: Množenje matrice sa  
+Gore: Matrice  
+Naprijed: Nul-matrica i jedinična  
+
+
+
+

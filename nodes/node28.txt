@@ -1,0 +1,97 @@
+
+
+
+
+Transponirana matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Nul-matrica i jedinična  
+Gore: Matrice  
+Naprijed: Još o množenju  
+
+
+
+
+Transponirana matrica
+
+Uvedimo još jedan novi pojam.
+Transponirana matrica
+ matrice  je matrica  
+koja je definirana sa 
+
+
+
+
+ 
+Dakle, ako je  tipa  tada je  tipa . 
+Na primjer,
+
+
+
+
+ 
+dok je
+
+
+
+
+ 
+Očito je . Transponiranje se lijepo uklapa u ostale
+operacije s matricama:
+
+
+
+
+
+
+   
+
+
+
+
+(2.3)
+
+
+
+
+   
+
+
+Matrica za koju je  je simetrična
+  matrica. 
+Zbog očite simetrije u prirodi, simetrične matrice su česte u
+primjenama.
+
+
+
+
+
+
+
+
+ 
+Natrag: Nul-matrica i jedinična  
+Gore: Matrice  
+Naprijed: Još o množenju  
+
+
+
+

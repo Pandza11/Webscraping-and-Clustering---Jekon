@@ -1,0 +1,92 @@
+
+
+
+
+Laplaceov razvoj determinante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Podmatrice i poddeterminante  
+Gore: Determinante  
+Naprijed: Računanje inverzne matrice  
+
+
+
+
+
+Laplaceov razvoj determinante
+
+
+Neka  označava determinantu podmatrice koja se dobije kada iz
+kvadratne matrice  ispustimo -ti redak i -ti stupac.
+Algebarski komplement
+ili kofaktor 
+elementa  je
+broj
+
+
+
+
+ 
+Ako pribrojnike u formulama (2.8) ili
+(2.9) grupiramo po elementima koji se nalaze u -tom retku
+dobijemo  
+Laplaceov razvoj determinante
+
+ po elementima -tog retka,
+
+
+
+
+ 
+Slično, ako pribrojnike grupiramo po elementima koji se nalaze u
+-tom stupcu, tada dobijemo razvoj determinante po elementima
+-tog stupca,
+
+
+
+
+
+
+Na primjer, koristeći svojstva determinanti i Laplaceov razvoj imamo
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Podmatrice i poddeterminante  
+Gore: Determinante  
+Naprijed: Računanje inverzne matrice  
+
+
+
+

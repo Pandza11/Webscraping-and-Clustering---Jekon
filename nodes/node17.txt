@@ -1,0 +1,142 @@
+
+
+
+
+Aritmetika računala
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Realni brojevi  
+Gore: Realni brojevi  
+Naprijed: Apsolutna vrijednost  
+
+
+
+
+
+Aritmetika računala
+
+Broj  ima beskonačni neperiodični decimalni zapis pa ga ne
+možemo zapisati ni kao decimalni broj, niti kao razlomak. 
+Slično, broj
+
+ ima beskonačni periodični
+decimalni zapis pa ga ne možemo zapisati kao decimalni broj, 
+ali ga možemo zapisati kao razlomak. 
+Zbog konačne memorije, računala
+za prikazivanje brojeva i računanje koriste jedan
+diskretni podskup skupa 
+, tako da osnovni matematički
+zakoni asocijacije i distribucije iz teorema 1.3
+ne vrijede.
+
+
+Princip rada računala ilustrirat ćemo na jednostavnom primjeru.
+Zamislimo računalo koje za pohranjivanje brojeva i računanje 
+raspolaže s tri decimalna mjesta, s tim što se decimalna točka
+može pomicati,
+
+
+
+
+ 
+U ovakvom računalu možemo prikazati brojeve
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Skup brojeva koje možemo prikazati je očito diskretan jer, na
+primjer, ne možemo prikazati niti jedan broj između  i  kao
+niti između  i . No, za razliku od skupova 
+ i 
+
+gdje su razmaci između elemenata konstantni, ovdje se duljina
+razmaka mijenja. U ovakvom računalu asocijativnost ne vrijedi, jer je
+
+
+
+
+ 
+dok je
+
+
+
+
+ 
+U odnosu na točan rezultat 201.2, pogreška 
+u prvom slučaju iznosi 0.6%,
+dok u drugom slučaju iznosi 0.1%.
+Rezultat je točniji ako se prvo zbrajaju brojevi koji su bliže nuli,
+što je općenito pravilo koje vrijedi za svako računalo. Ovakvo
+računalo može, naravno, dati i točan rezultat
+
+. 
+
+
+Princip rada svih računala je isti, s time što stvarna 
+računala uglavnom raspolažu s 16 decimalnih mjesta. Na taj se način
+osigurava mala pogreška s kojom se mogu kvalitetno vršiti željeni
+proračuni.
+
+
+
+
+
+
+
+
+ 
+Natrag: Realni brojevi  
+Gore: Realni brojevi  
+Naprijed: Apsolutna vrijednost  
+
+
+
+

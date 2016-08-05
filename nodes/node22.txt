@@ -1,0 +1,149 @@
+
+
+
+
+LINEARNA ALGEBRA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalni oblik  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Matrice  
+
+
+
+
+
+LINEARNA ALGEBRA
+
+
+U ovoj glavi definirat ćemo pojam sustava linearnih jednadžbi i
+opisati postupak za njihovo rješavanje. Postupak se temelji na
+primjenama matričnog računa, tako da ćemo dati i osnovne pojmove o
+matricama i determinantama te operacijama s njima.
+Dok se većina studenata već susrela s problemom rješavanja sustava
+linearnih jednadžbi, korištenje
+matrica
+ je za većinu novost.
+
+
+Pojam ''linearnih'' znači da se u jednadžbama nepoznanice pojavljuju
+samo na prvu potenciju i da se ne pojavljuju umnošci nepoznanica.
+Za razliku od sustava nelinearnih jednadžbi, za takve je sustave lako 
+ustanoviti da li su rješivi te ako jesu,
+riješiti ih.
+
+
+Rješenje sustava od  jednadžbi s  nepoznanice odgovara
+nalaženju sjecišta  pravaca u ravnini. Očito vrijedi sljedeće:
+
+
+ pravaca se može sjeći u jednoj točki - pripadajući sustav
+  ima točno jedno rješenje. Na primjer, sustav
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+ima rješenje u točki 
+ (slika 2.1).
+
+ pravaca može ležati na istom pravcu - pripadajući sustav
+  ima beskonačno rješenja;
+
+ako ni prvi ni drugi slučaj ne vrijede, tada sustav nema
+  rješenje.
+
+
+U poznatom Kronecker-Capellijevom teoremu
+2.5 vidjet ćemo da su ova tri slučaja jedina moguća i
+to za proizvoljni broj nepoznanica i jednadžbi. 
+
+
+
+
+Slika 2.1:
+Pravci koji se sijeku
+
+
+
+
+ 
+
+Poglavlja
+
+Matrice
+
+Zbrajanje matrica
+Množenje matrice sa skalarom
+Množenje matrica
+Nul-matrica i jedinična matrica
+Transponirana matrica
+Još o množenju matrica
+
+
+Matrični zapis sustava linearnih jednadžbi
+Rješavanje trokutastih sustava
+Gaussova eliminacija
+
+Primjeri
+Pivotiranje
+Elementarne matrice transformacija
+
+
+Linearna nezavisnost
+Rang matrice
+Kronecker-Capellijev teorem
+Inverzna matrica
+Determinante
+
+Svojstva determinanti
+Podmatrice i poddeterminante
+Laplaceov razvoj determinante
+Računanje inverzne matrice
+Cramerovo pravilo
+
+
+Rješavanje električne mreže
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksponencijalni oblik  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Matrice  
+
+
+
+

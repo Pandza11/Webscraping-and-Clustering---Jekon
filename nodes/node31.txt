@@ -1,0 +1,226 @@
+
+
+
+
+Rješavanje trokutastih sustava
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Matrični zapis sustava  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Gaussova eliminacija  
+
+
+
+
+
+Rješavanje trokutastih sustava
+
+Matrica  je gornje trokutasta ako
+
+
+
+
+ 
+Drugim riječima, svi elementi koji leže ispod
+dijagonale su nula.
+Primjer gornje trokutaste matrice reda pet je
+
+
+
+
+ 
+Slično, matrica  je donje trokutasta ako
+
+
+
+
+ 
+odnosno elementi iznad dijagonale su nula.
+
+
+
+Teorem  2.3   Ako su svi dijagonalni elementi kvadratne gornje trokutaste matrice 
+različiti od nule, tada sustav 
+ ima jedinstveno
+rješenje.  
+Dokaz. 
+Ilustrirajmo prvo rješavanje sustava za . Prvo napišimo sustav u
+skalarnom obliku
+
+
+
+
+ 
+
+   
+
+
+ 
+
+   
+
+
+
+   
+
+
+
+   
+
+
+
+   
+
+
+Peta jednadžba sadrži samo nepoznanicu  i možemo je riješiti
+odmah:
+
+
+
+
+ 
+Dobivenu vrijednost od  možemo uvrstiti u četvrtu
+jednadžbu koju potom riješimo i dobijemo 
+
+
+
+
+ 
+Uvrštavanjem  i  u treću jednadžbu te rješavanjem te
+jednadžbe  dobijemo
+
+
+
+
+ 
+Nastavljajući ovim postupkom dobijemo
+
+
+
+
+ 
+i
+
+
+
+
+ 
+Kako su po pretpostavci dijagonalni elementi  različiti od
+nule, ove formule jednoznačno određuju .   
+Ovaj postupak se očito može izvesti za proizvoljnu dimenziju  pa
+je teorem dokazan.     Q.E.D.
+
+
+Ovaj postupak se jednostavno može izvršiti na računalu.
+Odgovarajući program u programskom jeziku C glasi
+
+
+ 
+    for (i=n;i>=1;i--){ 
+       for (j=n;j>i;j--)
+          b[i]=b[i]-u[i][j]*b[j];
+       b[i]=b[i]/u[i][i];
+    }
+
+Nakon završetka programa, rješenje 
+ se nalazi na mjestu gdje
+se na početku nalazio vektor 
+.
+
+
+Program za rješavanje gornje trokutastog sustava u programskom jeziku 
+Matlab izgleda nešto jednostavnije:
+
+
+
+    for i=n:-1:1
+       for j=n:-1:i+1
+          b(i)=b(i)-u(i,j)*b(j)
+       end
+       b(i)=b(i)/u(i,i)
+    end
+
+
+Isti program u programskom jeziku FORTRAN, ovaj put 
+napisan korištenjem uzlazne petlje, izgleda ovako:
+
+
+
+    do k=1,n
+       i=n-k+1
+       do j=i+1,n
+          b(i)=b(i)-u(i,j)*b(j)
+       enddo
+       b(i)=b(i)/u(i,i)
+    enddo
+
+
+Broj računskih operacija potrebnih za rješavanje gornje trokutastog
+sustava iznosi
+
+
+
+
+ 
+Na modernim računalima (Pentium 350), koja izvršavaju do  milijuna
+operacija u sekundi, rješavanje trokutastog sustava dimenzije 
+traje oko  sekunde.
+
+
+Postupak za rješavanje donje trokutastog sustava 
+ je
+sličan i dan je u sljedećem Matlab programu:
+
+
+
+    for i=1:n
+       for j=i+1:n
+          b(i)=b(i)-l(i,j)*b(j)
+       end
+       b(i)=b(i)/l(i,i)
+    end
+
+
+Kako se trokutasti sustavi lako rješavaju, rješenje općeg
+(netrokutastog) sustava dobijemo tako da pomoću Gaussove eliminacije
+zadani sustav svedemo na trokutasti oblik.
+
+
+
+Zadatak  2.3   Zadajte nekoliko gornje i donje trokutastih sustava i riješite ih 
+  pomoću opisanih Matlab programa. Pri tome možete koristiti program 
+  Octave On-line.  
+
+
+
+
+
+
+
+
+ 
+Natrag: Matrični zapis sustava  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Gaussova eliminacija  
+
+
+
+

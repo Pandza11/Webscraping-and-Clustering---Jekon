@@ -1,0 +1,148 @@
+
+
+
+
+Teorem o inverznoj funkciji
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Funkcije  
+Gore: Funkcije  
+Naprijed: Ekvipotencija i beskonačni  
+
+
+
+
+
+Teorem o inverznoj funkciji
+
+
+Prvo ćemo definirati neke klase funkcija.
+
+
+
+Definicija  1.11   Funkcija  je:
+
+
+surjekcija 
+ili preslikavanje na ako je ;
+
+injekcija ili 
+1-1 preslikavanje ako 
+ 
+ za sve 
+; 
+
+bijekcija ili 
+obostrano jednoznačno 
+preslikavanje 
+ako je surjekcija i injekcija. 
+
+
+
+
+Jedan primjer bijekcije je identiteta, 
+odnosno funkcija
+
+ definirana s  za svaki . 
+
+
+
+Teorem  1.1   Funkcija , gdje je , je bijekcija ako i samo 
+ako postoji funkcija
+ takva da je 
+ i 
+, gdje su 
+i  odgovarajuće identitete. Funkcija  je jedinstvena, a zove
+se inverzna funkcija 
+funkcije  
+i označava s . 
+Dokaz. 
+Potrebno je dokazati oba smjera tvrdnje teorema. 
+Neka je  bijekcija. Potrebno je konstruirati funkciju  s
+traženim svojstvima. Definicija 1.11 povlači 
+
+
+
+
+ 
+Stoga možemo definirati funkciju  pravilom
+
+
+
+
+ 
+Za svaki  vrijedi 
+ pa je 
+. 
+Slično, za svaki  vrijedi 
+ pa je 
+
+ i prvi smjer je dokazan.
+
+
+Dokažimo drugi smjer tvrdnje teorema. Neka postoji funkcija  s
+traženim svojstvima. Potrebno je pokazati da je  bijekcija.
+Odaberimo proizvoljni . Neka je . Svojstva funkcije
+ povlače
+
+
+
+
+ 
+Zaključujemo da je svaki element  slika nekog elementa
+ pa je  surjekcija. Dokažimo da je  injekcija. 
+Zaista, ako je 
+, tada je
+
+
+
+
+ 
+Dakle,  je bijekcija te smo dokazali i drugi smjer tvrdnje
+teorema.
+
+
+Na kraju dokažimo jedinstvenost funkcije . Pretpostavimo da postoje
+dvije funkcije s traženim svojstvima,  i . Za svaki 
+vrijedi
+
+
+
+
+ 
+pa je  prema definiciji 1.8.
+    Q.E.D.
+
+
+
+
+
+
+
+
+ 
+Natrag: Funkcije  
+Gore: Funkcije  
+Naprijed: Ekvipotencija i beskonačni  
+
+
+
+

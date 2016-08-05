@@ -1,0 +1,231 @@
+
+
+
+
+Determinante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Inverzna matrica  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Svojstva determinanti  
+
+
+
+
+
+Determinante
+
+
+Za definiciju determinante potreban nam je pojam permutacije.
+Permutacija 
+brojeva 
+ je svaka uređena -torka
+
+ u kojoj se svaki od brojeva 
+
+javlja točno jedanput. Brojevi  i  su u
+inverziji  ako je 
+ i . Permutacija je parna ako je broj inverzija u
+njoj paran, a neparna inače. Sljedeća tablica prikazuje
+sve permutacije brojeva , broj inverzija i parnost:
+
+
+permutacija
+# inverzija
+parnost
+
+(1,2,3)
+0
+parna
+
+(1,3,2)
+1
+neparna
+
+(2,1,3)
+1
+neparna
+
+(2,3,1)
+2
+parna
+
+(3,1,2)
+2
+parna
+
+(3,2,1)
+3
+neparna
+
+
+
+Vidimo da je pola permutacija parno, a pola neparno. To vrijedi za
+svaki . 
+
+
+
+Teorem  2.7    Vrijedi sljedeće:
+
+(i)
+broj permutacija od  brojeva jednak je
+
+
+
+
+
+
+(ii)
+ako u permutaciji 
+ zamijenimo mjesta
+brojevima  i , , parnost će se promijeniti.
+
+
+Dokaz. 
+
+(i)
+Prvo mjesto u permutaciji možemo popuniti s  brojeva, a drugo
+mjesto u permutaciji možemo popuniti s preostalih  brojeva. 
+To znači da prva dva mjesta možemo popuniti na  različitih
+načina pa prvu tvrdnju možemo dokazati indukcijom.
+
+(ii)
+Ako dva susjedna elementa zamijene mjesta,
+tada se parnost promijeni. Pretpostavimo sada da je , odnosno 
+ i  nisu susjedi. Tada  možemo prebaciti na -tu
+poziciji s  zamjena susjednih elemenata udesno. Pri tome su se svi
+elementi 
+ pomakli za jedno mjesto ulijevo.
+Sada pomoću  zamjena susjednih elemenata ulijevo prebacimo
+element  s pozicije  na poziciju . Pri tome se ostali
+elementi 
+ vrate na svoja originalna mjesta,
+a  i  su zamijenili mjesta. 
+Ukupno smo izvršili , dakle neparni broj zamjena susjednih 
+elemenata pa se parnost promijenila. Q.E.D.
+
+
+
+
+
+Zadatak  2.8   Odredite parnost permutacije 
+, a zatim zamijenite
+   i  na način koji je opisan u dokazu teorema 
+  2.7.  
+
+
+Sada možemo definirati determinantu.
+
+
+
+Definicija  2.6   Determinanta 
+matrice 
+ je broj
+
+
+
+
+
+
+(2.8)
+
+
+pri čemu je  skup svih permutacija 
+, 
+a  je broj inverzija u permutaciji .
+
+
+Determinantu matrice  još označavamo s . Na primjer,
+
+
+
+
+ 
+i
+
+
+
+
+
+
+   
+
+
+Formulu za determinantu matrice  jednostavnije pamtimo
+pomoću  Sarrusovog pravila. 
+
+
+Za izračunavanje formule (2.8) potrebno je 
+množenja  i  zbrajanja, što je praktično neizvedivo za veliki
+. U poglavlju 2.9.1 ćemo vidjeti kako se determinante
+efikasno računaju pomoću Gaussove eliminacije.
+
+
+Svaki umnožak u  formuli (2.8) ima točno jedan
+element iz svakog retka i svakog stupca, pri čemu  su indeksi redaka
+navedeni u osnovnoj permutaciji 
+.
+No, svaki umnožak možemo zapisati i tako da indeksi stupaca budu u
+osnovnoj permutaciji. Indeksi redaka tada stoje u inverznoj
+permutaciji permutacije . Može se pokazati da inverzna
+permutacija ima istu parnost kao i .
+Stoga vrijedi
+
+
+
+
+
+
+(2.9)
+
+
+
+
+Zadatak  2.9   Izračunajte determinantu matrice  prema formuli 
+(2.9) i usporedite s izrazom (2.9) kojeg smo
+dobili prema formuli (2.8).
+
+
+ 
+
+Poglavlja
+
+Svojstva determinanti
+Podmatrice i poddeterminante
+Laplaceov razvoj determinante
+Računanje inverzne matrice
+Cramerovo pravilo
+
+
+
+
+
+
+
+
+ 
+Natrag: Inverzna matrica  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Svojstva determinanti  
+
+
+
+

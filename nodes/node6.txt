@@ -1,0 +1,207 @@
+
+
+
+
+Uređeni skupovi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Binarne relacije  
+Gore: Binarne relacije  
+Naprijed: Funkcije  
+
+
+
+
+
+Uređeni skupovi
+
+
+U ovom poglavlju definirat ćemo relaciju parcijalnog uređaja i uređeni
+skup te pojmove kao što su gornja međa, donja međa, infimum,
+supremum, minimum i maksimum. Izreku
+
+ kraće ćemo zapisati kao 
+
+.
+
+
+
+Definicija  1.5    Relacija parcijalnog uređaja  na skupu 
+
+
+ je
+    svaka binarna relacija na skupu  koje je refleksivna, tranzitivna i
+    anti-simetrična, 
+    odnosno 
+
+
+
+
+ 
+Ako je  i , pišemo . Također,  možemo
+pisati i kao .
+Ako su, dodatno, svaka dva elementa skupa  u relaciji, odnosno
+
+ vrijedi 
+, tada je 
+relacija potpunog uređaja, a 
+ je uređen skup.  
+
+
+Na primjer, skup ljudi je potpuno uređen s relacijom 
+koju definiramo kao
+
+
+
+
+ 
+Naravno, skupovi 
+, 
+, 
+ i 
+ su potpuno uređeni
+sa standardnom relacijom uređaja . Ako je  uređen
+skup, zatvoreni interval definiramo kao
+
+
+
+
+ 
+a otvoreni interval definiramo kao
+
+
+
+
+ 
+Slično definiramo i poluotvorene 
+intervale, 
+ i , kao i
+skupove tipa 
+.
+
+
+
+Definicija  1.6   Neka je  uređen skup i  neprazan podskup od .
+
+(i)
+Element  je donja međa skupa  
+ako 
+
+ vrijedi . Skup  je 
+omeđen odozdo
+ako ima barem jednu donju među. 
+Najveća donja međa ili infimum 
+skupa  je element
+
+ sa svojstvima:
+
+
+ je donja međa od ;
+
+za svaku donju među  skupa  vrijedi 
+.
+
+
+Najmanji element ili minimum 
+skupa  je element
+
+ koji je ujedno i donja međa skupa .
+
+
+
+(ii)
+Element  je gornja međa skupa 
+
+ ako 
+
+ vrijedi . Skup  je 
+omeđen odozgo
+ako ima barem jednu gornju među. 
+Najmanja gornja međa ili supremum
+ skupa  je element
+
+ sa svojstvima:
+
+
+ je gornja međa od ;
+
+za svaku gornju među  skupa  vrijedi 
+.
+
+
+Najveći element ili maksimum 
+skupa  je element
+
+ koji je ujedno i gornja međa skupa .
+
+
+
+
+Neka je, na primjer 
+ i 
+.
+Donje međe skupa  su brojevi  i .
+Najveća donja međa je , a kako je , to je i 
+. Nadalje, gornje međe skupa  su brojevi
+
+, a 
+.
+
+
+Razliku između infimuma i minimuma možemo ilustrirati na skupu realnih
+brojeva. Neka je, dakle, 
+ i 
+.
+Donje međe skupa  su svi brojevi manji ili jednaki četiri,
+pa je , dok  nema minimum. S druge strane, gornje međe
+skupa  su svi brojevi veći ili jednaki osam i vrijedi
+
+.
+
+
+Primijetimo da su infimum, supremum, minimum i maksimum  
+jedinstveni (ukoliko postoje).
+Zaista, neka je 
+ i 
+. Prema definiciji
+1.6, elementi  i  su također donje međe skupa ,
+odnosno 
+
+
+
+
+ 
+pa iz definicije 1.5 slijedi .
+
+
+
+
+
+
+
+
+ 
+Natrag: Binarne relacije  
+Gore: Binarne relacije  
+Naprijed: Funkcije  
+
+
+
+

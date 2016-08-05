@@ -1,0 +1,81 @@
+
+
+
+
+Ekvipotencija i beskonačni skupovi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Teorem o inverznoj  
+Gore: Funkcije  
+Naprijed: Prirodni brojevi  
+
+
+
+
+
+Ekvipotencija i beskonačni skupovi
+
+
+Zbog svojstava bijekcije prirodna je sljedeća definicija:
+skupovi  i  su ekvipotentni, 
+odnosno imaju jednako mnogo
+elemenata, ako postoji bijekcija između ta dva skupa.
+
+
+Ekvipotencija je očito 
+relacija ekvivalencije na skupovima. 
+Klasa ekvivalencije kojoj pripada skup  zove se kardinalni
+  broj skupa  
+i označava s 
+.
+
+
+
+Definicija  1.12   Skup  je beskonačan, 
+odnosno ima beskonačno mnogo elemenata,
+ako je ekvipotentan sa svojim pravim podskupom.
+Skup  je konačan ako nije beskonačan.
+
+
+Na primjer, skup prirodnih brojeva 
+ je beskonačan, jer je
+funkcija  bijekcija između skupa prirodnih brojeva i skupa
+svih parnih brojeva.
+Dakle, zanimljivo je da parnih brojeva ima jednako mnogo kao i svih
+prirodnih brojeva. To očito ne vrijedi samo za parne brojeve;
+i skup svih brojeva koji su djeljivi s tisuću također ima jednako mnogo
+elemenata kao i skup 
+.
+
+
+
+
+
+
+
+
+ 
+Natrag: Teorem o inverznoj  
+Gore: Funkcije  
+Naprijed: Prirodni brojevi  
+
+
+
+

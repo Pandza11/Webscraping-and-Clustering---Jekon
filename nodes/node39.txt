@@ -1,0 +1,215 @@
+
+
+
+
+Inverzna matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kronecker-Capellijev teorem  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Determinante  
+
+
+
+
+
+Inverzna matrica
+
+
+
+Kod množenja realnih brojeva svaki broj različit od nule ima svoj
+inverz, odnosno
+
+
+
+
+ 
+U skupu kvadratnih matrica 
+ imamo sljedeću definiciju.
+
+Definicija  2.5   Matrica 
+ je regularna (invertibilna,
+nesingularna)
+
+
+ ako postoji matrica 
+ za koju
+vrijedi
+
+
+
+
+ 
+Matrica je singularna ako nije 
+regularna.  
+
+
+Matrica  je, ukoliko postoji, jedinstvena. Tu tvrdnju dokazujemo
+na sljedeći način: pretpostavimo da
+je  neka druga matrica za koju vrijedi . Tada je
+
+
+
+
+ 
+Stoga možemo uvesti oznaku . Matrica  zove se 
+inverzna matrica matrice . Dakle, za svaku regularnu matricu
+vrijedi
+
+
+
+
+
+
+(2.7)
+
+
+
+Kao što kod brojeva broj nula nema inverz, postavlja se pitanje da li
+su sve kvadratne matrice regularne. Odgovor na to pitanje daje
+sljedeći teorem.
+
+Teorem  2.6    Matrica 
+ je regularna 
+ako i samo ako je 
+.
+Dokaz. 
+Neka je 
+ i neka 
+ označava -ti stupac
+jedinične matrice. Po Kronecker-Capellijevom teoremu 2.5 svaki
+od sustava 
+ ima jedinstveno rješenje.
+Neka je 
+
+
+
+
+ 
+Tada je očito . Slično, 
+ povlači da svaki od
+sustava 
+ ima jedinstveno rješenje.
+Ako stavimo 
+
+
+
+
+ 
+tada je očito , odnosno . Sada imamo
+
+
+
+
+ 
+pa je 
+, odnosno  je regularna.
+
+
+Obratno, neka je  regularna. Pretpostavimo da teorem ne
+vrijedi, odnosno 
+. Kako su stupci od  zavisni,
+zaključujemo da postoji vektor 
+ takav da je 
+
+. No iz 
+ slijedi da
+je 
+, što je kontradikcija.
+    Q.E.D.
+
+
+Skup 
+ svih regularnih matrica ima sljedeća svojstva:
+
+(i)
+
+,
+
+(ii)
+
+,
+
+(iii)
+
+ za 
+,
+
+(iv)
+
+ za 
+.
+
+
+Svojstvo (i) slijedi iz teorema 2.6, svojstvo (ii) vrijedi
+jer  povlači  , svojstvo (iii) slijedi iz
+
+
+
+
+ 
+a svojstvo (iv) slijedi iz (2.7).
+
+
+Dokaz teorema 2.6 nam daje postupak za računanje inverzne
+matrice. Naime, svi sustavi 
+ imaju zajedničku 
+matricu sustava pa proširene matrice svih  sustava možemo pisati 
+zajedno,
+
+
+
+
+ 
+Kada pomoću elementarnih transformacija dobijemo oblik
+
+
+
+
+ 
+tada je . Ukoliko se ne može dobiti ovaj oblik, 
+je singularna.
+
+
+
+Zadatak  2.7   Nađite inverznu matricu matrice
+
+
+
+
+ 
+i provjerite da vrijedi (2.7).  
+
+
+
+
+
+
+
+
+ 
+Natrag: Kronecker-Capellijev teorem  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Determinante  
+
+
+
+

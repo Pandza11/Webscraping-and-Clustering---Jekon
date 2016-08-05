@@ -1,0 +1,164 @@
+
+
+
+
+Apsolutna vrijednost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Aritmetika računala  
+Gore: Realni brojevi  
+Naprijed: Kompleksni brojevi  
+
+
+
+
+
+Apsolutna vrijednost
+
+
+U ovom poglavlju definirat ćemu apsolutnu vrijednost realnog broja i
+dokazati neka njena svojstva.
+
+
+
+Definicija  1.18   Apsolutna vrijednost realnog broja 
+je funkcija 
+
+ definirana s
+
+
+
+
+ 
+
+
+Na primjer, 
+
+
+
+
+ 
+Na slici 1.1 prikazan je graf funkcije .
+Graf funkcije  definiramo kao skup svih točaka
+-ravnine za koje je . Preciznije definicije funkcije i
+grafa dane su u poglavlju 4.
+
+
+
+
+Slika 1.1:
+Apsolutna vrijednost 
+
+
+
+
+
+Teorem  1.10   Za apsolutnu vrijednost vrijedi:
+
+(i)
+
+;
+
+(ii)
+nejednakost trokuta, 
+
+, odnosno općenitije 
+
+
+
+
+
+
+(iii)
+
+;
+
+(iv)
+
+, odnosno općenitije
+
+
+
+
+
+
+(v)
+
+ za .
+
+
+Dokaz. 
+
+(i)
+Za  nejednakost  povlači , a za 
+ nejednakost  povlači , odnosno .
+
+(ii)
+Za svaki 
+ vrijedi . Ako je ,
+  tada je 
+, a ako je , tada je
+
+
+
+
+ 
+pa je prva tvrdnja dokazana. 
+Općenitiju tvrdnju dokazujemo indukcijom (vidi primjer 1.3
+i dokaz teorema 1.6). Tvrdnja očito vrijedi za  i . 
+Za  imamo 
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+pa nejednakost trokuta vrijedi za svaki 
+.     Q.E.D.
+
+
+
+
+
+Zadatak  1.4   Dokažite tvrdnje (iii), (iv) i (v) teorema 1.10.
+
+
+
+
+
+
+
+
+ 
+Natrag: Aritmetika računala  
+Gore: Realni brojevi  
+Naprijed: Kompleksni brojevi  
+
+
+
+

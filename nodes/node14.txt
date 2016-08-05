@@ -1,0 +1,105 @@
+
+
+
+
+Cijeli brojevi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Binomni poučak  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Racionalni brojevi  
+
+
+
+
+
+Cijeli brojevi
+
+
+U ovom poglavlju ukratko ćemo dati osnovnu motivacija za uvođenje
+skupa cijelih brojeva
+
+ te navesti osnovna svojstva tog skupa.
+
+
+Prema definiciji 1.14 za 
+ vrijedi
+
+
+
+
+ 
+Kako je broj  jedinstven, možemo pisati . 
+Ako je pak , tada 
+. Stoga skup prirodnih
+brojeva 
+ proširujemo s njegovom negativnom kopijom 
+i dodajemo element 0 za koji vrijedi
+
+
+
+
+
+
+Uređaj na skupu 
+ uvodimo slično kao u definiciji 1.14.
+Skup 
+ je diskretan 
+kao i skup 
+, a razlikuju se u tome
+što 
+ nema najmanji element.
+
+
+Skup 
+ je ekivipotentan s 
+, odnosno oba 
+skupa imaju jednako mnogo elemenata, jer je 
+funkcija 
+ definirana s
+
+
+
+
+ 
+bijekcija.
+
+
+Računske operacije ,  i  na skupu 
+ definiramo na 
+poznati način te za njih vrijede svojstva slično 
+kao u Teoremu 1.3.
+
+
+
+
+
+
+
+
+ 
+Natrag: Binomni poučak  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Racionalni brojevi  
+
+
+
+

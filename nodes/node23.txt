@@ -1,0 +1,155 @@
+
+
+
+
+Matrice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: LINEARNA ALGEBRA  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Zbrajanje matrica  
+
+
+
+
+
+Matrice
+
+
+Matrice
+ omogućuju jednostavan zapis i rješavanje sustava linearnih 
+jednadžbi.
+
+Definicija  2.1   Pravokutna tablica brojeva
+
+
+
+
+ 
+zove se matrica 
+tipa . Ako su svi brojevi  realni, 
+tada pišemo 
+. 
+Tablica se stavlja u uglate ili oble zagrade.
+Brojevi 
+ su elementi
+  matrice ili komponente matrice. 
+Brojevi
+
+
+
+
+ 
+tvore -ti redak, brojevi
+
+
+
+
+ 
+tvore -ti stupac, a brojevi
+
+
+
+
+ 
+tvore dijagonalu 
+matrice .
+Ako je  kažemo da je  kvadratna matrica reda .
+Ako je  kažemo da je  retčana matrica (ima samo jedan
+redak), a ako je  kažemo da je  stupčana matrica.
+Retčane i stupčane matrice se još zovu vektori.
+
+
+Skup svih matrica tipa  još označavamo s
+
+.
+Matrice obično označavamo velikim tiskanim slovima, 
+
+Koriste se i oznake
+
+
+
+
+ 
+Vektore možemo označavati i s malim štampanim slovima , ili s
+masnim slovima, 
+.
+
+
+Na primjer,
+ je matrica tipa  s označenim drugim retkom,
+
+
+
+
+
+ i 
+ su primjeri retčane odnosno stupčane matrice, 
+
+
+
+
+ 
+dok su 
+ i 
+
+ kvadratne matrice reda , a
+ujedno i stupčane i retčane matrice
+
+
+Nakon što smo definirali novi objekt, u ovom slučaju matricu, 
+želimo ih naučiti uspoređivati. Prvi korak je definirati kada su dva
+objekta jednaka.
+
+Definicija  2.2   Matrice  i  su jednake ako su istog tipa i ako je 
+
+
+
+   za sve parove indeksa 
+ 
+
+
+ 
+
+Poglavlja
+
+Zbrajanje matrica
+Množenje matrice sa skalarom
+Množenje matrica
+Nul-matrica i jedinična matrica
+Transponirana matrica
+Još o množenju matrica
+
+
+
+
+
+
+
+
+ 
+Natrag: LINEARNA ALGEBRA  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Zbrajanje matrica  
+
+
+
+

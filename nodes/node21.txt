@@ -1,0 +1,108 @@
+
+
+
+
+Eksponencijalni oblik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijski oblik  
+Gore: Kompleksni brojevi  
+Naprijed: LINEARNA ALGEBRA  
+
+
+
+
+
+Eksponencijalni oblik
+
+
+Eksponencijalni
+ ili Eulerov
+oblik kompleksnog broja glasi
+
+
+
+
+ 
+Ova formula slijedi iz Taylorovih razvoja 
+funkcija ,  i  danih u 
+primjeru 6.19 
+i 
+zadatku 6.5. 
+Kada formalno uvrstimo  umjesto  u
+Taylorov razvoj funkcije , dobit ćemo
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+Red na desnoj strani je apsolutno konvergentan pa po 
+teoremu 6.12 
+smijemo prvo zbrojiti realne, a zatim imaginarne
+članove pa Taylorovi razvoji funkcija  i  daju 
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+Pomoću Eulerovog oblika možemo definirati potenciranje s
+  kompleksnim eksponentom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijski oblik  
+Gore: Kompleksni brojevi  
+Naprijed: LINEARNA ALGEBRA  
+
+
+
+

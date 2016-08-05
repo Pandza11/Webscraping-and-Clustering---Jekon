@@ -1,0 +1,78 @@
+
+
+
+
+Zbrajanje matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Matrice  
+Gore: Matrice  
+Naprijed: Množenje matrice sa  
+
+
+
+
+Zbrajanje matrica
+
+Uvedimo prvu operaciju s matricama.
+Mogu se zbrajati samo matrice istog tipa. Ako su matrice  i 
+istog tipa, tada je matrica
+
+
+
+
+ 
+istog tipa kao i matrice  i  i vrijedi
+
+
+
+
+ 
+Dakle, matrice se zbrajaju član po član. Svojstva zbrajanja su
+
+
+
+ 
+   (komutativnost) i
+
+   
+
+ 
+   (asocijativnost)
+
+   
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Matrice  
+Gore: Matrice  
+Naprijed: Množenje matrice sa  
+
+
+
+

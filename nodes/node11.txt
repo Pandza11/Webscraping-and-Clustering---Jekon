@@ -1,0 +1,244 @@
+
+
+
+
+Brojevni sustavi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Prirodni brojevi  
+Gore: Prirodni brojevi  
+Naprijed: Uređaj na skupu  
+
+
+
+
+
+Brojevni sustavi
+
+
+Elemente skupa prirodnih brojeva označavamo na razne načine, neki
+od kojih su dani u tablici 1.1.
+
+
+
+
+
+Tablica 1.1:
+Brojevni sustavi
+ 
+
+
+
+DECIMALNI
+
+ SUSTAV
+
+
+
+RIMSKI
+
+ BROJEVI
+
+
+
+BINARNI
+
+ SUSTAV
+
+
+
+OKTALNI
+
+ SUSTAV
+
+
+
+HEKSA-
+
+ DECIMALNI
+
+ SUSTAV
+
+
+
+
+ 
+
+1
+I
+1
+1
+1
+
+
+
+
+II
+10
+2
+2
+
+
+
+
+III
+11
+3
+3
+
+
+
+
+IIII ili IV
+100
+4
+4
+
+ 
+5
+V
+101
+5
+5
+
+ 
+6
+VI
+110
+6
+6
+
+ 
+7
+VII
+111
+7
+7
+
+ 
+8
+VIII
+1000
+10
+8
+
+ 
+9
+IX
+1001
+11
+9
+
+ 
+10
+X
+1010
+12
+A
+
+ 
+11
+XI
+1011
+13
+B
+
+ 
+12
+XII
+1100
+14
+C
+
+ 
+13
+XIII
+1101
+15
+D
+
+ 
+14
+XIV
+1110
+16
+E
+
+ 
+15
+XV
+1111
+17
+F
+
+ 
+16
+XVI
+10000
+20
+10
+    
+
+
+
+
+
+
+
+
+Kod rimskih brojeva oznaka V za broj pet
+zapravo simbolizira ruku 
+koja ima pet prstiju, dok oznaka X za broj deset simbolizira dvije
+ruke. Računala zbog tehničkih mogućnosti kreiranja samo dvaju
+stabilnih stanja (prekidač) koriste sustav s bazom 2, odnosno 
+binarni 
+sustav. 
+Radi lakšeg baratanja s binarnim brojevima
+koriste se oktalni 
+sustav
+s bazom osam i heksadecimalni 
+sustav
+  s bazom 16. 
+Iz babilonskih vremena smo naslijedili 
+heksagezimalni sustav 
+s bazom 60. Danas dijelove tog sustava
+koristimo za prikazivanja vremena (1 sat=60 minuta= 
+
+sekunda) i kutova.
+U trgovini se također koristi i sustav s bazom 12.
+Taj sustav je praktičan jer je broj 12 djeljiv s dva, tri, četiri i
+šest. Količinu 12 često zovemo tucet ili duzina.
+
+
+
+
+
+
+
+
+ 
+Natrag: Prirodni brojevi  
+Gore: Prirodni brojevi  
+Naprijed: Uređaj na skupu  
+
+
+
+

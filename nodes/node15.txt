@@ -1,0 +1,188 @@
+
+
+
+
+Racionalni brojevi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cijeli brojevi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Realni brojevi  
+
+
+
+
+
+Racionalni brojevi
+
+
+U ovom poglavlju definirat ćemo skup racionalnih brojeva 
+
+te dati osnovna svojstva tog skupa.
+
+
+Na skupu
+
+
+
+
+ 
+definiramo relaciju  s
+
+
+
+
+
+ je relacija ekvivalencije, na primjer
+
+. 
+
+
+Skup racionalnih brojeva 
+
+
+je skup svih klasa ekvivalencije
+na skupu 
+, odnosno
+
+
+
+
+
+
+Računske operacije ,  i  te relaciju potpunog uređaja 
+ na skupu 
+ definiramo redom kako slijedi:
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+Ovdje se zaista radi o definicijama, jer smo "nove" operacije
+i relaciju uređaja na lijevim stranama definirali 
+pomoću poznatih operacija i uređaja na skupu 
+ na
+desnim stranama. Dakle, iste oznake za računske 
+operacije i relaciju uređaja imaju različita značenja na lijevim i
+desnim stranama. 
+Računske operacije i relacija uređaja na skupu 
+
+su dobro definirane jer ne ovise o predstavniku klase ekvivalencije, 
+na primjer 
+.
+Za računske operacije vrijede poznata svojstva slično kao u 
+teoremu 1.3.
+
+
+Za razliku od skupova 
+ i 
+ koji su diskretni, skup 
+ je
+gust, 
+odnosno između svaka dva različita racionalna broja 
+nalazi se beskonačno mnogo racionalnih brojeva.
+
+
+
+Teorem  1.7   Skup 
+ je gust.
+Dokaz. 
+Dovoljno je dokazati da se između svaka dva različita 
+racionalna broja nalazi barem jedan racionalni broj. Neka je
+
+
+
+
+ 
+Neka je
+
+
+
+
+ 
+Tada je  jer je 
+.
+Slično vrijedi  i teorem je dokazan.     Q.E.D.
+
+
+Unatoč tome što je 
+ gust, a 
+ prebrojiv, oba skupa imaju
+jednako mnogo elemenata. Naime, skupovi 
+ i 
+ su
+ekvipotentni jer je funkcija 
+ definirana s
+
+
+
+
+ 
+bijekcija. Oznaka 
+ znači 
+. 
+Kako je 
+ ekvipotentan s 
+, to su i skupovi
+
+ i 
+ ekvipotentni. Konačno,  
+iz 
+ zaključujemo da je skup 
+
+također ekvipotentan s 
+. 
+
+
+
+
+
+
+
+
+ 
+Natrag: Cijeli brojevi  
+Gore: OSNOVE MATEMATIKE  
+Naprijed: Realni brojevi  
+
+
+
+

@@ -1,0 +1,109 @@
+
+
+
+
+Eksponencijalna funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potenciranje s realnim  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Logaritamska funkcija  
+
+
+
+
+
+Eksponencijalna funkcija
+
+
+Ako fiksiramo bazu
+
+ 
+,
+ tada možemo definirati funkciju 
+
+
+
+
+
+
+čije se vrijednosti računaju po prethodnim pravilima
+potenciranja. Iz svojstva (P5) slijedi da je  za  
+strogo rastuća funkcija. Također, za  funkcija  ima
+horizontalnu asimptotu  kada 
+. Nadalje, kako je 
+
+
+
+
+
+to je funkcija 
+ simetrična funkciji 
+ s obzirom na -os. Dakle, za  funkcija  je
+strogo padajuća i ima  horizontalnu asimptotu  kada 
+.  je uvijek bijekcija (vidi sliku 4.23).
+
+
+
+
+Slika 4.23:
+Eksponencijalne funkcije  i 
+
+
+
+
+
+Napomena  4.9   Posebno se često koriste funkcije  i . Broj  se zove 
+baza prirodnih logaritama, definiran je kao
+
+
+
+
+
+i približno je jednak 
+ (vidi sliku
+4.24).
+
+
+
+
+Slika 4.24:
+Funkcije  i  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potenciranje s realnim  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Logaritamska funkcija  
+
+
+
+

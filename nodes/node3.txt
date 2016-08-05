@@ -1,0 +1,96 @@
+
+
+
+
+OSNOVE MATEMATIKE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Tablice  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Osnove matematičke logike  
+
+
+
+
+
+OSNOVE MATEMATIKE
+
+
+U ovoj glavi prvo ćemo definirati osnovne pojmove matematičke logike
+koji su potrebni za praćenje predavanja.
+Zatim ćemo dati neke pojmove vezane uz skupove te detaljnije
+definirati pojam relacije, kao i razne tipove relacija na skupovima.
+Također ćemo vrlo općenito definirati pojam funkcije te dati teorem o
+inverznoj funkciji. Na kraju, razmatrat ćemo detaljnije skupove 
+prirodnih, cijelih, racionalnih, realnih i kompleksnih brojeva.
+
+
+ 
+
+Poglavlja
+
+Osnove matematičke logike
+Binarne relacije
+
+Uređeni skupovi
+
+
+Funkcije
+
+Teorem o inverznoj funkciji
+Ekvipotencija i beskonačni skupovi
+
+
+Prirodni brojevi
+
+Brojevni sustavi
+Uređaj na skupu prirodnih brojeva
+Binomni poučak
+
+
+Cijeli brojevi
+Racionalni brojevi
+Realni brojevi
+
+Aritmetika računala
+Apsolutna vrijednost
+
+
+Kompleksni brojevi
+
+Trigonometrijski oblik
+Eksponencijalni oblik
+
+
+
+
+
+
+
+
+ 
+Natrag: Tablice  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Osnove matematičke logike  
+
+
+
+

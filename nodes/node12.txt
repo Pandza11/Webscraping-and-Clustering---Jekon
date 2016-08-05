@@ -1,0 +1,107 @@
+
+
+
+
+Uređaj na skupu prirodnih brojeva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Brojevni sustavi  
+Gore: Prirodni brojevi  
+Naprijed: Binomni poučak  
+
+
+
+
+
+Uređaj na skupu prirodnih brojeva
+
+
+Uređaj definiramo na sljedeći način.
+
+
+
+Definicija  1.14   Neka su 
+. Tada je  manji od , odnosno ,
+ako i samo ako postoji 
+ za koji je .
+Nadalje,  je manje ili jednako , odnosno , ako
+vrijedi  ili .
+
+
+S ovako definiranom relacijom potpunog 
+uređaja 
+ je uređen 
+skup
+po definiciji 1.5. U skladu s poglavljem 1.2.1 možemo
+definirati intervale
+
+
+
+
+ 
+Posebno je 
+.
+
+
+Sljedeća definicija nadopunjava definicije iz poglavlja
+1.3.2.
+
+
+
+Definicija  1.15   Skup  ima  elemenata, odnosno 
+, ako je  ekvipotentan
+s 
+.
+Skup  je prebrojiv ili 
+prebrojivo beskonačan, odnosno 
+
+ 
+(alef nula), 
+ako je ekvipotentan s 
+.
+
+
+Skup prirodnih brojeva 
+ je
+diskretan ili diskretno uređen,
+odnosno za svaki 
+ vrijedi 
+.
+Ovo svojstvo će biti jasnije kada u poglavljima 1.6 i
+1.7 opišemo guste skupove 
+ i 
+.   
+
+
+
+
+
+
+
+
+ 
+Natrag: Brojevni sustavi  
+Gore: Prirodni brojevi  
+Naprijed: Binomni poučak  
+
+
+
+

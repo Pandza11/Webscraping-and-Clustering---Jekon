@@ -1,0 +1,109 @@
+
+
+
+
+Nul-matrica i jedinična matrica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Množenje matrica  
+Gore: Matrice  
+Naprijed: Transponirana matrica  
+
+
+
+
+
+Nul-matrica i jedinična matrica
+
+
+Kod zbrajanja brojeva broj 0 je neutralni element s
+  obzirom na zbrajanje, odnosno 
+
+
+
+   za svaki broj 
+ 
+Analogija kod matrica je   nul-matrica 
+koja ima sve elemente jednake nuli. Nul-matricu označavamo s ,
+odnosno  kada želimo naglasiti o kojem tipu se radi.
+Na primjer, 
+
+
+
+
+
+
+Kod množenja brojeva broj  je neutralni element s
+  obzirom na množenje, odnosno 
+
+
+
+   za svaki broj 
+ 
+Analogija kod matrica je jedinična matrica
+. Ukoliko
+matrica nije kvadratna, jedinične matrice u odnosu na množenje slijeva
+i zdesna su različitog reda. Na primjer, lako vidimo da je
+
+
+
+
+
+
+   
+
+
+Jediničnu matricu označavamo s , odnosno s  ako želimo
+naglasiti o kojoj dimenziji se radi. Općenito je, dakle
+
+
+
+
+ 
+i za svaku matricu tipa  vrijedi
+
+
+
+
+ 
+Jedinična  matrica je poseban slučaj dijagonalne matrice. 
+je dijagonalna matrica ako jedini 
+ne-nula elementi leže na njenoj 
+dijagonali, odnosno
+
+
+
+   za
+
+
+
+
+
+
+
+ 
+Natrag: Množenje matrica  
+Gore: Matrice  
+Naprijed: Transponirana matrica  
+
+
+
+

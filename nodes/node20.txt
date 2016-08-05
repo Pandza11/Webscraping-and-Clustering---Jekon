@@ -1,0 +1,323 @@
+
+
+
+
+Trigonometrijski oblik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kompleksni brojevi  
+Gore: Kompleksni brojevi  
+Naprijed: Eksponencijalni oblik  
+
+
+
+
+
+Trigonometrijski oblik
+
+
+Kao što se vidi na slici 1.2, kompleksni broj  je 
+jednoznačno određen s modulom  i s kutom  između
+radij-vektora 
+ i pozitivnog smjera -osi. 
+Kut  je argument broja 
+,
+ odnosno 
+.
+
+
+Trigonometrijski oblik
+ kompleksnog broja glasi
+
+
+
+
+ 
+Veze između dva oblika su sljedeće: ako su zadani  i , tada
+je
+
+
+
+
+ 
+a ako su zadani  i , tada je
+
+
+
+
+ 
+pri čemu kvadrant u kojem se nalazi  treba odrediti sa slike
+odnosno iz predznaka od  i .
+
+
+
+Primjer  1.4    
+a)
+Skup 
+
+
+
+
+ 
+je krug radijusa dva sa
+    središtem u točki  (vidi sliku 1.3). Zaista,
+    iz definicije 1.19 slijedi
+
+
+
+
+ 
+Općenito, skup 
+
+
+
+
+ 
+je krug radijusa  oko
+točke .
+
+b)
+Skup 
+
+
+
+
+ 
+nacrtan je na slici 1.4. Pri tome se točke na iscrtkanom
+pravcu nalaze izvan skupa, kao i točka u kojoj se dva pravca sijeku.
+
+c)
+Skup 
+
+
+
+
+ 
+je elipsa sa žarištima u
+  točkama  i  (vidi sliku 1.5). 
+
+
+Općenito,
+  skup  
+
+
+
+
+ 
+je skup svih točaka čiji je 
+  zbroj udaljenosti do dvije fiksne točke konstantan. Moguća su tri
+  slučaja:  ako je 
+, tada se radi o elipsi; ako je
+  
+, tada se radi o dužini koja spaja točke  i ;
+  a ako je 
+, tada se radi o praznom skupu.
+  
+
+
+
+
+
+
+Slika 1.3:
+Krug u kompleksnoj ravnini
+
+
+
+
+
+
+Slika 1.4:
+Dio kompleksne ravnine
+
+
+
+
+
+
+Slika 1.5:
+Elipsa u kompleksnoj ravnini
+
+
+
+
+
+Zadatak  1.6   Dokažite da je elipsa iz primjera 1.4.c zadana s formulom
+
+
+
+
+ 
+Po uzoru na primjer 1.4.c analizirajte skup
+
+
+
+
+ 
+
+
+Trigonometrijski oblik kompleksnog broja omogućuje jednostavno
+izvođenje računskih operacija. Adicioni teoremi daju 
+
+
+
+
+
+
+   
+
+ 
+
+
+(1.3)
+
+ 
+
+
+   
+
+
+Slično, za  vrijedi
+
+
+
+
+ 
+Iz formule (1.3) indukcijom slijedi 
+
+
+
+
+ 
+Kada u gornju formulu uvrstimo 
+
+, 
+dobijemo Moivreovu formulu za potenciranje
+ 
+s prirodnim brojem
+
+
+
+
+
+
+(1.4)
+
+
+Nadalje,
+-ti korijen 
+kompleksnog broja  je svaki kompleksni broj
+koji podignut na -tu potenciju daje . Vrijedi
+
+
+
+
+
+
+(1.5)
+
+
+Naime, primjenom  Moivreove formule (1.4) vidimo da svaki od
+brojeva na desnoj strani podignut na -tu potenciju daje broj , 
+pa je stoga jednak -tom korijenu iz .
+Zaključujemo da svaki kompleksni broj, osim nule, ima 
+ međusobno različitih -tih korijena koji svi leže na
+središnjoj kružnici radijusa 
+ i dijele tu kružnicu na 
+jednakih dijelova.
+
+
+
+Primjer  1.5   Izračunajmo 
+. Trigonometrijski oblik 
+glasi
+
+
+
+
+ 
+pa formula (1.5) daje
+
+
+
+
+ 
+Uvrštavanje vrijednosti za  daje šest različitih šestih korijena:
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+Zadatak  1.7   Nacrtajte sve kompleksne šeste korijene od jedan iz primjera
+1.5 i uvjerite se da dijele jediničnu kružnicu na šest
+jednakih dijelova. Zatim izračunajte i nacrtajte
+
+, 
+ i 
+.
+
+
+
+
+
+
+
+
+ 
+Natrag: Kompleksni brojevi  
+Gore: Kompleksni brojevi  
+Naprijed: Eksponencijalni oblik  
+
+
+
+

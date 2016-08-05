@@ -1,0 +1,99 @@
+
+
+
+
+Cramerovo pravilo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Računanje inverzne matrice  
+Gore: Determinante  
+Naprijed: Rješavanje električne mreže  
+
+
+
+
+
+Cramerovo pravilo
+
+Sljedeći teorem daje formulu za rješenje sustava linearnih
+jednadžbi 
+kada je matrica sustava regularna.
+
+Teorem  2.10   [Cramer]Neka je  regularna matrica i neka je  determinanta matrice
+koja se dobije kada se -ti stupac matrice  zamijeni s vektorom
+
+. Tada su komponente rješenja sustava  
+
+dane s
+
+
+
+
+ 
+Dokaz. 
+Matrica  je regularna pa je 
+
+
+
+
+ 
+Ova jednakost napisana po komponentama glasi
+
+
+
+
+ 
+pa je teorem dokazan.     Q.E.D.
+
+
+
+Zadatak  2.12   Neka je matrica sustava
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+regularna. Riješite sustav pomoću Cramerovog pravila i provjerite
+rješenje.   
+
+
+
+
+
+
+
+
+ 
+Natrag: Računanje inverzne matrice  
+Gore: Determinante  
+Naprijed: Rješavanje električne mreže  
+
+
+
+

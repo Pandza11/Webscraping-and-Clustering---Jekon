@@ -1,0 +1,164 @@
+
+
+
+
+Kronecker-Capellijev teorem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Rang matrice  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Inverzna matrica  
+
+
+
+
+
+Kronecker-Capellijev teorem
+
+Sljedeći teorem nam opisuje strukturu rješenja sustava linearnih
+jednadžbi u ovisnosti o rangu matrice sustava i rangu proširene
+matrice sustava.
+
+
+
+Teorem  2.5   [Kronecker-Capelli] 
+Za sustav 
+ 
+vrijedi:
+  
+(i)
+Sustav ima rješenje ako i samo ako matrice
+     i 
+ imaju isti
+    rang.
+  
+
+(ii)
+Ako je 
+
+, 
+tada sustav ima ista rješenja kao i sustav koji dobijemo kada
+uzmemo 
+ nezavisnih jednadžbi, 
+odnosno 
+ linearno
+nezavisnih redaka matrice
+
+.
+
+(iii)
+Neka sustav ima rješenje i neka je  broj nepoznanica.
+Tada je rješenje jedinstveno
+ ako i 
+samo ako je 
+. Ako je 
+, tada sustav ima
+beskonačno rješenja koja su izražena pomoću 
+ 
+parametara.  
+  
+
+
+Dokaz. 
+(i) Neka sustav ima rješenje 
+
+
+i neka su 
+
+
+
+
+ 
+stupci matrice . Iz poglavlja 2.1.6 zaključujemo da
+matrično množenje 
+ možemo pisati i kao
+
+
+
+
+
+
+(2.6)
+
+
+Dakle, 
+ je linearna kombinacija stupaca matrice  pa je 
+
+.
+Kako se dodavanjem stupca rang ne može smanjiti, zaključujemo da je 
+
+.
+
+
+Obratno, neka je 
+
+.
+Kako već među stupcima matrice  ima  linearno nezavisnih,
+zaključujemo da je 
+ linearna kombinacija stupaca matrice , 
+odnosno da postoje brojevi  
+ za koje 
+ vrijedi (2.6). U matričnom obliku to odgovara zapisu 
+
+, što znači da je 
+ rješenje sustava.
+
+
+Dokaze tvrdnji (ii) i (iii) izostavljamo.
+    Q.E.D.
+
+
+
+Zadatak  2.6   Protumačite primjere 2.1, 2.2 i 2.3 prema
+teoremu 2.5. 
+
+
+Posebno je lagana primjena Kronecker-Capellijevog teorema na
+homogene
+ sustave, odnosno sustave oblika  
+
+
+
+
+ 
+Homogeni sustav očito uvijek ima trivijalno rješenje
+
+. 
+Iz teorema 2.5 slijedi da će homogeni
+sustav imati i netrivijalna (parametarska) rješenja  ako i samo ako je
+
+, pri čemu je  broj nepoznanica.
+
+
+
+
+
+
+
+
+ 
+Natrag: Rang matrice  
+Gore: LINEARNA ALGEBRA  
+Naprijed: Inverzna matrica  
+
+
+
+
