@@ -1,0 +1,157 @@
+
+
+
+
+Red potencija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ispitivanje konvergencije  
+Gore: Red funkcija  
+Naprijed: Deriviranje reda funkcija  
+
+
+
+
+
+Red potencija
+
+
+Red potencija 
+je poseban red funkcija 
+ 
+za koji je 
+, odnosno
+
+
+
+
+
+
+(6.6)
+
+
+ili
+
+
+
+
+
+Radijus konvergencije
+reda potencija je broj
+
+
+
+
+
+
+Područje konvergencije reda potencija daje nam sljedeći teorem kojeg
+ćemo dokazati u Matematici 3.
+
+
+
+Teorem  6.16   Red potencija (6.6) konvergira uniformno i apsolutno 
+na svakom segmentu 
+, gdje je 
+, a
+divergira na skupu 
+.
+
+
+Na primjer, ako je , tada red potencija konvergira samo u točki 
+ (trivijalno), a ako je 
+, tada red potencija
+konvergira za 
+. Konvergenciju u točkama
+
+ i 
+ treba ispitati posebno.
+
+
+
+Primjer  6.16   Zadan je red potencija 
+
+
+
+
+ 
+Ovdje je očito .
+Kako je (vidi zadatak 6.2)
+
+
+
+
+ 
+to je  pa red konvergira uniformno i apsolutno na intervalu
+. U točki  red glasi 
+ pa divergira
+(vidi primjer 6.10).
+U točki  red glasi 
+ (alternirani
+harmonijski red, poglavlje 6.2.4) pa konvergira po 
+Leibnitzovom kriteriju.
+Dakle, zadani red konvergira za 
+, a divergira inače.
+
+
+
+Primjer  6.17   Zadan je red potencija 
+
+
+
+
+ 
+Ovdje je također . Kako je , red konvergira uniformno i
+apsolutno na intervalu . 
+U točki  red glasi 
+ pa konvergira
+(vidi poglavlje 6.2.2), a
+u točki  red glasi 
+ 
+pa konvergira jer konvergira apsolutno (teorem 6.11).
+Dakle, zadani red konvergira apsolutno za 
+, a divergira inače.
+
+
+
+Zadatak  6.4   Nađite područje apsolutne konvergencije reda 
+
+
+
+
+ 
+Ispitivanje konvergencije u rubovima intervala je složenije pa ga
+izostavite.
+
+
+
+
+
+
+
+
+ 
+Natrag: Ispitivanje konvergencije  
+Gore: Red funkcija  
+Naprijed: Deriviranje reda funkcija  
+
+
+
+

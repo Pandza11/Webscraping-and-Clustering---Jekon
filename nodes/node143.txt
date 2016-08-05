@@ -1,0 +1,536 @@
+
+
+
+
+Taylorov red
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Deriviranje reda funkcija  
+Gore: NIZOVI I REDOVI  
+Naprijed: Indeks  
+
+
+
+
+
+Taylorov red
+
+
+Razvoj elementarnih funkcija u Taylorov red
+ jedna je od najvažnijih
+primjena dosadašnjih rezultata ove glave.
+Pomoću Taylorove formule možemo računati vrijednosti elementarnih
+funkcija kao ,  i  do željene točnosti i to
+koristeći samo četiri osnovne računske operacije.
+Dokazi teorema koje navodimo su složeni pa ih
+izostavljamo.
+
+
+
+Teorem  6.17   Neka funkcija  ima na intervalu  derivaciju reda .
+Tada za proizvoljnu točku  
+ i za 
+ 
+vrijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+(6.7)
+
+
+gdje je
+
+
+
+
+
+
+(6.8)
+
+
+za 
+ i 
+.
+
+
+Formula (6.7) zove se Taylorova formula
+, a izraz u 
+formuli (6.8) je 
+Schlömlichov oblik ostatka.
+Posebno, za  dobivamo Cauchyjev oblik ostatka
+
+
+
+
+
+ 
+a za  dobivamo 
+Lagrangeov oblik ostatka
+
+
+
+
+
+
+
+Teorem  6.18   Neka funkcija  ima na intervalu  derivacije proizvoljnog
+reda. Tada za proizvoljnu točku  
+ i za 
+ 
+vrijedi
+
+
+
+
+
+
+(6.9)
+
+
+ako i samo ako niz ostataka 
+ teži k nuli za 
+. 
+Red potencija (6.9) zove se Taylorov red
+  ili
+Taylorov razvoj funkcije  u točki 
+.
+Taylorov razvoj u točki  zove se 
+MacLaurinov razvoj,
+
+
+
+
+
+
+(6.10)
+
+
+
+Posebno je važna primjena Taylorovog razvoja na elementarne funkcije.
+
+
+
+Teorem  6.19   Taylorov red elementarne funkcije  konvergira prema  u
+svakoj točki svog područja konvergencije.
+
+
+
+Primjer  6.19   Nađimo MacLaurinov razvoj funkcije  
+.
+Uvrštavanje 
+
+
+
+ 
+ 
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+u formulu (6.10) daje
+
+
+
+
+
+
+(6.11)
+
+
+Zadatak još nije gotov, jer ne znamo za koje vrijednosti 
+formula (6.11) vrijedi. Po teoremu 6.19 formula
+vrijedi za sve  za koje red na desnoj strani konvergira.
+Po D'Alembertovom kriteriju 
+
+
+
+
+ 
+odnosno 
+ (vidi poglavlje 6.4.2), 
+pa formula (6.11) vrijedi za 
+.
+Konvergencija Taylorovog reda prikazana je na slici 6.5.
+Također možete pogledati i
+
+animaciju konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.5:
+Taylorov red za 
+
+
+
+
+
+Taylorovu formulu (6.7) koristimo za računanje vrijednosti
+elementarnih funkcija.
+
+
+
+Primjer  6.20   S kolikom točnošću 
+
+
+
+
+ 
+aproksimira funkciju  za ? Koliko je ?
+Pogrešku ćemo izračunati koristeći  Lagrangeov oblika ostatka:
+
+
+
+
+ 
+Dakle,
+
+
+
+
+
+
+Ovo je gotovo točnost logaritamskih tablica. Točnost je još veća za
+manje vrijednosti od , jer je na primjer
+
+.
+Izračunajte na ovaj način  i  i usporedite s
+rezultatima koje daje kalkulator!
+
+
+Računala računaju funkcije , ,  i  
+na sličan način, odnosno koristeći samo osnovne računske
+operacije. Postoje i ''bolji'' polinomi, odnosno polinomi manjeg stupnja
+s kojima se postiže ista ili veća točnost. 
+
+
+
+Zadatak  6.5   Izračunajte MacLaurinove razvoje
+
+
+
+
+ 
+i
+
+
+
+
+ 
+Za  prethodna formula daje
+
+
+
+
+ 
+što je još jedan prikaz broja  pored definicije 
+iz poglavlja 6.1.3.
+Konvergencija Taylorovog reda za funkciju  prikazana je na slici
+6.6.
+Također možete pogledati i
+
+animaciju konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.6:
+Taylorov red za 
+
+
+
+
+Funkciju  ne razvijamo u Taylorov red direktno, nego koristimo 
+jedan od sljedeća dva MacLaurinova razvoja.
+
+
+
+Primjer  6.21   Nađimo MacLaurinov razvoj funkcije 
+. Iz
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+zaključujemo 
+
+
+
+
+ 
+pa je
+
+
+
+
+
+
+Uvrštavanje u formulu (6.10) daje
+
+
+
+
+
+
+(6.12)
+
+
+pa preostaje odrediti za koje vrijednosti  formula vrijedi,
+odnosno za koje vrijednosti  red potencija na desnoj strani 
+konvergira. Radijus konvergencije reda potencija je (vidi poglavlje
+6.4.2)
+
+
+
+
+ 
+pa formula (6.12) vrijedi za 
+.
+
+
+Dalje, u točki  red glasi 
+ pa
+konvergira po Leibnitzovom kriteriju (vidi poglavlje 6.2.4).
+U točki  red glasi 
+ pa divergira kao što smo
+pokazali u primjeru 6.10.
+
+
+Dakle, formula (6.12) vrijedi za 
+
+pa pomoću nje možemo izračunati vrijednosti funkcije
+ za . Na primjer,  možemo izračunati tako što
+u formulu (6.12) uvrstimo ,
+
+
+
+
+ 
+što nam daje sumu alterniranog harmonijskog reda iz poglavlja
+6.2.4.
+Konvergencija reda prikazana je na slici 6.7.
+Također možete pogledati i
+
+animaciju konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.7:
+Taylorov red za 
+
+
+
+
+
+Ukoliko želimo izračunati, na primjer, , tada nam formula 
+(6.12) ne koristi, ali možemo korisiti sljedeći razvoj.
+
+
+
+Primjer  6.22   Nađimo MacLaurinov razvoj funkcije 
+. 
+Iz
+
+
+
+
+ 
+slijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Zaključujemo 
+
+
+
+
+ 
+pa je
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Uvrštavanje u formulu (6.10) daje
+
+
+
+
+
+
+(6.13)
+
+
+
+Preostaje odrediti za koje vrijednosti  formula vrijedi.
+Kako je 
+, red na desnoj strani
+formule (6.13) konvergira za .
+U točki  red glasi 
+ pa divergira,
+a u točki  red glasi 
+ pa također 
+divergira.
+
+
+Dakle, formula (6.13) vrijedi za 
+
+pa pomoću nje možemo izračunati vrijednosti funkcije
+ za 
+. 
+Na primjer,  možemo izračunati tako što
+ćemo u formulu (6.13) uvrstiti 
+ x=1/2.
+Konvergencija reda prikazana je na slici 6.8.
+Također možete pogledati i
+
+animaciju konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.8:
+Taylorov red za 
+
+
+
+
+
+
+Zadatak  6.6   Koliko članova reda treba za računanje  na četiri decimale kada
+koristimo formulu (6.12), a koliko kada koristimo formulu
+(6.13)?
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Deriviranje reda funkcija  
+Gore: NIZOVI I REDOVI  
+Naprijed: Indeks  
+
+
+
+

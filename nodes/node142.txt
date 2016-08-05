@@ -1,0 +1,122 @@
+
+
+
+
+Deriviranje reda funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Red potencija  
+Gore: Red funkcija  
+Naprijed: Taylorov red  
+
+
+
+
+
+Deriviranje reda funkcija
+
+
+Kada  funkcija 
+ nije elementarna, ili nema prikladan
+analitički izraz, njenu derivaciju možemo računati derivirajući
+pripadni red funkcija. 
+
+
+Naime, ako su sve derivacije 
+neprekidne i ako red 
+ konvergira, tada vrijedi
+
+
+
+
+
+
+Posebno za red potencija vrijedi
+
+
+
+
+ 
+u svim točkama u kojima red 
+ konvergira.
+
+
+Prethodne tvrdnje nećemo dokazivati, već navodimo sljedeći zanimljiv
+primjer.
+
+
+
+Primjer  6.18   Izračunajmo sumu reda potencija
+
+
+
+
+ 
+za . Za geometrijski red vrijedi
+
+
+
+
+ 
+Osim toga
+
+
+
+
+ 
+Ovaj red potencija također konvergira za  pa stoga za  
+vrijedi
+
+
+
+
+ 
+Konvergencija reda prikazana je na slici 6.4.
+Također možete pogledati i
+
+animaciju
+konvergencije.
+Animacija je izrađena pomoću programa 
+FAni.
+
+
+
+
+Slika 6.4:
+Konvergencija reda potencija
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Red potencija  
+Gore: Red funkcija  
+Naprijed: Taylorov red  
+
+
+
+

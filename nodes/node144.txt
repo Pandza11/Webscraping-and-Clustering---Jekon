@@ -1,0 +1,1566 @@
+
+
+
+
+Indeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Taylorov red  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: O dokumentu ...  
+
+
+
+
+Indeks
+
+A B C D E F G H I J K L M N O P R S T U V Z 
+ 
+ 
+
+
+
+        A
+adicioni teoremi
+Trigonometrijske funkcije
+ | Kosinusov poučak i adicioni
+ | Hiperbolne i area funkcije
+ | Derivacija
+algebarski komplement
+Laplaceov razvoj determinante
+amplituda
+Opća sinusoida
+anti-komutativnost
+Vektorski produkt
+aplikata
+Koordinatizacija prostora
+apscisa
+Koordinatizacija pravca
+ | Koordinatizacija ravnine
+ | Koordinatizacija prostora
+apsolutna vrijednost
+Apsolutna vrijednost
+ | Derivacije slijeva i zdesna
+
+kompleksnog broja
+Kompleksni brojevi
+
+area
+
+kosinus hiperbolni
+Hiperbolne i area funkcije
+kotangens hiperbolni
+Hiperbolne i area funkcije
+sinus hiperbolni
+Hiperbolne i area funkcije
+tangens hiperbolni
+Hiperbolne i area funkcije
+
+argument
+
+funkcije
+Funkcije
+kompleksnog broja
+Trigonometrijski oblik
+
+aritmetika računala
+Aritmetika računala
+arkus kosinus
+Arkus funkcije
+arkus kotangens
+Arkus funkcije
+arkus sinus
+Arkus funkcije
+arkus tangens
+Arkus funkcije
+asimptota
+Asimptote
+ | Ispitivanje toka funkcije
+
+horzontalna
+Asimptote
+kosa
+Asimptote
+vertikalna
+Asimptote
+ | Polinomi i racionalne funkcije
+
+asocijativnost
+Prirodni brojevi
+ | Zbrajanje vektora
+
+
+
+        B
+baza
+
+eksponencijalne funkcije
+Eksponencijalna funkcija
+logaritamske funkcije
+Svojstva logaritama
+
+baza prostora
+Linearna nezavisnost
+ | Baza prostora 
+bijekcija
+Teorem o inverznoj funkciji
+binarna relacija
+Binarne relacije
+
+anti-simetrična
+Uređeni skupovi
+ekvivalencije
+Binarne relacije
+parcijalnog uređaja
+Uređeni skupovi
+refleksivna
+Binarne relacije
+simetrična
+Binarne relacije
+tranzitivna
+Binarne relacije
+
+binarni sustav
+Brojevni sustavi
+binomni koeficijent
+Binomni poučak
+binomni poučak
+Binomni poučak
+Briggs
+Logaritamska funkcija
+brojevni pravac
+Realni brojevi
+ | Realni brojevi
+brojevni sustav
+
+binarni
+Brojevni sustavi
+decimalni
+Brojevni sustavi
+heksadecimalni
+Brojevni sustavi
+heksagezimalni
+Brojevni sustavi
+oktalni
+Brojevni sustavi
+rimski
+Brojevni sustavi
+
+
+
+
+        C
+cikloida
+Parametarsko zadavanje
+Cramerovo pravilo
+Cramerovo pravilo
+
+
+
+        D
+DeMorganovi zakoni
+Osnove matematičke logike
+derivacija
+Derivacija
+ | Derivacija
+ | Pravila deriviranja
+ | Diferencijal
+
+druga
+Više derivacije i diferencijali
+ | Više derivacije i diferencijali
+implicitno zadane funkcije
+Deriviranje implicitno zadane funkcije
+inverzne funkcije
+Pravila deriviranja
+kompozicije funkcija
+Pravila deriviranja
+parametarski zadane funkcije
+Deriviranje parametarski zadane funkcije
+slijeva
+Derivacije slijeva i zdesna
+višeg reda
+Više derivacije i diferencijali
+ | Zakrivljenost
+zdesna
+Derivacije slijeva i zdesna
+
+Descartesov list
+Implicitno zadavanje
+ | Parametarsko zadavanje
+ | Asimptote
+
+ispitivanje toka
+Parametarski zadana funkcija
+
+determinanta
+Determinante
+
+Laplaceov razvoj
+Laplaceov razvoj determinante
+svojstva
+Svojstva determinanti
+
+diferencijal
+Diferencijal
+ | Približno računanje
+
+drugog reda
+Više derivacije i diferencijali
+višeg reda
+Više derivacije i diferencijali
+
+direktni produkt
+Binarne relacije
+disjunkcija
+Osnove matematičke logike
+
+ekskluzivna
+Osnove matematičke logike
+
+distributivnost
+Prirodni brojevi
+ | Skalarni produkt
+ | Vektorski produkt
+domena
+Funkcije
+ | FUNKCIJE REALNE VARIJABLE
+donja međa
+Uređeni skupovi
+dovoljan uvjet
+Osnove matematičke logike
+duljina
+Vektori
+ | Duljina vektora, jedinični vektor,
+dužina
+Vektori
+
+usmjerena
+Vektori
+
+
+
+
+        E
+eipcikloida
+Parametarsko zadavanje
+ekstenzija
+Funkcije
+ekstrem
+Ekstremi
+ | Ispitivanje toka funkcije
+
+dovoljan uvjet
+Ekstremi
+ | Ekstremi
+ | Ispitivanje toka funkcije
+geometrijski
+Geometrijski ekstrem
+ | Rješavanje problema ravnoteže
+globalni
+Ekstremi
+lokalni
+Ekstremi
+ | Zakrivljenost
+nužan uvjet
+Ekstremi
+ | Ispitivanje toka funkcije
+
+ekvipotencija
+Ekvipotencija i beskonačni skupovi
+ekvivalencija
+Osnove matematičke logike
+elipsa
+
+implicitno zadana
+Deriviranje implicitno zadane funkcije
+parametarski zadana
+Deriviranje parametarski zadane funkcije
+
+euklidski prostor
+Vektori
+
+Eksponencijalna funkcija
+ | Logaritamska funkcija
+
+
+
+        F
+faktorijele
+Binomni poučak
+fazni pomak
+Opća sinusoida
+FORTRAN
+Rješavanje trokutastih sustava
+funkcija
+Funkcije
+ | Pregled elementarnih funkcija
+
+ strogo padajuća
+Monotonost
+algebarska
+Klasifikacija elementarnih funkcija
+area
+Hiperbolne i area funkcije
+
+derivacija
+Hiperbolne i area funkcije
+
+argument
+Funkcije
+arkus
+Arkus funkcije
+
+derivacija
+Trigonometrijske i arkus funkcije
+
+ciklometrijska
+Arkus funkcije
+derivabilna
+Derivacija
+eksponencijalna
+Eksponencijalna funkcija
+ | Logaritamska funkcija
+ | Hiperbolne i area funkcije
+ | L'Hospitalovo pravilo i računanje
+
+baza
+Eksponencijalna funkcija
+derivacija
+Eksponencijalna i logaritamska funkcija
+
+ekstenzija
+Funkcije
+elementarna
+Pregled elementarnih funkcija
+ | Klasifikacija elementarnih funkcija
+eskplicitno zadana
+Eksplicitno zadavanje
+glatka
+Derivacija
+graf
+FUNKCIJE REALNE VARIJABLE
+ | Tablično zadavanje
+ | Eksplicitno zadavanje
+ | Implicitno zadavanje
+ | Parametarsko zadavanje
+ | Zakrivljenost
+ | Ispitivanje toka funkcije
+
+točka infleksije
+Zakrivljenost
+ | Zakrivljenost
+ | Ispitivanje toka funkcije
+
+granična vrijednost
+Limes
+hiperbolna
+Hiperbolne i area funkcije
+
+derivacija
+Hiperbolne i area funkcije
+
+implicitno zadana
+Implicitno zadavanje
+
+derivacija
+Deriviranje implicitno zadane funkcije
+
+inverzna
+Teorem o inverznoj funkciji
+ | Logaritamska funkcija
+
+derivacija
+Pravila deriviranja
+graf
+Potenciranje s racionalnim eksponentom
+
+ispitivanje toka
+Ispitivanje toka funkcije
+kompozicija
+Funkcije
+ | Svojstva neprekidnih funkcija
+
+derivacija
+Pravila deriviranja
+
+konkavna
+Zakrivljenost
+ | Zakrivljenost
+ | Ispitivanje toka funkcije
+konstantna
+Konstantna funkcija
+ | Derivacija
+konveksna
+Zakrivljenost
+ | Zakrivljenost
+ | Ispitivanje toka funkcije
+limes
+Limes
+ | Limes
+ | Svojstva limesa
+ | Svojstva limesa
+ | Svojstva neprekidnih funkcija
+logaritamska
+Logaritamska funkcija
+
+baza
+Logaritamska funkcija
+ | Logaritamska funkcija
+ | Svojstva logaritama
+Briggsovi logaritmi
+Logaritamska funkcija
+dekadski logaritmi
+Logaritamska funkcija
+derivacija
+Eksponencijalna i logaritamska funkcija
+prirodni logaritam
+Eksponencijalna funkcija
+prirodni logaritmi
+Logaritamska funkcija
+svojstva
+Svojstva logaritama
+
+monotona
+Klasifikacija funkcija
+ | Monotonost
+ | Ispitivanje toka funkcije
+neomeđena
+Klasifikacija funkcija
+neparna
+Klasifikacija funkcija
+ | Ispitivanje toka funkcije
+neprekidna
+Neprekidnost
+ | Svojstva neprekidnih funkcija
+nul-točka
+Ispitivanje toka funkcije
+omeđena
+Klasifikacija funkcija
+ | Klasifikacija funkcija
+padajuća
+Klasifikacija funkcija
+ | Monotonost
+parametarska
+Parametarsko zadavanje
+
+derivacija
+Deriviranje parametarski zadane funkcije
+ispitivanje toka
+Parametarski zadana funkcija
+
+parna
+Klasifikacija funkcija
+ | Ispitivanje toka funkcije
+periodična
+Klasifikacija funkcija
+ | Ispitivanje toka funkcije
+po dijelovima monotona
+Klasifikacija funkcija
+područje definicije
+Funkcije
+ | FUNKCIJE REALNE VARIJABLE
+ | Ispitivanje toka funkcije
+područje vrijednosti
+Funkcije
+ | FUNKCIJE REALNE VARIJABLE
+potencija
+Potencija
+ | L'Hospitalovo pravilo i računanje
+
+derivacija
+Potencije
+pravila
+Potenciranje s realnim brojem
+pravila potenciranja
+Potencija
+s prirodnim brojem
+Potencija
+s racionalnim brojem
+Potenciranje s racionalnim eksponentom
+ | Klasifikacija elementarnih funkcija
+s realnim brojem
+Potenciranje s realnim brojem
+
+prava racionalna
+Polinomi i racionalne funkcije
+racionalna
+Klasifikacija elementarnih funkcija
+ | Polinomi i racionalne funkcije
+rastuća
+Klasifikacija funkcija
+ | Monotonost
+restrikcija
+Funkcije
+silazna
+Klasifikacija funkcija
+slika
+Funkcije
+strogo konkavna
+Zakrivljenost
+strogo konveksna
+Zakrivljenost
+strogo padajuća
+Klasifikacija funkcija
+strogo rastuća
+Klasifikacija funkcija
+ | Monotonost
+tablična
+Tablično zadavanje
+transcendentna
+Klasifikacija elementarnih funkcija
+trigonometrijska
+Trigonometrijske funkcije
+ | Hiperbolne i area funkcije
+
+derivacija
+Trigonometrijske i arkus funkcije
+vrijednosti
+Trigonometrijske funkcije
+
+uzlazna
+Klasifikacija funkcija
+
+
+
+
+        G
+Gaussova eliminacija
+Gaussova eliminacija
+ | Primjeri
+Gnuplot
+Potenciranje s racionalnim eksponentom
+ | Svojstva logaritama
+ | Arkus funkcije
+ | Ispitivanje toka funkcije
+gomilište
+Gomilište i podniz
+gornja međa
+Uređeni skupovi
+graf
+Apsolutna vrijednost
+granična vrijednost
+Niz realnih brojeva
+
+
+
+        H
+heksadecimalni sustav
+Brojevni sustavi
+hipocikloida
+Parametarsko zadavanje
+homogeni sustav
+Kronecker-Capellijev teorem
+homogenost
+Skalarni produkt
+ | Vektorski produkt
+hvatište
+Vektori
+
+
+
+        I
+identiteta
+Teorem o inverznoj funkciji
+implikacija
+Osnove matematičke logike
+infimum
+Uređeni skupovi
+infleksija
+Zakrivljenost
+ | Zakrivljenost
+ | Ispitivanje toka funkcije
+injekcija
+Teorem o inverznoj funkciji
+intenzitet
+Vektori
+interpolacija
+Tablično zadavanje
+interval
+
+otvoreni
+Uređeni skupovi
+poluotvoreni
+Uređeni skupovi
+zatvoreni
+Uređeni skupovi
+ | Svojstva neprekidnih funkcija
+
+inverzija
+Determinante
+inverzna funkcija
+Teorem o inverznoj funkciji
+iracionalni brojevi
+Realni brojevi
+
+
+
+        J
+
+
+
+        K
+kardinalni broj
+Ekvipotencija i beskonačni skupovi
+Kartezijev produkt
+Binarne relacije
+klasa ekvivalencije
+Binarne relacije
+kodomena
+Funkcije
+ | FUNKCIJE REALNE VARIJABLE
+kofaktor
+Laplaceov razvoj determinante
+kombinacija
+Binomni poučak
+kompleksni broj
+
+-ti korijen
+Trigonometrijski oblik
+argument
+Trigonometrijski oblik
+eksponencijalni oblik
+Eksponencijalni oblik
+Eulerov oblik
+Eksponencijalni oblik
+imaginarni dio
+Kompleksni brojevi
+konjugirani
+Kompleksni brojevi
+ | Polinomi i racionalne funkcije
+potenciranje
+Trigonometrijski oblik
+realni dio
+Kompleksni brojevi
+trigonometrijski oblik
+Trigonometrijski oblik
+
+komutativnost
+Prirodni brojevi
+ | Zbrajanje vektora
+ | Skalarni produkt
+konjunkcija
+Osnove matematičke logike
+konvergencija
+
+apsolutna
+Red funkcija
+jednolika
+Niz funkcija
+uniformna
+Niz funkcija
+ | Red funkcija
+
+koordinatizacija
+
+pravca
+Koordinatizacija pravca
+prostora
+Koordinatizacija prostora
+ravnine
+Koordinatizacija ravnine
+
+koordinatni sustav
+Koordinatizacija pravca
+
+desni
+Koordinatizacija ravnine
+ | Koordinatizacija prostora
+ortogonalni
+Koordinatizacija ravnine
+ | Koordinatizacija prostora
+pravokutni
+Koordinatizacija ravnine
+ | Koordinatizacija prostora
+
+kosinus
+Trigonometrijske funkcije
+ | Opća sinusoida
+ | Arkus funkcije
+
+hiperbolni
+Hiperbolne i area funkcije
+
+kosinus smjera
+Duljina vektora, jedinični vektor,
+ | Skalarni produkt
+kosinusov poučak
+Kosinusov poučak i adicioni
+kotangens
+Trigonometrijske funkcije
+ | Arkus funkcije
+
+hiperbolni
+Hiperbolne i area funkcije
+
+kriterij konvergencije
+Kriteriji konvergencije
+
+Cauchyjev
+Kriteriji konvergencije
+D'Alembertov
+Kriteriji konvergencije
+Leibnitzov
+Alternirani redovi
+poredbeni
+Kriteriji konvergencije
+Raabeov
+Kriteriji konvergencije
+Weierstrassov
+Ispitivanje konvergencije
+
+kritična točka
+Ekstremi
+ | Ispitivanje toka funkcije
+kružnica
+
+implicitno zadana
+Implicitno zadavanje
+parametarska jednadžba
+Parametarsko zadavanje
+
+kut
+Skalarni produkt
+
+između pravaca
+Primjene
+između pravca i ravnine
+Primjene
+između ravnina
+Primjene
+
+kvadrant
+Koordinatizacija ravnine
+kvantifikator
+
+egzistencijalni
+Osnove matematičke logike
+univerzalni
+Osnove matematičke logike
+
+
+
+
+        L
+L'Hospitalovo pravilo
+L'Hospitalovo pravilo i računanje
+ | Ispitivanje toka funkcije
+ | Dva važna limesa
+lančanica
+Hiperbolne i area funkcije
+Leibnitz, Gottfried Wilhelm
+Tangenta i normala
+limes
+
+beskonačan
+Beskonačan limes
+funkcije
+Limes
+ | Limes
+ | Svojstva limesa
+ | Svojstva limesa
+ | Neprekidnost
+ | Svojstva neprekidnih funkcija
+inferior
+Gomilište i podniz
+neodređeni oblik
+L'Hospitalovo pravilo i računanje
+niza brojeva
+Niz realnih brojeva
+niza funkcija
+Niz funkcija
+slijeva
+Limes slijeva i zdesna
+ | Beskonačan limes
+superior
+Gomilište i podniz
+u beskonačnosti
+Limes u beskonačnosti
+u desnom kraju
+Limes u beskonačnosti
+u lijevom kraju
+Limes u beskonačnosti
+zdesna
+Limes slijeva i zdesna
+ | Beskonačan limes
+
+linearna kombinacija
+Linearna nezavisnost
+ | Linearna nezavisnost vektora
+ | Baza prostora 
+linearna nezavisnost
+Linearna nezavisnost
+ | Linearna nezavisnost vektora
+linearna zavisnost
+Linearna nezavisnost
+ | Linearna nezavisnost vektora
+
+Logaritamska funkcija
+
+Logaritamska funkcija
+
+Logaritamska funkcija
+logaritamske tablice
+Tablično zadavanje
+ | Kosinusov poučak i adicioni
+logaritamsko deriviranje
+Logaritamsko deriviranje
+
+
+
+        M
+MacLaurinov razvoj
+Taylorov red
+majoranta
+Kriteriji konvergencije
+maksimum
+Uređeni skupovi
+
+globalni
+Ekstremi
+lokalni
+Ekstremi
+
+Matlab
+Rješavanje trokutastih sustava
+matrica
+LINEARNA ALGEBRA
+ | Matrice
+
+dijagonala
+Matrice
+dijagonalna
+Nul-matrica i jedinična matrica
+ekvivalentne matrice
+Rang matrice
+elementarna matrica transformacije
+Gaussova eliminacija
+ | Elementarne matrice transformacija
+elementi
+Matrice
+invertibilna
+Inverzna matrica
+inverzna
+Inverzna matrica
+ | Računanje inverzne matrice
+jedinična
+Nul-matrica i jedinična matrica
+ | Rang matrice
+matrica sustava
+Matrični zapis sustava linearnih
+množenje
+Množenje matrica
+ | Još o množenju matrica
+množenje sa skalarom
+Množenje matrice sa skalarom
+nul-matrica
+Nul-matrica i jedinična matrica
+proširena matrica sustava
+Matrični zapis sustava linearnih
+ | Gaussova eliminacija
+ | Primjeri
+rang
+Rang matrice
+ | Podmatrice i poddeterminante
+regularna
+Inverzna matrica
+simetrična
+Transponirana matrica
+singularna
+Inverzna matrica
+transponirana
+Transponirana matrica
+trokutasta
+Rješavanje trokutastih sustava
+zbrajanje
+Zbrajanje matrica
+
+minimum
+Uređeni skupovi
+
+globalni
+Ekstremi
+lokalni
+Ekstremi
+
+minoranta
+Kriteriji konvergencije
+mješoviti produkt
+Mješoviti produkt
+množenje
+Prirodni brojevi
+modul
+
+kompleksnog broja
+Kompleksni brojevi
+
+Moivreova formula
+Trigonometrijski oblik
+
+
+
+        N
+najveće cijelo
+Klasifikacija funkcija
+negacija
+Osnove matematičke logike
+nejednakost trokuta
+Apsolutna vrijednost
+NetPlot
+Eksplicitno zadavanje
+ | Parametarsko zadavanje
+ | Parametarsko zadavanje
+ | Parametarsko zadavanje
+ | Polinomi i racionalne funkcije
+ | Ispitivanje toka funkcije
+Newton, Isaac
+Derivacija
+niz
+
+Cauchyjev
+Cauchyjev niz
+divergentan
+Niz realnih brojeva
+ | Niz realnih brojeva
+funkcija
+Niz funkcija
+geometrijski
+Gomilište i podniz
+konvergentan
+Niz realnih brojeva
+ | Omeđenost, monotonost i konvergencija
+ | Cauchyjev niz
+ | Niz funkcija
+limes
+Niz realnih brojeva
+
+svojstva
+Svojstva limesa
+
+monoton
+Niz realnih brojeva
+omeđen
+Omeđenost, monotonost i konvergencija
+osnovna nejednadžba konvergencije
+Niz realnih brojeva
+ | Dva važna limesa
+padajući
+Niz realnih brojeva
+parcijalnih suma
+Red realnih brojeva
+ | Red funkcija
+rastući
+Niz realnih brojeva
+realnih brojeva
+Niz realnih brojeva
+stacionaran
+Niz realnih brojeva
+član
+Niz realnih brojeva
+
+niz funkcija
+Niz funkcija
+
+jednolika konvergencija
+Niz funkcija
+konvergencija po točkama
+Niz funkcija
+konvergentan
+Niz funkcija
+limes
+Niz funkcija
+obična konvergencija
+Niz funkcija
+uniformna konvergencija
+Niz funkcija
+član
+Niz funkcija
+
+norma
+Vektori
+ | Vektori
+ | Duljina vektora, jedinični vektor,
+normala
+Ravnina
+ | Tangenta i normala
+nužan uvjet
+Osnove matematičke logike
+
+
+
+        O
+okolina
+Ekstremi
+oktalni sustav
+Brojevni sustavi
+opisana kružnica
+Primjene
+ordinata
+Koordinatizacija ravnine
+ | Koordinatizacija prostora
+ortocentar
+Primjene
+osnovni teorem algebre
+Polinomi i racionalne funkcije
+ostatak
+
+Cauchyjev
+Taylorov red
+Lagrangeov
+Taylorov red
+Schlömlichov
+Taylorov red
+
+otvorena rečenica
+Osnove matematičke logike
+
+
+
+        P
+parametar
+Parametarsko zadavanje
+parametarsko rješenje
+Primjeri
+parcijalna suma
+Red realnih brojeva
+ | Red funkcija
+Pascalov trokut
+Binomni poučak
+ | Binomni poučak
+Peanovi aksiomi
+Prirodni brojevi
+period
+Klasifikacija funkcija
+
+osnovni
+Klasifikacija funkcija
+
+permutacija
+Binomni poučak
+ | Determinante
+
+Trigonometrijske funkcije
+ | Broj 
+ | Alternirani redovi
+Pitagorin poučak
+Duljina vektora, jedinični vektor,
+ | Trigonometrijske funkcije
+ | Kosinusov poučak i adicioni
+pivotiranje
+Pivotiranje
+poddeterminanta
+Podmatrice i poddeterminante
+podmatrica
+Podmatrice i poddeterminante
+podniz
+Gomilište i podniz
+ | Omeđenost, monotonost i konvergencija
+pogreška
+Aritmetika računala
+
+apsolutna
+Približno računanje
+relativna
+Približno računanje
+
+polinom
+Polinomi i racionalne funkcije
+ | Polinomi i racionalne funkcije
+
+nul-točka
+Polinomi i racionalne funkcije
+
+potenciranje
+
+s kompleksnim eksponentom
+Eksponencijalni oblik
+
+površina
+
+paralelograma
+Vektorski produkt
+poligonalnog lika
+Primjene
+trokuta
+Vektorski produkt
+
+pravac
+Pravac
+
+kanonska jednadžba
+Pravac
+okomiti pravci
+Primjene
+paralelni pravci
+Primjene
+parametarska jednadžba
+Pravac
+presjek ravnina
+Pravac
+u ravnini
+Pravac
+vektor smjera
+Pravac
+vektorska jednadžba
+Pravac
+
+pravilo
+
+paralelograma
+Zbrajanje vektora
+poligona
+Zbrajanje vektora
+trokuta
+Zbrajanje vektora
+
+pravilo ukliještene funkcije
+Svojstva limesa
+pravilo zamjene
+Svojstva limesa
+predikat
+Osnove matematičke logike
+prekid
+Asimptote
+ | Polinomi i racionalne funkcije
+
+druge vrste
+Vrste prekida
+prve vrste
+Vrste prekida
+uklonjivi
+Vrste prekida
+
+preslikavanje
+Funkcije
+
+1-1
+Teorem o inverznoj funkciji
+na
+Teorem o inverznoj funkciji
+obostrano jednoznačno
+Teorem o inverznoj funkciji
+
+prikloni kut
+Duljina vektora, jedinični vektor,
+ | Skalarni produkt
+princip matematičke indukcije
+Prirodni brojevi
+projekcija
+
+ortogonalna
+Primjene
+pravca na ravninu
+Primjene
+točke na pravac
+Primjene
+točke na ravninu
+Primjene
+
+proširenje
+Funkcije
+proširenje po neprekidnosti
+Dva važna limesa
+
+
+Racionalni brojevi
+
+
+
+        R
+radijus konvergencije
+Red potencija
+ravnina
+Ravnina
+
+jednadžba kroz točku
+Ravnina
+kroz tri točke
+Ravnina
+normala
+Ravnina
+okomite ravnine
+Primjene
+opći oblik
+Ravnina
+paralelne ravnine
+Primjene
+segmentni oblik
+Ravnina
+vektorska jednadžba
+Ravnina
+
+red
+
+alternirani
+Alternirani redovi
+alternirani harmonijski
+Alternirani redovi
+apsolutno konvergentan
+Apsolutna konvergencija
+geometrijski
+Red realnih brojeva
+ | Red realnih brojeva
+harmonijski
+Nužan uvjet konvergencije
+konvergentan
+Red realnih brojeva
+nužan uvjet konvergencije
+Nužan uvjet konvergencije
+parcijalna suma
+Red realnih brojeva
+realnih brojeva
+Red realnih brojeva
+Taylorov
+Približno računanje
+ | Taylorov red
+ | Taylorov red
+član
+Red realnih brojeva
+
+red funkcija
+Red funkcija
+
+geometrijski
+Red funkcija
+konvergentan
+Red funkcija
+područje konvergencije
+Ispitivanje konvergencije
+član
+Red funkcija
+
+red potencija
+Red potencija
+relacija
+
+ekvivalencije
+Binarne relacije
+ | Vektori
+parcijalnog uređaja
+Uređeni skupovi
+potpunog uređaja
+Uređeni skupovi
+ | Uređaj na skupu prirodnih
+
+restrikcija
+Funkcije
+ | Svojstva neprekidnih funkcija
+
+
+
+        S
+sekanta
+Tangenta i normala
+
+
+Limes slijeva i zdesna
+
+Limes u beskonačnosti
+ | Limes u beskonačnosti
+ | Trigonometrijske funkcije
+ | Arkus funkcije
+
+hiperbolni
+Hiperbolne i area funkcije
+
+sinusoida
+
+opća
+Opća sinusoida
+
+amplituda
+Opća sinusoida
+fazni pomak
+Opća sinusoida
+
+
+sjecište
+
+pravaca
+Primjene
+pravca i ravnine
+Primjene
+ravnina
+Primjene
+
+skalarna komponenta
+Koordinatizacija pravca
+ | Koordinatizacija ravnine
+ | Koordinatizacija prostora
+skalarni produkt
+Skalarni produkt
+skup
+Binarne relacije
+
+beskonačan
+Ekvipotencija i beskonačni skupovi
+cijelih brojeva
+Cijeli brojevi
+diskretan
+Uređaj na skupu prirodnih
+ | Cijeli brojevi
+ekvipotentni skupovi
+Ekvipotencija i beskonačni skupovi
+ | Uređaj na skupu prirodnih
+element
+Binarne relacije
+gust
+Racionalni brojevi
+ | Realni brojevi
+kompleksnih brojeva
+Kompleksni brojevi
+konačan
+Ekvipotencija i beskonačni skupovi
+neprebrojiv
+Realni brojevi
+omeđen odozdo
+Uređeni skupovi
+omeđen odozgo
+Uređeni skupovi
+partitivni
+Binarne relacije
+prazan
+Binarne relacije
+prebrojiv
+Uređaj na skupu prirodnih
+prebrojivo beskonačan
+Uređaj na skupu prirodnih
+prirodnih brojeva
+Prirodni brojevi
+racionalnih brojeva
+Racionalni brojevi
+realnih brojeva
+Realni brojevi
+uređen
+Uređeni skupovi
+ | Uređaj na skupu prirodnih
+
+slika funkcije
+Funkcije
+slobodni vektor
+Matrični zapis sustava linearnih
+stacionarna točka
+Ekstremi
+ | Ispitivanje toka funkcije
+stožac
+Geometrijski ekstrem
+sud
+Osnove matematičke logike
+
+istinitost
+Osnove matematičke logike
+
+supremum
+Uređeni skupovi
+surjekcija
+Teorem o inverznoj funkciji
+sustav linearnih jednadžbi
+LINEARNA ALGEBRA
+ | Matrice
+ | Matrični zapis sustava linearnih
+ | Kronecker-Capellijev teorem
+ | Cramerovo pravilo
+ | Baza prostora 
+
+jedinstveno rješenje
+Kronecker-Capellijev teorem
+parametarsko rješenje
+Kronecker-Capellijev teorem
+trokutasti sustav
+Rješavanje trokutastih sustava
+ | Gaussova eliminacija
+
+suženje
+Funkcije
+
+
+
+        T
+tangens
+Trigonometrijske funkcije
+ | Arkus funkcije
+
+hiperbolni
+Hiperbolne i area funkcije
+
+tangenta
+Tangenta i normala
+ | Deriviranje implicitno zadane funkcije
+
+aproksimacija krivulje
+Diferencijal
+jednadžba
+Tangenta i normala
+
+Taylorov razvoj
+Eksponencijalni oblik
+ | Taylorov red
+Taylorov red
+Približno računanje
+ | Taylorov red
+ | Taylorov red
+Taylorova formula
+Taylorov red
+Teorem
+
+Bolzano-Weierstrass
+Omeđenost, monotonost i konvergencija
+Cauchy
+Cauchyjev i Lagrangeov teorem
+Fermat
+Fermatov i Rolleov teorem
+Kronecker-Capelli
+Kronecker-Capellijev teorem
+L'Hospital
+L'Hospitalovo pravilo i računanje
+ | Ispitivanje toka funkcije
+Lagrange
+Cauchyjev i Lagrangeov teorem
+Leibnitz
+Alternirani redovi
+o monotonosti
+Monotonost
+Rolle
+Fermatov i Rolleov teorem
+srednje vrijednosti
+Cauchyjev i Lagrangeov teorem
+ | Cauchyjev i Lagrangeov teorem
+Weierstrass
+Ispitivanje konvergencije
+
+težište trokuta
+Primjene
+trigonometrijska kružnica
+Trigonometrijske funkcije
+trigonometrijski identitet
+Trigonometrijske funkcije
+ | Hiperbolne i area funkcije
+
+
+
+        U
+udaljenost
+
+pravaca
+Primjene
+pravca i ravnine
+Primjene
+ravnina
+Primjene
+točaka
+Primjene
+točke od pravca
+Primjene
+točke od ravnine
+Primjene
+
+upisana kružnica
+Primjene
+
+
+
+        V
+valjak
+Geometrijski ekstrem
+varijabla
+
+nezavisna
+Funkcije
+ | Derivacija
+zavisna
+Funkcije
+
+vektor
+Matrice
+ | Linearna nezavisnost
+ | Vektori
+
+jedinični
+Duljina vektora, jedinični vektor,
+kolinearan
+Vektori
+ | Koordinatizacija ravnine
+ | Linearna nezavisnost vektora
+komplanaran
+Koordinatizacija ravnine
+ | Linearna nezavisnost vektora
+množenje skalarom
+Množenje vektora skalarom
+nul-vektor
+Vektori
+orijentacija
+Vektori
+položaja
+Prostor radijus-vektora
+radijus-vektor
+Prostor radijus-vektora
+suprotni
+Zbrajanje vektora
+zbrajanje
+Zbrajanje vektora
+
+vektor smjera
+Pravac
+vektorska komponenta
+Koordinatizacija ravnine
+vektorski produkt
+Vektorski produkt
+vektorsko-skalarni produkt
+Mješoviti produkt
+vektorsko-vektorski produkt
+Vektorsko-vektorski produkt
+volumen
+
+paralelopipeda
+Mješoviti produkt
+tetraedra
+Mješoviti produkt
+tijela s ravnim plohama
+Primjene
+
+
+
+
+        Z
+zakoni distribucije
+Osnove matematičke logike
+zbrajanje
+Prirodni brojevi
+Zenonov paradoks
+Red realnih brojeva
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Taylorov red  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: O dokumentu ...  
+
+
+
+
