@@ -18,7 +18,6 @@ for link in soup.find_all('a'):
     
 nodes = nodes[5:-2]
 
-
 for node in nodes:
     url = "http://lavica.fesb.unist.hr/mat1/predavanja/" + str(node)
     handle = urllib.urlopen(url)
@@ -30,7 +29,6 @@ for node in nodes:
     with my_file as file:
         file.write(text)
 my_file.close()
-
 
 for node in nodes:
     file_name = "output/" + str(node[:-5]) + ".txt"
