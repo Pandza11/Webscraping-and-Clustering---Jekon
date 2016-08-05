@@ -10,7 +10,6 @@ handle = urllib.urlopen(url)
 html =  handle.read()
 
 soup = BeautifulSoup(html, 'html.parser')
-
 nodes = []
 
 for link in soup.find_all('a'):
@@ -32,7 +31,6 @@ my_file.close()
 
 for node in nodes:
     file_name = "output/" + str(node[:-5]) + ".txt"
-
     my_file = codecs.open(file_name, "r", "utf-8")
     my_file_string = ""
   
@@ -43,8 +41,7 @@ for node in nodes:
     my_file_string = "".join(c for c in my_file_string if c not in ('!','.',':',')','(',','))
 
     words = nltk.tokenize.word_tokenize(my_file_string)
-    fdist = FreqDist(words)
-    fdist = dict(fdist)
+    fdist = dict(FreqDist(words))
 
     output_file_name = "output/" + str(node[:-5]) +"freqdist.txt"
 
