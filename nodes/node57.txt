@@ -1,0 +1,114 @@
+
+
+
+
+Linearna nezavisnost vektora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Duljina vektora, jedinični  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Baza prostora  
+
+
+
+
+
+Linearna nezavisnost vektora
+
+
+Definicija linearne nezavisnosti vektora u prostoru 
+ jednaka je definiciji linearne nezavisnosti stupčanih
+vektora iz poglavlja 2.5, pri čemu smo se ovdje ograničili
+na trodimenzionalni prostor.
+
+
+Linearna kombinacija
+vektora 
+ je vektor
+
+
+
+
+ 
+Vektori  
+ su 
+  linearno nezavisni
+  ako za sve skalare 
+
+
+
+
+
+ 
+U protivnom su vektori 
+linearno zavisni. 
+Drugim riječima, vektori 
+ su linearno
+zavisni ako 
+i samo ako postoje 
+ takvi da je 
+
+
+
+
+ 
+pri čemu je 
+.
+
+
+Ako je 
+
+
+
+
+ 
+tada je linearna nezavisnost vektora 
+
+ekvivalentna s linearnom nezavisnošću stupaca matrice
+
+
+
+
+
+
+
+Primjer  3.4   Svaka dva kolinearna 
+vektora i svaka tri komplanarna 
+vektora su linearno zavisna. 
+Svaka četiri vektora u prostoru  su
+linearno zavisna. Svaka dva nekolinearna vektora i svaka tri
+nekomplanarna vektora su linearno nezavisna.
+
+
+
+
+
+
+
+
+ 
+Natrag: Duljina vektora, jedinični  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Baza prostora  
+
+
+
+

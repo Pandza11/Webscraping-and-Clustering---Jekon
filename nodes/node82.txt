@@ -1,0 +1,258 @@
+
+
+
+
+Asimptote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Vrste prekida  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Pregled elementarnih funkcija  
+
+
+
+
+
+Asimptote
+
+
+Asimptota funkcije je pravac sa svojstvom da
+udaljenost između točke na grafu funkcije i tog pravca teži k nuli 
+kada točka na grafu odmiče u beskonačnost.
+Funkcija može imati vertikalne, horizontalne i kose asimptote.
+
+
+Pravac  je vertikalna asimptota funkcije  u točki 
+  s lijeve strane 
+ako je  
+
+ ili 
+.
+Analogno, pravac  je vertikalna asimptota funkcije  u
+  točki  s desne strane ako je  
+
+ ili 
+.
+Vertikalne asimptote se mogu nalaziti u 
+točkama prekida
+funkcije ili u otvorenim rubovima područja definicije.
+
+
+Na primjer, pravac  je vertikalna asimptota funkcije 
+
+ s obje strane (slika 4.12).
+Pravac  je vertikalna asimptota funkcija ,  i
+   (slika 4.25) s desne strane. 
+U ovom slučaju vertikalna asimptota se nalazi u rubu područja
+  definicije.
+
+
+Pravac  je horizontalna asimptota funkcije  u
+lijevoj strani ako je  
+
+.
+Analogno, pravac  je horizontalna asimptota funkcije  u
+desnoj strani ako je  
+
+.
+Na primjer pravac  je horizontalna asimptota funkcije
+
+ u obje strane, kao i  horizontalna asimptota
+funkcija  i  u lijevoj strani (slika 4.23). 
+
+
+Ako je 
+
+
+
+
+
+
+(4.5)
+
+
+pri čemu je 
+
+
+
+
+
+tada je pravac  kosa asimptota funkcije  u lijevoj
+  strani. 
+Kosu asimptotu funkcije  u desnoj strani definiramo
+analogno.
+
+
+Izvedimo formule (4.5). Prema slici 4.16 
+udaljenost od točke na krivulji do asimptote je .
+Prema definiciji asimptote 
+ kada 
+.
+Kako je 
+ konstanta, zaključujemo da
+
+
+
+
+
+Zadnji uvjet, koji je ekvivalentan s
+
+
+
+
+
+
+(4.6)
+
+
+je očito nužan i dovoljan uvjet za postojanje kose asimptote.
+Gornja jednakost je ekvivalentna s
+
+.
+Nadalje, (4.6) povlači
+
+
+
+
+
+pa je 
+.
+
+
+
+
+Slika 4.16:
+Kosa asimptota
+
+
+
+
+
+Primjer  4.11   Ispitajmo ponašanje funkcije 
+
+
+
+
+
+u desnoj strani. Vrijedi
+
+
+
+
+
+pa funkcija nema horizontalnu asimptotu u desnoj strani.
+
+
+Potražimo kosu asimptotu: vrijedi
+
+
+
+
+
+pa je . Potražimo : vrijedi
+
+
+
+
+
+pa je . Dakle, pravac  je kosa asimptota funkcije  u
+desnoj strani.
+
+
+
+Zadatak  4.7   Ispitajte ponašanje funkcije iz primjera 4.11 u lijevoj
+  strani i u točki prekida . Pokušajte skicirati funkciju.
+
+
+
+Primjer  4.12     Asimptote možemo tražiti i kod parametarski zadanih funkcija.
+  Dokažimo da je pravac  kosa asimptota Descartesovog lista
+  
+  iz primjera 4.2 kao što je prikazano na slici 4.6.  
+  Descartesov list je u parametarskom obliku zadan s formulama kao u 
+  primjeru 4.4:
+  
+
+
+
+
+Kako su  i  funkcije parametra , prvo moramo utvrditi za koje
+vrijednosti parametra  teži u beskonačno.
+Vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Potražimo prvo kosu asimptotu u lijevoj strani.
+Formule (4.5) primjenjujemo na sljedeći način:
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Dakle, pravac  je kosa asimptota Descartesovog lista u lijevoj
+strani. Slično se pokaže da je isti pravac kosa asimptota i u desnoj 
+strani .
+
+
+
+
+
+
+
+
+ 
+Natrag: Vrste prekida  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Pregled elementarnih funkcija  
+
+
+
+

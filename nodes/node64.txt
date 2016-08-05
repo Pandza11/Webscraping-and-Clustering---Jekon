@@ -1,0 +1,190 @@
+
+
+
+
+Ravnina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pravac  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Primjene  
+
+
+
+
+
+Ravnina
+
+
+Ravnina  je u prostoru  zadana s tri točke
+,  i  koje ne leže na istom pravcu. 
+Za svaku točku  koja leži u ravnini  vektori
+
+, 
+ i 
+ su komplanarni
+(slika 3.17).
+Stoga je volumen paralelopipeda što ga razapinju ti vektori jednak 
+nula (primjer 3.8), odnosno
+
+
+
+
+
+
+(3.10)
+
+
+
+Uz oznake
+
+
+
+
+ 
+jednadžba (3.10) prelazi u 
+vektorsku jednadžbu ravnine
+
+
+
+
+
+
+(3.11)
+
+
+Vektor 
+ je normalni vektor ili 
+normala
+ravnine . Svaki vektor kolinearan s 
+ je također 
+normala ravnine .
+
+
+
+
+Slika 3.17:
+Ravnina u prostoru
+
+
+
+
+Ako je u koordinatnom sustavu 
+
+
+
+
+
+ 
+tada vektorska jednadžba ravnine (3.11) prelazi u 
+jednadžbu ravnine kroz točku 
+
+,
+
+
+
+
+
+
+(3.12)
+
+
+
+Sređivanje gornje jednadžbe daje
+opći oblik jednadžbe ravnine
+
+
+
+
+
+
+(3.13)
+
+
+U obje jednadžbe (3.12) i (3.13) brojevi
+,  i  su skalarne komponente vektora normale 
+.
+
+
+Ako je 
+
+
+
+
+ 
+tada jednadžbu
+(3.10) možemo zapisati pomoću determinante. To nam daje
+jednadžbu ravnine kroz tri 
+točke,
+
+
+
+
+
+
+(3.14)
+
+
+
+
+Zadatak  3.6   Pokažite da je jednadžba (3.14) ekvivalentna s
+
+
+
+
+ 
+
+
+Ako ravnina  ne prolazi ishodištem i ako za točke 
+,  i  odaberemo sjecišta ravnine s koordinatnim osima,
+
+
+
+
+ 
+tada iz (3.14) rješavanjem determinante 
+
+
+
+
+ 
+dobijemo segmentni oblik jednadžbe
+  ravnine
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pravac  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Primjene  
+
+
+
+

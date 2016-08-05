@@ -1,0 +1,190 @@
+
+
+
+
+Koordinatizacija ravnine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija pravca  
+Gore: Koordinatizacija  
+Naprijed: Koordinatizacija prostora  
+
+
+
+
+
+Koordinatizacija ravnine
+
+
+U ravnini  koja se nalazi u prostoru  prvo odaberemo 
+točku  kao ishodište. Zatim odaberemo međusobno
+okomite pravce  i  koji leže u ravnini  i prolaze 
+kroz točku . Na pravcima  i  definiramo koordinatne sustave 
+ 
+ i 
+, redom, pri čemu je
+
+
+
+
+ 
+Točke  i  su odabrane tako da točka 
+rotacijom oko točke  za kut  u pozitivnom smjeru, odnosno
+suprotno od kazaljke sata, prelazi u točku . 
+S ovim smo u ravnini  zadali desni pravokutni (ortogonalni)
+koordinatni sustav
+
+
+
+, koji je prikazan na 
+slici 3.6.
+
+
+
+
+Slika 3.6:
+Koordinatizacija ravnine
+
+
+
+
+Brojevni pravac koji smo nanijeli na pravac  zove se
+apscisna os ili -os, a 
+brojevni pravac koji smo nanijeli na 
+pravac  zove se ordinatna os ili -os.
+Osi dijele ravninu 
+na četiri kvadranta 
+i to na  , ,  i  kvadrant
+(slika 3.6).
+
+
+Neka točka  pripada ravnini .
+Pravac kroz točku , koji je paralelan s pravcem , siječe pravac
+ u točki . Točka  u koordinatnom sustavu 
+
+ima koordinatu . Pravac kroz točku  koji je paralelan s pravcem 
+ siječe pravac  u točki . Točka  u koordinatnom sustavu 
+
+ ima koordinatu . 
+ i  su koordinate točke  u sustavu 
+
+, odnosno  je apscisa, 
+a  je 
+ordinata točke  (slika 3.6).
+
+
+Neka je 
+ radijus-vektor u ravnini .
+Prema pravilu o zbrajanju vektora iz poglavlja 3.2
+vrijedi (slika 3.6)
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Brojevi  i  su 
+skalarne komponente radijus-vektora
+  
+ odnosno vektora 
+.
+Radijus-vektori 
+ i 
+ su 
+vektorske komponente
+radijus-vektora 
+, a
+vektori 
+ i 
+ su vektorske komponente vektora
+  
+.
+
+
+Kako su skalarne komponente jednoznačno određene točkom , za
+označavanje vektora koristimo skraćene zapise
+
+
+
+
+
+
+Vidimo da vektor u ravnini možemo zapisati  kao retčanu matricu 
+dimenzije  ili kao
+stupčanu matricu dimenzije .
+Zbrajanje vektora i množenje vektora skalarom stoga odgovara zbrajanju
+matrica i množenju matrica skalarom.
+
+
+
+Primjer  3.1   Neka je 
+
+
+
+
+ 
+Tada je 
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+
+
+Poglavlje ćemo završiti s dvije definicije:
+vektori koji leže u ravnini  su 
+kolinearni ravnini , 
+a vektori su 
+komplanarni ako imaju 
+predstavnike koji su kolinearni jednoj ravnini.  
+Na primjer, vektori 
+, 
+ i 
+
+ su komplanarni za 
+. 
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija pravca  
+Gore: Koordinatizacija  
+Naprijed: Koordinatizacija prostora  
+
+
+
+

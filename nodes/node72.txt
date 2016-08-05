@@ -1,0 +1,261 @@
+
+
+
+
+Parametarsko zadavanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Implicitno zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Klasifikacija funkcija  
+
+
+
+
+
+Parametarsko zadavanje
+
+
+Funkcija se zadaje parametarski tako da se  i  zadaju kao funkcije
+parametra ,
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Graf parametarski zadane funkcije je 
+krivulja u ravini, 
+, definirana s
+
+
+
+
+
+
+(4.2)
+
+
+Kao i kod implicitno zadanih funkcije, kod parametarski zadane
+funkcije jednoj vrijednosti varijable  može odgovarati više
+vrijednosti varijable .
+
+
+Na primjer, parametarska jednadžba
+kružnice iz primjera 4.1 
+glase
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Lako se provjeri 
+da  i  zadovoljavaju jednadžbu kružnice iz primjera 
+4.1. Uočljivo je da je ovo samo jedna od beskonačno
+mogućih parametarskih jednadžbi ove kružnice (navedite još barem
+jednu).
+
+
+
+Primjer  4.3   
+Cikloida je krivulja koju opisuje fiksna točka kružnice kada se
+ta kružnica kotrlja bez klizanja po pravcu. Parametarska jednadžba
+cikloide glasi (slika 4.7)
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+
+Slika 4.7:
+Cikloida
+
+
+
+
+
+Zadatak  4.2   
+(a)
+Epicikloida 
+je krivulja koju opisuje točka na kružnici kada se
+ta kružnica bez klizanja kotrlja po vanjskom rubu druge kružnice.
+Hipocikloida
+ je krivulja koju opisuje točka na kružnici kada se
+ta kružnica bez klizanja kotrlja po unutrašnjem rubu druge kružnice.
+Nađite jednadžbe epicikloide i hipocikloide u matematičkom priručniku
+i nacrtajte te krivulje pomoću programa
+NetPlot.
+
+(b)
+Izvedite implicitnu jednadžbu cikloide:
+
+
+
+
+
+
+(c)
+Kako glasi jednadžba cikloide koja polazi iz točke ? 
+Provjerite rješenje pomoću programa 
+NetPlot.
+
+
+
+
+
+Primjer  4.4   
+Izvedimo parametarsku jednadžbu Descartesovog lista iz primjera
+4.2. Iz jednadžbe 
+
+
+
+
+
+vidimo da krivulja prolazi kroz točku . Ako je ,
+tada jednadžbu možemo podijeliti s  što daje
+
+
+
+
+
+Uvedimo novu varijablu 
+
+
+
+
+
+što daje
+
+
+
+
+
+Dakle,
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+Zadatak  4.3   Koje dijelove Descartesovog lista na slici 4.6 dobijemo kada
+parametar  poprima vrijednosti u intervalima
+
+, ,  i 
+?
+Kod rješavanja zadatka možete koristiti program 
+NetPlot.
+
+
+U ovoj i sljedećoj glavi vidjet ćemo da su najbolje razvijeni
+teoretski rezultati za analiziranje eksplicitno zadanih funkcija, dok
+se implicitno i parametarski zadane funkcije analiziraju pomoću 
+odgovarajućih prilagodbi tih rezultata. Stoga je kod ispitivanja 
+parametarski zadanih funkcija važno znati kada je i na kojem
+području s  i  eksplicitno zadana funkcija  ili
+. Pri tome je važno uočiti da su kod parametarski zadanih
+funkcija varijable  i  ravnopravne. 
+Sljedeći teorem nam daje uvjete za postojanje funkcije , dok
+se analogni teorem za slučaj funkcije  dobije
+zamjenom varijabli.
+
+
+
+Teorem  4.1     Neka je skup  definiran relacijom (4.2) graf
+  neke parametarski zadane funkcije. Ako je funkcija  injekcija,
+  tada je  ujedno i graf eksplicitno zadane funkcije 
+  pri čemu je 
+.
+Dokaz. 
+Neka je skup 
+ slika funkcije . Kako je 
+injekcija, a ujedno i surjekcija sa skupa 
+ na skup 
+,
+zaključujemo da je  bijekcija između skupova 
+ i 
+.
+Po Teoremu o inverznoj funkciji 1.1 postoji inverzna funkcija
+
+. Definirajmo kompoziciju
+
+. Očito vrijedi 
+. Nadalje,
+
+
+
+
+
+i teorem je dokazan.     Q.E.D.
+
+
+
+
+
+
+
+
+ 
+Natrag: Implicitno zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Klasifikacija funkcija  
+
+
+
+

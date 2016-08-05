@@ -1,0 +1,124 @@
+
+
+
+
+Opća sinusoida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijske funkcije  
+Gore: Trigonometrijske funkcije  
+Naprijed: Kosinusov poučak i  
+
+
+
+Opća sinusoida
+
+Opća sinusoida je funkcija oblika
+
+
+
+
+
+Broj  je 
+amplituda
+ i vrijedi
+
+
+
+
+
+Osnovni period opće sinusoide je 
+
+
+
+
+
+a 
+fazni pomak, 
+odnosno nul-točka desno od koje opća sinusoida
+počinje rasti, je 
+
+
+
+
+
+Kako je , formula za fazni pomak slijedi iz jednakosti 
+
+, a kako je osnovni period funkcije  jednak
+, formula za period slijedi iz jednakosti
+
+
+
+
+
+
+Na primjer, opća sinusoida 
+
+
+
+
+
+ima amplitudu , period  i nul-točku  
+(slika 4.31).
+
+
+
+
+Slika 4.31:
+Opća sinusoida
+
+
+
+
+Funkciju  
+također možemo promatrati kao opću sinusoidu
+uz ,  i 
+, odnosno
+
+
+
+
+
+Slično je i 
+
+
+
+
+
+
+(4.10)
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Trigonometrijske funkcije  
+Gore: Trigonometrijske funkcije  
+Naprijed: Kosinusov poučak i  
+
+
+
+

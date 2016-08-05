@@ -1,0 +1,238 @@
+
+
+
+
+Vektori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: VEKTORSKA ALGEBRA I  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Zbrajanje vektora  
+
+
+
+
+
+Vektori
+
+U ovom poglavlju definirat ćemo pojmove dužine, usmjerene dužine i
+vektora te navesti osnovno svojstvo trodimenzionalnog Euklidskog prostora
+. 
+Pretpostavljamo da su pojmovi kao što su pravac, ravnina, kut i
+prostor poznati.
+
+
+
+Definicija  3.1    Dužina 
+ je skup svih točaka pravca
+  kroz točke  i  koje se nalaze između
+  točaka  i  uključivši i njih. Duljina
+  dužine 
+  
+ je udaljenost točaka  i  i  
+  označava se s  ili . 
+
+
+Usmjerena dužina
+
+ je dužina kod koje su rubne točke uređene,
+  odnosno točka  je početak ili 
+  hvatište, a 
+  točku  svršetak. Udaljenost točaka  i  se
+  u ovom slučaju zove duljina (norma ili 
+  intenzitet)
+  usmjerene dužine 
+ i označava s
+  
+. 
+
+
+Usmjerene dužine 
+ i 
+
+  su ekvivalentne, odnosno 
+  
+
+
+
+ 
+ako dužine 
+ i
+  
+ imaju zajedničko polovište (vidi sliku
+  3.1) .
+
+
+Vektor 
+  je klasa ekvivalencije usmjerenih dužina. Vektore
+  označavamo s 
+
+
+
+
+ 
+Ako je usmjerena dužina  
+ predstavnik vektora 
+  
+, tada je duljina (norma 
+  ili intenzitet)
+  vektora 
+ jednaka udaljenosti točaka  i . 
+  Duljinu vektora označavamo s 
+.   
+
+
+Nul-vektor 
+  je vektor koji ima početak i kraj u istoj točki. Nul-vektor
+  označavamo s 
+, vrijedi 
+, a njegovi
+  predstavnici su sve usmjerene dužine oblika 
+.  
+
+
+
+
+Slika 3.1:
+Ekvivalentne usmjerene dužine
+
+
+
+
+Dokažimo da je relacija  iz definicije 3.1 zaista
+relacija ekvivalencije. Prema definiciji 1.4,
+relacija ekvivalencije
+je refleksivna, simetrična i tranzitivna.
+Očito je 
+ pa je relacija
+ refleksivna. Također, ako je 
+
+, tada je i
+
+ pa je relacija
+ simetrična. 
+Dokaz tranzitivnosti je nešto složeniji.
+Ukoliko točke , ,  i  ne leže na istom pravcu, tada je 
+
+ ako i samo ako
+su točke  susjedni vrhovi paralelograma 
+(vidi sliku 3.1).
+Ukoliko točke , ,  i  leže na istom pravcu, tada je
+
+ ako i samo ako
+vrijedi
+
+
+
+
+
+U ovom slučaju kažemo da su točke  susjedni vrhovi 
+degeneriranog paralelograma.
+Stoga, ako je 
+
+
+
+
+ 
+tada su točke  susjedni vrhovi nekog paralelograma ili
+degeneriranog paralelograma, a isto vrijedi i za točke 
+. 
+Tada su i točke
+ susjedni vrhovi nekog paralelograma ili degeneriranog
+paralelograma. Dakle  
+
+ pa je 
+relacija  tranzitivna.
+
+
+Vezu između usmjerenih dužina i vektora daje nam 
+osnovno svojstvo euklidskog prostora:
+ako je 
+ proizvoljna točka i 
+ zadani vektor,
+tada postoji jedinstvena točka  takva da je usmjerena dužina 
+
+ predstavnik vektora 
+.
+S ovim postupkom je vektor 
+ sveden na početak  odnosno
+nanesen na . U primjenama često pišemo i 
+
+
+
+
+ 
+Premda taj zapis nije sasvim korektan
+jer je vektor 
+ klasa ekvivalencije, a 
+
+ samo jedan predstavnik tog vektora, 
+zbog osnovnog svojstva euklidskog prostora uvijek je jasno o kojem se 
+vektoru radi. Stoga uglavnom nećemo praviti razliku između vektora i
+njegovog predstavnika.
+
+
+
+Definicija  3.2     Vektori 
+ i 
+ su 
+kolinearni ako leže na istom
+  ili paralelnim pravcima. 
+Ako su vektori 
+ i 
+ kolinearni, možemo odbrati
+  točke ,  i  koje leže na istom pravcu takve da je
+  
+
+
+
+ 
+Vektori 
+ i 
+ imaju 
+  istu orijentaciju ako 
+  se točke  i  nalaze s iste strane točke .
+  Vektori 
+ i 
+ imaju suprotnu orijentaciju ako 
+  se točke  i  nalaze s različitih  strana točke .
+
+
+Iz definicije slijedi da su dva vektora jednaka
+ako su kolinearni, istog smjera i jednake duljine.  
+Posebno, nul-vektor je kolinearan sa svakim vektorom i za njega
+nema smisla govoriti o orijentaciji.
+
+
+
+
+
+
+
+
+ 
+Natrag: VEKTORSKA ALGEBRA I  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Zbrajanje vektora  
+
+
+
+

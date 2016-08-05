@@ -1,0 +1,206 @@
+
+
+
+
+Kosinusov poučak i adicioni teoremi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Opća sinusoida  
+Gore: Trigonometrijske funkcije  
+Naprijed: Arkus funkcije  
+
+
+
+Kosinusov poučak i adicioni teoremi
+
+
+U ovom poglavlju izvest ćemo neke veze između trigonometrijskih
+funkcija.
+
+
+Za pravokutni trokut s katetama  i  i hipotenuzom ,
+Pitagorin poučak glasi 
+. Za trokut koji nije pravokutan
+Pitagorin poučak i osnovni trigonometrijski 
+identitet (4.9) daju 
+kosinusov poučak 
+(vidi sliku 4.32):
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+
+Slika 4.32:
+Kosinusov poučak
+
+
+
+
+Adicioni teoremi
+ nam daju formule za sinus i kosinus zbroja i
+  razlike kutova. Promotrimo sliku 4.33.
+
+
+
+
+Slika 4.33:
+Adicioni teoremi
+
+
+
+
+Primjena kosinusovog poučka na trokut 
+ daje
+
+
+
+
+
+S druge strane, iz  Pitagorinog poučka 
+slijedi
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Izjednačavanje gornjih izraza daje prvi adicioni teorem
+
+
+
+
+
+
+(A1)
+
+
+Kako je sinus neparna, a kosinus parna funkcija, zamjena
+ daje
+
+
+
+
+
+
+(A2)
+
+
+Dalje, za  imamo
+
+
+
+
+
+
+(A3)
+
+
+Zamjena 
+ u (A2) daje
+
+
+
+
+
+pa jednakost (4.10) povlači
+
+
+
+
+
+
+(A4)
+
+
+Konačno, kada u (A4) izvršimo zamjenu  imamo
+
+
+
+
+
+
+(A5)
+
+
+a kada  u (A4) uvrstimo  imamo
+
+
+
+
+
+
+(A6)
+
+
+
+Koristeći osnovne adicione teoreme možemo izvesti i
+  razne druge formule.
+
+
+
+Zadatak  4.11   Izvedite formule koje funkcije 
+  , , 
+, 
+  ,  i 
+ prikazuju pomoću funkcija 
+   i . Izvedite još nekoliko veza između
+  trigonometrijskih funkcija koje se nalaze u Matematičkom priručniku
+  ili logaritamskim tablicama.
+
+
+
+
+
+
+
+
+ 
+Natrag: Opća sinusoida  
+Gore: Trigonometrijske funkcije  
+Naprijed: Arkus funkcije  
+
+
+
+

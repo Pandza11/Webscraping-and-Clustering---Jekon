@@ -1,0 +1,255 @@
+
+
+
+
+Vektorski produkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Skalarni produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Mješoviti produkt  
+
+
+
+
+
+Vektorski produkt
+
+
+
+Definicija  3.5   Vektorski produkt
+vektora 
+ i 
+ je 
+vektor 
+ takav da je
+
+
+
+
+
+Pored toga, ako je 
+, tada je
+
+
+
+
+
+pri čemu uređena trojka vektora 
+ čini desni
+sustav (slika 3.10).
+
+
+
+
+Slika 3.10:
+Vektorski produkt
+
+
+
+
+Vektorski produkt ima sljedeća svojstva:
+
+V1.
+
+ ako je 
+ ili 
+  
+ ili ako su vektori 
+ i 
+ kolinearni,
+
+V2.
+vrijedi 
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+
+V3.
+
+     
+(anti-komutativnost), 
+
+V4.
+
+     (distributivnost),
+
+V5.
+
+     (homogenost),
+
+V6.
+norma 
+ jednaka je površini
+paralelograma 
+što ga razapinju vektori 
+ i 
+
+(slika 3.11).
+
+
+
+
+
+Slika 3.11:
+Modul vektorskog produkta
+
+
+
+
+U pravokutnom koordinatnom sustavu vektorski produkt računamo pomoću
+determinante.
+
+
+
+Teorem  3.3   Ako je 
+
+
+
+
+ 
+tada je
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Dokaz. 
+Tvrdnja slijedi iz svojstava V2, V4 i V5. 
+    Q.E.D.
+
+
+
+Napomena  3.2   Svojstva vektorskog produkta odgovaraju svojstvima determinanti iz
+poglavlja 2.9.1:
+
+
+prvi dio svojstva V2 odgovara svojstvu D4 koje kaže da je
+determinanta s dva jednaka retka jednaka nuli,
+
+svojstvo V3 odgovara svojstvu D3 koje kaže da zamjenom dvaju redaka
+determinanta mijenja predznak,
+
+svojstva V4 i V5 odgovaraju 
+svojstvu D5.
+
+
+
+
+Definicija vektorskog produkta 3.5 i teorem 3.3
+omogućuju računanje površine poligonalnih likova u ravnini.
+
+
+
+Primjer  3.7   Izračunajmo površinu trokuta
+
+ zadanog s
+
+
+
+
+ 
+Površina trokuta jednaka je polovici površine paralelograma
+razapetog s vektorima 
+ i 
+ (slika 3.12).
+Kako je
+
+
+
+
+ 
+vrijedi
+
+
+
+
+
+
+   
+
+
+Uočimo da smo na jednostavan način riješili naočigled složeni problem,
+jer smo našli površinu trokuta smještenog u prostoru, a nismo ga
+morali niti skicirati. Na isti način možemo provjeriti leže li
+tri točke na pravcu, jer će u tom slučaju površina trokuta biti
+nula.
+
+
+Na sličan način možemo izračunati površinu bilo kojeg poligonalnog
+lika u prostoru, jer svaki takav lik možemo podijeliti na trokute.
+
+
+
+
+Slika 3.12:
+Površina trokuta
+
+
+
+
+
+Zadatak  3.2   Izračunajte površinu trokuta iz prethodnog primjera pomoću
+paralelograma razapetog s vektorima 
+ i 
+.
+Može li se zadatak riješiti ako promatramo paralelogram
+razapet s vektorima 
+ i 
+?
+
+
+
+
+
+
+
+
+ 
+Natrag: Skalarni produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Mješoviti produkt  
+
+
+
+

@@ -1,0 +1,180 @@
+
+
+
+
+Duljina vektora, jedinični vektor, kut između vektora i kosinusi smjerova
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija prostora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Linearna nezavisnost vektora  
+
+
+
+
+
+Duljina vektora, jedinični vektor, kut između vektora 
+i kosinusi smjerova
+
+
+Duljina ili norma
+vektora 
+ jednaka je
+
+
+
+
+
+
+(3.1)
+
+
+Naime, dvostrukom primjenom Pitagorinog 
+poučka (slika 3.7)
+dobijemo:
+
+
+
+
+
+
+Jedinični vektor 
+vektora 
+ je vektor
+
+
+
+
+ 
+Iz definicije slijedi 
+
+
+
+
+ 
+odnosno jedinični vektor ima duljinu jedan, kolinearan je vektoru
+
+ i ima istu orijentaciju.
+Na primjer, vektori 
+, 
+ i 
+ su sami svoji
+jedinični vektori.
+
+
+Neka je 
+ i neka su 
+ i
+
+ njihovi predstavnici s hvatištem u točki , redom.
+Kut između vektora 
+ i 
+ definiramo kao 
+kut između usmjerenih dužina 
+ i 
+,
+
+
+
+
+
+
+Prikloni kutovi 
+vektora  
+ su kutovi koje taj
+vektor zatvara s vektorima 
+, 
+ i 
+.
+Kosinusi smjerova 
+su kosinusi priklonih kutova.
+
+
+
+Teorem  3.1   Kosinusi smjerova vektora 
+
+ jednaki su 
+skalarnim komponentama jediničnog vektora 
+.
+Dokaz. 
+Tvrdnja slijedi iz definicije skalarnog produkta u poglavlju 
+3.9 (vidi primjer 3.6).
+    Q.E.D.
+
+
+Ako je 
+ i ako priklone 
+kutove označimo redom s ,  i , tada je
+
+
+
+
+ 
+Očito je
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+Primjer  3.3    
+Ako je 
+, tada je
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija prostora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Linearna nezavisnost vektora  
+
+
+
+

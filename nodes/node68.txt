@@ -1,0 +1,64 @@
+
+
+
+
+Načini zadavanja funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: FUNKCIJE REALNE VARIJABLE  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Tablično zadavanje  
+
+
+
+
+
+Načini zadavanja funkcija
+
+
+Funkciju možemo zadati tablično, eksplicitno, implicitno i
+parametarski.
+
+
+ 
+
+Poglavlja
+
+Tablično zadavanje
+Eksplicitno zadavanje
+Implicitno zadavanje
+Parametarsko zadavanje
+
+
+
+
+
+
+
+
+ 
+Natrag: FUNKCIJE REALNE VARIJABLE  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Tablično zadavanje  
+
+
+
+

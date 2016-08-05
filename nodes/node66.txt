@@ -1,0 +1,204 @@
+
+
+
+
+Primjeri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjene  
+Gore: Primjene  
+Naprijed: FUNKCIJE REALNE VARIJABLE  
+
+
+
+
+
+Primjeri
+
+
+Sljedeći primjeri ilustriraju nalaženje sjecišta pravca i ravnine,
+projekcije točke na pravac i udaljenosti točke od pravca te
+projekcije točke na ravninu i udaljenosti točke od ravnine.
+
+
+
+Primjer  3.12   Odredimo točku  u kojoj se sijeku pravac
+
+
+
+
+ 
+i ravnina  zadana s 
+.
+Parametarska jednadžba pravca glasi
+
+
+
+
+ 
+Uvrštavanje u jednadžbu ravnine daje
+
+
+
+
+ 
+odnosno . Uvrštavanje ove vrijednosti  u parametarsku
+jednadžbu pravca daje ,  i  pa je tražena točka 
+jednaka (slika 3.18)
+
+
+
+
+ 
+
+
+
+
+Slika 3.18:
+Sjecište pravca i ravnine
+
+
+
+
+
+Primjer  3.13   Odredimo projekciju  točke  na pravac
+
+
+
+
+ 
+i udaljenost točke  od pravca .
+
+
+Za određivanje projekcije odredit ćemo pomoćnu ravninu 
+ koja prolazi točkom , a okomita je na pravac . 
+Točka  je sjecište pravca  i ravnine  
+(slika 3.19). 
+
+
+Normala ravnine  jednaka je vektoru smjera pravca ,
+
+
+
+
+ 
+Ravnina prolazi točkom  pa formula (3.12) daje
+
+
+
+
+ 
+Nađimo sjecište pravca i ravnine kao u primjeru 3.12:
+parametarska jednadžba pravca  glasi
+
+
+
+
+ 
+pa uvrštavanje u jednadžbu ravnine daje
+
+. Uvrštavanje  u parametarsku
+jednadžbu pravca daje 
+
+
+
+
+ 
+Konačno,
+
+
+
+
+ 
+
+
+
+
+Slika 3.19:
+Projekcija točke na pravac
+
+
+
+
+
+Primjer  3.14   Odredimo projekciju  točke  na ravninu
+
+
+
+
+ 
+i udaljenost točke  od ravnine .
+
+
+Prvo ćemo naći pomoćni pravac 
+ koji prolazi točkom , a okomit je na ravninu . 
+Točka  je tada sjecište pravca i ravnine (slika 3.20). 
+
+
+Vektor smjera pravca  jednak je normali ravnine ,
+
+
+
+
+ 
+Pravac prolazi točkom  pa njegova parametarska jednadžba glasi
+
+
+
+
+ 
+Slično kao u prethodnom primjeru, uvrštavanje u jednadžbu ravnine daje
+
+, odnosno
+
+
+
+
+ 
+Konačno
+
+
+
+
+ 
+
+
+
+
+Slika 3.20:
+Projekcija točke na ravninu
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjene  
+Gore: Primjene  
+Naprijed: FUNKCIJE REALNE VARIJABLE  
+
+
+
+

@@ -1,0 +1,239 @@
+
+
+
+
+Klasifikacija funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Parametarsko zadavanje  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Limes  
+
+
+
+
+
+Klasifikacija funkcija
+
+
+U ovom poglavlju definirat ćemo što su 
+
+
+omeđene i neomeđene funkcije,
+
+parne i neparne funkcije,
+
+rastuće i padajuće (monotone) funkcije i
+
+periodične funkcije.
+
+
+Neka je 
+
+
+
+
+
+
+
+Definicija  4.1   
+Funkcija  je omeđena 
+ako postoji broj  takav da je
+
+ za svaki 
+. Funkcija  je 
+neomeđena
+ako nije omeđena. 
+
+
+Na primjer, funkcija  iz poglavlja 1.7.2 je neomeđena
+jer za svaki  postoji 
+ takav da je .
+
+
+
+Definicija  4.2   Funkcija  je parna 
+ako je 
+ za svaki 
+, 
+a neparna 
+ako je 
+ za svaki 
+.
+
+
+Očito i kod parne i neparne funkcije područje definicije mora biti
+simetrično s obzirom na ishodište.
+Na primjer, funkcija
+
+
+
+
+
+je parna za  paran, a neparna za  neparan pa odatle i nazivi:
+
+
+
+
+
+
+Funkcija  je parna: ako je , tada je  pa vrijedi
+
+
+
+
+
+a ako je  tada je  pa vrijedi
+
+
+
+
+
+
+
+Definicija  4.3   Funkcija  je rastuća ili 
+uzlazna na intervalu
+
+ ako 
+
+
+
+
+
+Funkcija  je strogo rastuća 
+na intervalu
+
+ ako 
+
+
+
+
+
+Slično, funkcija   je padajuća ili 
+silazna na intervalu
+
+ ako 
+
+
+
+
+
+a strogo padajuća na intervalu
+
+ ako 
+
+
+
+
+
+Ako je 
+ tada kažemo da je funkcija 
+(strogo) rastuća ili padajuća bez navođenja skupa.
+
+
+Ako je funkcija (strogo) rastuća ili padajuća, još kažemo i da je
+(strogo) monotona. 
+
+
+Funkcija je 
+po dijelovima monotona 
+ako se područje definicije 
+
+ može rastaviti na konačno mnogo podintervala takvih da
+je na svakom od njih funkcija monotona. 
+
+
+Na primjer, funkcija  je strogo padajuća na intervalu 
+
+ i strogo rastuća na intervalu 
+, dakle po
+dijelovima strogo monotona.
+Konstantna funkcija  (slika 4.17) 
+je monotona i to istovremeno i rastuća i
+padajuća na čitavoj domeni (ali ne strogo). 
+
+
+
+Definicija  4.4   Funkcija  je periodična 
+ako postoji broj  takav 
+da za svaki 
+ vrijedi
+
+
+
+
+
+Tada očito mora vrijediti 
+. Najmanji pozitivni  s ovim 
+svojstvom
+zove se osnovni period ili 
+period funkcije .
+Primjeri periodičnih funkcija su 
+trigonometrijske funkcije.
+
+
+
+Primjer  4.5   Funkcija najveće cijelo, 
+
+ je definirana s
+
+
+
+
+
+Definirajmo funkciju 
+ s
+
+
+
+
+
+Kako je 
+, to je 
+. Nadalje, za svaki
+
+ vrijedi
+
+
+
+
+
+pa je  periodična funkcija s osnovnim periodom .
+
+
+
+Zadatak  4.4   Nacrtajte funkcije  i  iz primjera 4.5.
+
+
+
+
+
+
+
+
+ 
+Natrag: Parametarsko zadavanje  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Limes  
+
+
+
+

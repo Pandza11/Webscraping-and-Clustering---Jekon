@@ -1,0 +1,240 @@
+
+
+
+
+Arkus funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kosinusov poučak i  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Klasifikacija elementarnih funkcija  
+
+
+
+
+
+Arkus funkcije
+
+
+Arkus funkcije ili 
+ciklometrijske funkcije 
+su inverzne 
+funkcije odgovarajućih restrikcija trigonometrijskih funkcija. 
+Naime, ni jedna od trigonometrijskih funkcija nije bijekcija
+(funkcija ne može biti bijekcija čim je periodična).
+Međutim, u primjenama se često javlja potreba za njihovim inverzima, 
+pa su inverzi definirani za pogodno odabrane restrikcije koje 
+jesu bijekcije. Pri tome se najčešće biraju restrikcije na
+odgovarajući interval koji je najbliži nuli.
+
+
+Na slici 4.28 vidimo da je restrikcija sinusa 
+na interval 
+
+ bijekcija. Arkus sinus 
+je inverzna funkcija te
+restrikcije pa vrijedi
+
+
+
+
+
+Funkcija  prikazana je na slici 4.34.
+Vidimo da je funkcija strogo rastuća, neparna, neprekidna i nema
+asimptota.
+
+
+
+
+Slika 4.34:
+Arkus sinus
+
+
+
+
+Prema Teoremu o inverznoj funkciji 1.1 vrijedi (slika
+4.35):
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+
+Slika 4.35:
+Kompozicije restrikcije sinusa s arkus sinusom
+
+
+
+
+Međutim, funkcija 
+ je definirana za svaki 
+,
+a njen graf dan je na slici 4.36.
+
+
+
+
+Slika 4.36:
+Funkcija 
+
+
+
+
+
+Funkcija arkus kosinus 
+je inverzna funkcija restrikcije 
+funkcije 
+na interval  (vidi sliku 4.28)
+i vrijedi
+
+
+
+
+
+Funkcija  prikazana je na slici 4.37. Ona je 
+strogo padajuća, neprekidna i nema asimptota.
+
+
+
+
+Slika 4.37:
+Arkus kosinus
+
+
+
+
+Funkcija arkus tangens 
+je inverzna funkcija restrikcije 
+funkcije 
+ 
+na interval 
+ 
+(vidi sliku 4.29)
+i vrijedi
+
+
+
+
+
+Funkcija 
+ je 
+strogo rastuća, neparna i neprekidna te ima horizontalne asimptote i to
+pravac  u lijevom i  u desnom kraju 
+(slika 4.38).
+
+
+Slično, funkcija arkus kotangens
+je inverzna funkcija restrikcije 
+funkcije 
+ na interval  
+(vidi sliku 4.30) pa vrijedi
+
+
+
+
+
+Funkcija 
+ je strogo padajuća i neprekidna te ima
+horizontalne asimptote i to pravac  u lijevom i  u desnom
+kraju (slika 4.38).
+Kako program za crtanje
+Gnuplot
+nema ugrađenu funkciju 
+, tu funkciju smo nacrtali 
+
+
+koristeći 
+vezu
+
+
+
+
+
+
+
+
+Slika 4.38:
+Arkus tangens i arkus kotangens
+
+
+
+
+
+Zadatak  4.12   Nacrtajte funkcije
+  
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Kosinusov poučak i  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Klasifikacija elementarnih funkcija  
+
+
+
+

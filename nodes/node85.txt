@@ -1,0 +1,152 @@
+
+
+
+
+Potencija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Konstantna funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Potenciranje s racionalnim  
+
+
+
+
+
+Potencija
+
+
+Potenciranje s 
+prirodnim brojem 
+je funkcija 
+
+ definirana s
+
+
+
+
+
+Potenciranje je definirano rekurzivno:
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Pravila potenciranja se lako dokažu indukcijom:
+
+
+
+ 
+
+
+(P1)
+
+ 
+
+
+(P2)
+
+ 
+
+
+(P3)
+
+
+Primjeri potencija dani su na slici 4.18.
+
+
+
+Slika 4.18:
+Potenciranje s prirodnim brojem
+
+
+
+Vidimo da su (ne)parne potencije (ne)parne 
+funkcije.
+Također vidimo da je za neparan  funkcija 
+bijekcija 
+pa ima inverznu funkciju po teoremu 1.1, 
+dok je za paran  restrikcija funkcije  na interval
+
+ bijekcija pa ima inverznu funkciju.  
+
+
+Ako je  i 
+, tada su dobro
+definirane i funkcije 
+ 
+(vidi sliku 4.19)
+
+
+
+
+
+
+
+Slika 4.19:
+Funkcije 
+, 
+ 
+
+
+
+Pravila (P1), (P2) i (P3) vrijede 
+
+ ukoliko su
+izrazi dobro definirani, odnosno ukoliko nazivnik nije nula. 
+
+
+ 
+
+Poglavlja
+
+Potenciranje s racionalnim eksponentom
+Potenciranje s realnim brojem
+
+
+
+
+
+
+
+
+ 
+Natrag: Konstantna funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Potenciranje s racionalnim  
+
+
+
+

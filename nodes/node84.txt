@@ -1,0 +1,74 @@
+
+
+
+
+Konstantna funkcija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Pregled elementarnih funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Potencija  
+
+
+
+
+
+Konstantna funkcija
+
+Funkcija 
+, pri čemu je 
+, definirana s
+
+
+
+
+
+zove se konstantna funkcija (slika 4.17).
+
+
+
+
+Slika 4.17:
+Konstantna funkcija
+
+
+
+Konstantna funkcija je neprekidna,
+omeđena, parna,
+monotona, nema vertikalne ni kose asimptote te je
+očito sama sebi
+horizontalna asimptota u oba kraja.
+
+
+
+
+
+
+
+
+ 
+Natrag: Pregled elementarnih funkcija  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Potencija  
+
+
+
+

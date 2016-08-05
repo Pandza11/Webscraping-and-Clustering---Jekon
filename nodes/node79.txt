@@ -1,0 +1,94 @@
+
+
+
+
+Neprekidnost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Beskonačan limes  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Svojstva neprekidnih funkcija  
+
+
+
+
+
+Neprekidnost
+
+
+Definirat ćemo svojstvo neprekidnosti, dati svojstva neprekidnih
+funkcija, opisati vrste prekida koje funkcija može imati te
+definirati asimptote i opisati postupak za njihovo nalaženje.
+
+
+Intuitivna definicija neprekidnosti je sljedeća: 
+funkcija je neprekidna ako njen graf možemo nacrtati bez podizanja
+olovke s papira. Međutim, ova definicija nas ne zadovoljava jer pomoću nje
+nismo u mogućnosti dokazati razna svojstva neprekidnih funkcija koja 
+koristimo u analizi. Stroga matematička definicija neprekidnosti
+koristi pojam limesa.
+
+
+
+Definicija  4.6   Funkcija  je neprekidna u točki
+
+
+ ako je 
+
+
+
+
+
+Funkcija  je neprekidna na skupu
+
+ ako je neprekidna u svakoj točki skupa
+. Funkcija  je neprekidna
+ako je neprekidna u svakoj točki svoga područja definicije 
+.
+
+
+Pomoću ove definicije i definicije limesa (4.3) možemo dokazati
+nekoliko izuzetno važnih svojstava neprekidnih funkcija.
+Tri teorema u sljedećem poglavlju navodimo bez dokaza. 
+
+
+ 
+
+Poglavlja
+
+Svojstva neprekidnih funkcija
+Vrste prekida
+
+
+
+
+
+
+
+
+ 
+Natrag: Beskonačan limes  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Svojstva neprekidnih funkcija  
+
+
+
+

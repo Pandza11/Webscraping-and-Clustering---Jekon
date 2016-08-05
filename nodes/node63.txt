@@ -1,0 +1,303 @@
+
+
+
+
+Pravac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektorsko-vektorski produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Ravnina  
+
+
+
+
+
+Pravac
+
+
+Pravac  je u prostoru  zadan s dvije različite točke
+ i . Za svaku točku  koja leži na pravcu  vektori
+
+ i 
+ su kolinearni, odnosno postoji 
+
+ takav da je (slika 3.15)
+
+
+
+
+ 
+Uz oznake
+
+
+
+
+ 
+imamo vektorsku jednadžbu pravca
+
+
+
+
+
+ 
+odnosno
+
+
+
+
+
+
+(3.5)
+
+
+Vektor 
+ je vektor smjera
+ 
+pravca . 
+Za vektor smjera možemo uzeti i bilo koji drugi vektor koji je
+kolinearan s vektorom 
+.
+
+
+
+
+Slika 3.15:
+Pravac u prostoru
+
+
+
+
+Neka je u koordinatnom sustavu 
+
+
+
+
+
+ 
+Tada vektorska jednadžba pravca (3.5) prelazi u 
+parametarsku jednadžbu pravca
+
+
+
+
+
+
+
+(3.6)
+
+
+
+Eliminacijom parametra  iz jednadžbe (3.6) dobivamo 
+kanonsku (simetričnu) jednadžbu pravca
+
+
+
+
+
+
+
+(3.7)
+
+
+U gornjoj formuli nazivnici ne označavaju dijeljenje nego
+skalarne komponente vektora smjera pa ih pišemo i onda kada su
+jednaki nula.
+
+
+
+Primjer  3.9   Jednadžba -osi glasi
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Naime, -os prolazi ishodištem , a vektor smjera joj je
+
+. No, 
+
+
+
+
+ 
+je također jednadžba -osi.
+
+
+U formuli (3.7) je zapisan sustav od tri linearne jednadžbe s
+tri nepoznanice,
+
+
+
+
+
+
+   
+
+
+
+
+(3.8)
+
+
+
+
+   
+
+
+Ove jednadžbe definiraju pravac pa sustav ima jednoparametarsko
+rješenje. Stoga su prema Kronecker-Capellijevom teoremu 2.5
+jednadžbe linearno zavisne, a sustav je ekvivalentan sustavu od 
+dvije linearno nezavisne jednadžbe koje odaberemo među njima.
+
+
+Dakle, pravac možemo zadati s dvije linearno nezavisne jednadžbe s
+tri nepoznanice,
+
+
+
+
+
+
+   
+
+
+
+
+(3.9)
+
+
+od kojih svaka predstavlja jednu ravninu u prostoru
+(poglavlje 3.14). 
+Iz sustava (3.9) eliminacijom jedne od varijabli dobijemo
+kanonsku jednadžbu (3.7), iz koje onda lako dobijemo
+parametarsku jednadžbu pravca (3.6).
+
+
+
+Primjer  3.10   Nađimo kanonsku i parametarsku jednadžbu pravca zadanog s 
+(slika 3.16)
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+Kad od prve jednadžbe oduzmemo dvostruku drugu dobijemo
+, odnosno
+
+
+
+
+ 
+Kada zbrojimo prvu i drugu jednadžbu dobijemo , odnosno
+
+
+
+
+ 
+Stoga kanonska jednadžba pravca glasi
+
+
+
+
+ 
+Pravac prolazi točkom 
+ i ima vektor smjera
+
+. Parametarska jednadžba glasi
+
+
+
+
+ 
+
+
+
+
+Slika 3.16:
+Pravac kao presjek ravnina
+
+
+
+
+
+Primjer  3.11   Ako pravac  leži u - ravnini, 
+tada svi izrazi koji sadrže
+varijablu  u (3.6), (3.7) i (3.8) nestaju.
+Posebno, (3.8) prelazi u 
+
+
+
+
+ 
+Ako je , imamo
+
+
+
+
+ 
+Označimo li koeficijent smjera s 
+, dobijemo jednadžbu
+pravaca kroz točku 
+ s koeficijentom smjera
+,
+
+
+
+
+ 
+Ako odaberemo točku , pri čemu je 
+odsječak na -osi, dobijemo poznatu jednadžbu
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektorsko-vektorski produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Ravnina  
+
+
+
+

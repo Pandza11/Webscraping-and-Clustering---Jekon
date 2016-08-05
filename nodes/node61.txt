@@ -1,0 +1,209 @@
+
+
+
+
+Mješoviti produkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektorski produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Vektorsko-vektorski produkt  
+
+
+
+
+
+Mješoviti produkt
+
+
+
+Definicija  3.6   Mješoviti produkt ili 
+vektorsko-skalarni produkt
+vektora 
+, 
+ i 
+ je broj
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+Mješoviti produkt jednak je volumenu ili negativnoj vrijednosti
+volumena paralelopipeda
+kojeg razapinju vektori  
+, 
+ i
+
+. Naime, 
+
+
+
+
+ 
+je površina baze koja je razapeta vektorima  
+ i 
+,
+a ako s  označimo ravninu baze, tada je
+
+
+
+
+ 
+što je jednako visini ili negativnoj vrijednosti visine 
+(slika 3.13).
+
+
+Također zaključujemo da je 
+
+ako i samo ako je barem jedan od vektora nul-vektor ili ako su vektori
+komplanarni, odnosno linearno zavisni.
+
+
+
+
+Slika 3.13:
+Mješoviti produkt
+
+
+
+
+
+Teorem  3.4   Ako je 
+
+
+
+
+ 
+tada je 
+
+
+
+
+ 
+Dokaz. 
+Tvrdnja slijedi iz teorema 3.2 i 3.3.
+    Q.E.D.
+
+
+
+Zadatak  3.3   Koristeći teorem 3.4 i svojstvo determinante D3 iz poglavlja
+2.9.1 dokažite da je
+
+
+
+
+
+
+   
+
+ 
+
+
+   
+
+
+
+
+Slično kao što pomoću vektorskog produkta možemo računati površine
+poligonalnih likova (primjer 3.7), tako
+pomoću mješovitog produkta i teorema 3.4
+možemo računati volumene svih tijela koja su omeđena samo 
+s ravnim plohama.
+
+
+
+Primjer  3.8   Izračunajmo volumen tetraedra
+ zadanog točkama
+
+
+
+
+ 
+Volumen tetraedra jednak je šestini volumena paralelopipeda
+razapetog vektorima 
+, 
+ i 
+ 
+(slika 3.14).
+Kako je
+
+
+
+
+ 
+vrijedi
+
+
+
+
+ 
+Uočimo da smo na jednostavan način riješili naočigled složen problem,
+jer smo našli volumen tijela, a nismo ga
+morali niti skicirati. Na isti način možemo provjeriti leže li
+četiri točke u istoj ravnini, jer će u tom slučaju volumen
+tetraedra biti nula.
+Na sličan način možemo izračunati volumen bilo kojeg tijela koje je
+omeđeno samo s ravnim
+plohama, jer svako takvo tijelo možemo podijeliti na tetraedre.
+
+
+
+
+Slika 3.14:
+Volumen tetraedra
+
+
+
+
+
+Zadatak  3.4   Izračunajte volumen tetraedra iz prethodnog primjera pomoću
+paralelopipeda razapetog s vektorima 
+, 
+ i
+
+. Moramo li uzeti vektore s hvatištem u istom vrhu?
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektorski produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Vektorsko-vektorski produkt  
+
+
+
+

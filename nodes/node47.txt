@@ -1,0 +1,89 @@
+
+
+
+
+VEKTORSKA ALGEBRA I ANALITIČKA GEOMETRIJA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje električne mreže  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Vektori  
+
+
+
+
+
+VEKTORSKA ALGEBRA I ANALITIČKA GEOMETRIJA
+
+
+U ovoj glavi definirat ćemo pojam vektora, osnovne operacije s
+vektorima (zbrajanje i množenje sa skalarom), prikaz vektora
+u koordinatnom sustavu te produkte vektora s vektorom. Kod računanja
+produkata vektora svoju primjenu nalaze i determinante dimenzije
+. Potom ćemo pomoću vektora izvesti jednadžbu pravca u
+prostoru i jednadžbu ravnine te objasniti kako ispitujemo međusobne 
+odnose točaka, pravaca i ravnina.  
+
+
+ 
+
+Poglavlja
+
+Vektori
+Zbrajanje vektora
+Množenje vektora skalarom
+Prostor radijus-vektora
+Koordinatizacija
+
+Koordinatizacija pravca
+Koordinatizacija ravnine
+Koordinatizacija prostora
+
+
+Duljina vektora, jedinični vektor, kut između vektora 
+i kosinusi smjerova
+Linearna nezavisnost vektora
+Baza prostora 
+Skalarni produkt
+Vektorski produkt
+Mješoviti produkt
+Vektorsko-vektorski produkt
+Pravac
+Ravnina
+Primjene
+
+Primjeri
+
+
+
+
+
+
+
+
+ 
+Natrag: Rješavanje električne mreže  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Vektori  
+
+
+
+

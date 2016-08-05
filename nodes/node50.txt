@@ -1,0 +1,118 @@
+
+
+
+
+Množenje vektora skalarom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Zbrajanje vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Prostor radijus-vektora  
+
+
+
+
+
+Množenje vektora skalarom
+
+
+Vektor 
+ množimo s realnim brojem  na sljedeći
+način:
+ako je 
+, tada je
+
+
+
+
+ 
+Ako je 
+, odaberemo točke  i  takve da je
+
+. Produkt 
+vektora 
+ i skalara
+ je vektor
+
+
+
+
+ 
+pri čemu točka  leži na pravcu koji prolazi kroz točke  i  
+i 
+
+
+za  točka  leži s iste strane točke  kao
+  točka  i vrijedi
+
+
+
+
+
+
+za  točka  leži sa suprotne strane točke  od
+  točke  i vrijedi
+
+
+
+
+
+
+
+
+Množenje vektora skalarom ima sljedeća svojstva:
+
+M1.
+
+,
+
+M2.
+
+,
+
+M3.
+
+,
+
+M4.
+
+,
+
+M5.
+
+.
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Zbrajanje vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Prostor radijus-vektora  
+
+
+
+

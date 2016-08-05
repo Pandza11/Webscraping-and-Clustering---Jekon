@@ -1,0 +1,192 @@
+
+
+
+
+Potenciranje s racionalnim eksponentom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Potencija  
+Gore: Potencija  
+Naprijed: Potenciranje s realnim  
+
+
+
+
+
+Potenciranje s racionalnim eksponentom
+
+
+Funkciju
+
+
+
+
+
+definiramo kao inverznu funkciju funkcije  ili njene
+restrikcije na interval 
+, ukoliko je  paran (vidi slike
+4.20 i 4.21).
+
+
+
+
+Slika 4.20:
+Funkcija 
+ 
+
+
+
+
+
+
+Slika 4.21:
+Funkcija 
+ 
+
+
+
+
+
+Napomena  4.7   Graf inverzne funkcije simetričan je
+grafu zadane funkcije s obzirom na simetralu I i III kvadranta, to
+jest pravac .
+
+
+
+Napomena  4.8   Uz sliku 4.21 vezana je zanimljiva primjedba.
+Uočite da je funkcija 
+ nacrtana iz dva dijela na
+pomalo neobičan način.
+Mi znamo da je  inverzna funkcija funkcije . Međutim,
+računala barataju samo s diskretnim podskupom skupa 
+ (vidi
+poglavlje 1.7.1, a broj 
+ ima
+beskonačni periodični decimalni zapis. Stoga programi za crtanje funkcije
+oblika  takve slučajeve često 
+tretiraju kao potencije s realnim eksponentom
+koje su definirane samo za  (vidi poglavlje 4.6.2).
+Naredba za crtanje funkcije 
+ u programu 
+Gnuplot
+tako daje sliku funkcije samo za , dok se lijeva strana dobije
+tako što se nacrta funkcija 
+. 
+
+
+Nadalje, za 
+ možemo definirati funkciju 
+
+
+
+
+
+pri čemu je 
+
+
+
+
+
+Također možemo definirati i funkcije oblika
+
+
+
+
+
+pri čemu se područje definicije određuje na temelju
+prethodnih pravila. Na primjer,
+
+
+
+
+
+
+
+Zadatak  4.8   Koje od funkcija , , 
+, su
+omeđene (odozdo, odozgo),
+parne ili neparne,
+monotone ili po dijelovima monotone,
+neprekidne ili imaju prekide 
+(kakvi su ti prekidi) te
+koje imaju vertikalne, horizontalne ili kose
+asimptote ? 
+
+
+Prisjetimo se da je skup racionalnih brojeva 
+ zapravo skup
+klasa ekvivalencije na skupu 
+. 
+Ukoliko su  i  relativno prosti tada je područje definicije
+uvijek jednoznačno određeno i vrijedi
+
+
+
+
+
+Ukoliko  i  nisu relativno prosti tada može doći do
+situacije kao u sljedećem primjeru: 
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Dok je prva funkcija prikazana na slici 4.20, funkcija
+
+ prikazana je na slici 4.22.
+
+
+
+
+Slika 4.22:
+Funkcija 
+
+
+
+
+
+Slično je i 
+ (vidi sliku 1.1). 
+
+
+
+
+
+
+
+
+ 
+Natrag: Potencija  
+Gore: Potencija  
+Naprijed: Potenciranje s realnim  
+
+
+
+

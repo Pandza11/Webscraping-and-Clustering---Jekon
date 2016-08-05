@@ -1,0 +1,113 @@
+
+
+
+
+Beskonačan limes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes u beskonačnosti  
+Gore: Limes  
+Naprijed: Neprekidnost  
+
+
+
+
+
+Beskonačan limes
+
+
+Kada  također je moguće da vrijednosti funkcije  
+teže u beskonačnost.
+
+
+Funkcija  teži u  kada , odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+Slično, funkcija  teži u  kada , odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+
+
+Napomena  4.5   Beskonačne limese slijeva i 
+zdesna
+ definiramo na sličan način.
+Svojstva limesa iz poglavlja 4.3.1 vrijede i za beskonačne
+limese. 
+
+
+Na primjer, lako se vidi da je (slika 4.13)
+
+
+
+
+
+
+
+
+Slika 4.13:
+Beskonačan limes
+
+
+
+
+
+Zadatak  4.6   Koji su limesi funkcija 
+
+
+
+
+
+kada , , 
+ i 
+ ?  
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes u beskonačnosti  
+Gore: Limes  
+Naprijed: Neprekidnost  
+
+
+
+

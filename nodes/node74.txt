@@ -1,0 +1,178 @@
+
+
+
+
+Limes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Klasifikacija funkcija  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Svojstva limesa  
+
+
+
+
+
+Limes
+
+
+Pojam limesa je jedan od najvažnijih pojmova za razumijevanje 
+analize funkcija. U ovom poglavlju definirat ćemo limes funkcije i dati
+njegova svojstva. Također ćemo definirati limes slijeva i zdesna,
+limes u beskonačnosti i beskonačan limes.
+
+
+
+Definicija  4.5   Ako se vrijednost funkcije  približava vrijednosti  kada 
+se nezavisna varijabla  približava točki , tada kažemo da 
+ teži prema  kada  teži prema , odnosno
+
+
+
+
+
+Broj  je limes
+ili granična vrijednost
+funkcije  kada  teži prema , odnosno
+
+
+
+
+
+Pored ove, više intuitivne definicije limesa, imamo i
+matematičku definiciju:
+
+
+
+
+
+ako (slika 4.8)
+
+
+
+
+
+
+(4.3)
+
+
+Ako 
+ postoji, tada kažemo da funkcija 
+konvergira u točki .
+Ako 
+ ne postoji, tada kažemo da funkcija 
+divergira u točki .
+Iako izgleda složeno, precizna definicija limesa (4.3) nužna
+je za dokazivanje raznih svojstava limesa kao u teoremima 
+4.2 i 4.3.
+
+
+
+Napomena  4.2   
+(1)
+Veličine 
+ i  u definiciji (4.3) su
+    općenito mali brojevi (vidi sliku 4.8).
+  
+
+(2)
+Iz definicije 4.5 vidimo da funkcija  može imati
+    limes u nekoj točki, a da nije definirana u toj točki, ali mora
+    biti definirana u nekoj okolini te točke.
+  
+
+
+
+
+
+
+Slika 4.8:
+Limes funkcije
+
+
+
+
+Slika 4.8 prikazuje situaciju iz relacije (4.3).
+Drugim riječima, za svaki zeleni interval oko točke  postoji 
+crveni interval oko točke , takav da se vrijednost funkcije
+nalazi u zelenom intervalu, čim se  nalazi u 
+crvenom intervalu. U ovom slučaju se za  iz crvenog intervala
+vrijednosti funkcije nalaze u užem ljubičastom intervalu oko , 
+no taj interval je sadržan u crvenom intervalu pa je relacija
+(4.3) zadovoljena.
+Dokažimo prvi teorem o limesu.
+
+Teorem  4.2   
+  Limes je jedinstven.
+Dokaz. 
+Dokaz ćemo provesti pomoću kontradikcije.
+Pretpostavimo suprotno od tvrdnje teorema, odnosno da postoje
+dva različita limesa u točki ,
+
+
+
+
+
+Odaberimo 
+. Prema relaciji (4.3) postoje
+ i  takvi da
+
+
+
+
+
+Tada bi za 
+ moralo vrijediti
+
+
+
+
+
+No, kako su intervali na desnoj strani disjunktni zbog našeg izbora
+
+, to je nemoguće. Dobili smo kontradikciju pa je teorem dokazan.
+    Q.E.D.
+
+
+ 
+
+Poglavlja
+
+Svojstva limesa
+Limes slijeva i zdesna
+Limes u beskonačnosti
+Beskonačan limes
+
+
+
+
+
+
+
+
+ 
+Natrag: Klasifikacija funkcija  
+Gore: FUNKCIJE REALNE VARIJABLE  
+Naprijed: Svojstva limesa  
+
+
+
+

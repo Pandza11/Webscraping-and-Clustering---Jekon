@@ -1,0 +1,65 @@
+
+
+
+
+Koordinatizacija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Prostor radijus-vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Koordinatizacija pravca  
+
+
+
+
+
+Koordinatizacija
+
+
+Uvođenje koordinatnog sustava omogućava predstavljanje vektora
+pomoću realnih brojeva. Na taj način se pojednostavnjuje rukovanje s
+vektorima, jer se operacije s vektorima svode na odgovarajuće operacije
+s brojevima.
+
+
+ 
+
+Poglavlja
+
+Koordinatizacija pravca
+Koordinatizacija ravnine
+Koordinatizacija prostora
+
+
+
+
+
+
+
+
+ 
+Natrag: Prostor radijus-vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Koordinatizacija pravca  
+
+
+
+

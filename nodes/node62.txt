@@ -1,0 +1,102 @@
+
+
+
+
+Vektorsko-vektorski produkt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Mješoviti produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Pravac  
+
+
+
+
+
+Vektorsko-vektorski produkt
+
+
+Vektorsko-vektorski produkt
+vektora 
+, 
+ i 
+
+ je vektor
+
+
+
+
+
+
+Može se pokazati da vrijedi
+
+
+
+
+
+
+(3.3)
+
+
+odnosno, rezultirajući vektor leži u ravnini razapetoj s vektorima
+
+ i 
+.
+
+
+Slično,
+
+
+
+
+
+
+(3.4)
+
+
+pa rezultirajući vektor leži u ravnini razapetoj s vektorima
+
+ i 
+.
+
+
+
+Zadatak  3.5   Dokažite formule (3.3) i (3.4) ako su vektori 
+
+, 
+ i 
+ zadani kao u teoremu 3.4.
+
+
+
+
+
+
+
+
+ 
+Natrag: Mješoviti produkt  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Pravac  
+
+
+
+

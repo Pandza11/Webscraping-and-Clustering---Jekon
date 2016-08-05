@@ -1,0 +1,174 @@
+
+
+
+
+FUNKCIJE REALNE VARIJABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjeri  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Načini zadavanja funkcija  
+
+
+
+FUNKCIJE REALNE VARIJABLE
+
+
+Ova glava kao i sljedeća o derivacijama, posvećene su ispitivanju
+realnih funkcija realne varijable, dakle funkcije kod kojih su
+domena, i
+kodomena  
+podskupovi skupa realnih brojeva. 
+Posebno ćemo promatrati tipove
+funkcija koje se javljaju u tehničkim primjenama, a to su funkcije  
+oblika
+
+
+
+
+
+pri čemu 
+ označava domenu, a 
+
+kodomenu 
+funkcije (vidi definiciju 1.7).
+Za ispitivanje funkcije potrebno je znati:
+
+
+područje definicije ili domenu,
+
+područje vrijednosti ili 
+kodomenu,
+
+područje neprekidnosti,
+
+ponašanje funkcije u rubovima područja definicije, uključujući 
+   i  kad god to ima smisla te u točkama 
+  prekida (limesi i asimptote),
+
+simetriju (parnost ili neparnost),
+
+periodičnost,
+
+područja monotonosti (rastuća ili padajuća funkcija),
+
+zakrivljenost (konveksnost ili konkavnost) i točke infleksije,
+  odnosno točke u kojima dolazi do promjene zakrivljenosti,
+
+ekstreme, odnosno lokalne i globalne minimume i maksimume,
+
+skicirati funkciju,
+
+odrediti inverznu funkciju ukoliko je zadana
+  funkcija bijekcija. 
+
+
+
+Derivacije, koje su tema sljedeće glave, koriste se kod nalaženja
+limesa te kod ispitivanja monotonosti, zakrivljenosti i ekstrema. 
+
+
+Graf funkcije 
+općenito možemo definirati kao prikaz ovisnosti
+varijabli  i  pomoću krivulje u ravnini. Kako je svakoj funkciji
+jednoznačno pridružen njen graf, to u daljnjem izlaganju često nećemo
+praviti razliku između funkcije i njenog grafa, ukoliko je iz
+konteksta jasno na što se misli. Precizne definicije grafa funkcije
+ovise o načinu zadavanja funkcije pa ćemo ih navesti kasnije u 
+odgovarajućim poglavljima.
+
+
+U sljedećim poglavljima opisat ćemo načine zadavanja funkcija, 
+te dati klasifikaciju funkcija, odnosno definirati neke važne klase
+funkcija. Zatim ćemo opisati pojam limesa te pomoću njega uvesti pojam
+neprekidnosti i opisati vrste prekida.
+Također ćemo navesti i svojstva limesa i neprekidnih funkcija.
+Potom ćemo definirati pojam asimptote i opisati kako ih nalazimo, 
+a na kraju ćemo dati pregled elementarnih funkcija i njihovih
+svojstava.
+
+
+ 
+
+Poglavlja
+
+Načini zadavanja funkcija
+
+Tablično zadavanje
+Eksplicitno zadavanje
+Implicitno zadavanje
+Parametarsko zadavanje
+
+
+Klasifikacija funkcija
+Limes
+
+Svojstva limesa
+Limes slijeva i zdesna
+Limes u beskonačnosti
+Beskonačan limes
+
+
+Neprekidnost
+
+Svojstva neprekidnih funkcija
+Vrste prekida
+
+
+Asimptote
+Pregled elementarnih funkcija
+
+Konstantna funkcija
+Potencija
+
+Potenciranje s racionalnim eksponentom
+Potenciranje s realnim brojem
+
+Eksponencijalna funkcija
+Logaritamska funkcija
+
+Svojstva logaritama
+
+Trigonometrijske funkcije
+
+Opća sinusoida
+Kosinusov poučak i adicioni teoremi
+
+Arkus funkcije
+Klasifikacija elementarnih funkcija
+Polinomi i racionalne funkcije
+Hiperbolne i area funkcije
+
+
+
+
+
+
+
+
+ 
+Natrag: Primjeri  
+Gore: Matematika 1 PREDAVANJA  
+Naprijed: Načini zadavanja funkcija  
+
+
+
+

@@ -1,0 +1,199 @@
+
+
+
+
+Koordinatizacija prostora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija ravnine  
+Gore: Koordinatizacija  
+Naprijed: Duljina vektora, jedinični  
+
+
+
+
+
+Koordinatizacija prostora
+
+
+Koordinatizaciju trodimenzionalnog 
+prostora
+ dobijemo slično
+kao u prethodnim poglavljima.
+Prvo odaberemo ishodište  i međusobno
+okomite pravce ,  i  koji prolaze 
+kroz točku . U ravnini razapetoj s pravcima  i  definiramo
+desni pravokutni koordinatni sustav 
+ na način
+opisan u poglavlju 3.5.2.
+Potom na pravcu  definiramo koordinatni sustav 
+
+tako da vektori 
+, 
+ i 
+ zadovoljavaju pravilo
+desnog vijka. Time smo definirali 
+desni pravokutni koordinatni sustav
+
+
+
+
+ u prostoru  koji je prikazan na 
+slici 3.7.
+Pri tome vrijedi
+
+
+
+
+
+
+
+
+Slika 3.7:
+Koordinatizacija prostora
+
+
+
+
+Brojevni pravci koje smo nanijeli na pravce ,  i  su
+koordinatne osi i to redom
+apscisna, ordinatna i aplikatna os (-os, 
+-os i -os).
+Tri ravnine -, - i -, koje su određene
+odgovarajućim koordinatnim osima, zovu se 
+koordinatne ravnine i dijele prostor na osam oktanata.
+
+
+Neka je zadana točka 
+. Ravnine paralelne s koordinatnim
+osima koje prolaze kroz točku  sijeku koordinatne osi u točkama
+,  i  (slika 3.7).
+Koordinate tih točaka u koordinatnim sustavima 
+, 
+
+ i 
+ jednake su ,  i .
+Brojevi ,  i  su koordinate točke , odnosno
+ je apscisa,  je
+ordinata, 
+a  je aplikata točke .
+
+
+Brojevi ,  i  su također 
+skalarne komponente
+vektora 
+ u sustavu 
+. 
+Prema pravilu o zbrajanju vektora iz poglavlja 3.2
+vrijedi (slika 3.7)
+
+
+
+
+ 
+odnosno
+
+
+
+
+
+
+Skalarne komponente jednoznačno su određene točkom  pa za
+označavanje vektora koristimo skraćene zapise
+
+
+
+
+ 
+Kako vektor u prostoru možemo zapisati ili  kao retčanu matricu 
+dimenzije  ili
+stupčanu matricu dimenzije ,
+zbrajanje vektora i množenje vektora skalarom odgovara zbrajanju
+matrica i množenju matrica skalarom.
+
+
+U koordinatnom sustavu možemo naći skalarne komponente vektora,
+odnosno usmjerene dužine koja je zadana s dvije točke.
+
+
+
+Primjer  3.2   Neka su zadane točke 
+ i 
+.
+Kao što se vidi na slici 3.8 vrijedi
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Dakle, 
+
+
+
+
+ 
+Na primjer, 
+
+
+
+
+ 
+
+
+
+
+Slika 3.8:
+Komponente vektora
+
+
+
+
+
+Napomena  3.1   Kod definicije pravokutnih koordinatnih sustava u ovom i prethodnom
+  poglavlju koristili smo međusobno okomite pravce.
+  Međutim, koordinatni sustav se može definirati i s pravcima koji
+  nisu međusobno okomiti. Tako kod koordinatizacije ravnine možemo
+  uzeti bilo koja dva pravca koja prolaze kroz točku  i nisu
+  paralelna. Slično, kod koordinatizacije prostora možemo uzeti 
+  bilo koju koordinatizaciju neke odabrane ravnine u prostoru 
+  i treći pravac koji prolazi kroz ishodište i ne leži u toj ravnini
+  (vidi poglavlje 3.8).
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija ravnine  
+Gore: Koordinatizacija  
+Naprijed: Duljina vektora, jedinični  
+
+
+
+

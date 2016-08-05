@@ -1,0 +1,128 @@
+
+
+
+
+Limes slijeva i zdesna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva limesa  
+Gore: Limes  
+Naprijed: Limes u beskonačnosti  
+
+
+
+
+
+Limes slijeva i zdesna
+
+
+Kada nezavisna varijabla  teži k  slijeva ili zdesna, limesi ne
+moraju biti jednaki.
+
+
+Vrijednost  je limes slijeva 
+funkcije  u točki ,
+odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+Slično, vrijednost  je limes zdesna 
+funkcije  u točki ,
+odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+
+
+Napomena  4.3   Svojstva limesa iz poglavlja 4.3.1 vrijede i za limese s
+lijeva i zdesna.  
+
+
+
+Primjer  4.7   Funkcija predznak ili signum
+definirana je na sljedeći
+ način:
+
+
+
+
+
+Često se po dogovoru uzima 
+ (vidi sliku 4.10).
+Odredimo limese slijeva i zdesna u točki :
+za  vrijedi 
+ pa je
+
+
+
+
+
+Za  vrijedi 
+ pa je
+
+
+
+
+
+Iz slike 4.10 vidimo da za svaki 
+ možemo uzeti bilo
+koji .
+
+
+
+
+Slika 4.10:
+Funkcija 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva limesa  
+Gore: Limes  
+Naprijed: Limes u beskonačnosti  
+
+
+
+

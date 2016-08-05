@@ -1,0 +1,293 @@
+
+
+
+
+Primjene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Ravnina  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Primjeri  
+
+
+
+
+
+Primjene
+
+
+Pomoću vektora i operacija s njima te pomoću raznih oblika jednadžbi
+pravca i ravnine možemo ispitivati čitav niz međuodnosa i svojstava:
+
+
+
+a)
+Međusobni odnosi pravaca i ravnina.
+
+1.
+Pravci  i  su 
+    paralelni, 
+,
+     ako za
+    njihove vektore smjera vrijedi 
+, 
+.
+    Paralelni pravci mogu, ali ne moraju ležati jedan na drugom.
+  
+
+2.
+Pravci  i  su okomiti, 
+    
+, ako za
+    njihove vektore smjera vrijedi 
+.
+    Okomiti pravci se mogu sjeći, ali mogu biti i mimosmjerni.
+  
+
+3.
+Ravnine  i  su 
+    paralelne, 
+    
+, ako za
+    njihove normale vrijedi 
+, 
+.
+    Paralelne ravnine mogu, ali ne moraju ležati jedna na drugoj.
+  
+
+4.
+Ravnine  i  su 
+    okomite, 
+    
+, ako za
+    njihove normale vrijedi 
+.
+    Okomite ravnine se sijeku u  pravcu.
+  
+
+5.
+Kut između pravaca
+ i  nalazimo pomoću skalarnog
+    produkta vektora smjera,
+
+
+
+
+
+
+6.
+Kut između ravnina
+ i  nalazimo pomoću skalranog
+    produkta normala,
+
+
+
+
+
+
+7.
+Kut između pravca  i ravnine 
+ nalazimo pomoću skalranog
+    produkta vektora smjera i normale
+
+
+
+
+
+
+
+
+b)
+Sjecišta.
+
+1.
+Točka  u kojoj se sijeku pravci  i , 
+  
+.
+  
+
+2.
+Pravac  koji je presjek ravnina  i , 
+  
+.
+  
+
+3.
+Točka  u kojoj pravac  siječe ravninu , 
+  
+: sjecište tražimo
+  tako da parametarsku jednadžbu pravca uvrstimo u opći oblik
+  jednadžbe ravnine i riješimo linearni sustav od jedne jednadžbe s
+  jednom nepoznanicom (primjer 3.12).
+  
+
+
+
+c)
+Projekcije.
+
+1.
+Projekcija točke  na pravac 
+   (primjer 3.13).
+  
+
+2.
+Projekcija točke  na ravninu 
+   (primjer 3.14).
+  
+
+3.
+Projekcija pravca  na ravninu 
+  .
+  
+
+
+  Najčešće tražimo ortogonalne 
+  projekcije, ali možemo tražiti i
+  projekcije u bilo kojem smjeru.
+
+d)
+Udaljenosti.
+
+1.
+Udaljenost točaka 
+
+    i 
+: iz postupka nalaženja
+    komponenata vektora u primjeru 3.2 i formule za duljinu
+    vektora (3.1) slijedi
+  
+
+
+
+
+
+2.
+Udaljenost točke  od 
+  pravca : prvo nađemo projekciju
+   točke  na pravac , a onda izračunamo 
+  
+ (primjer 3.13).
+  
+
+3.
+Udaljenost točke  od 
+  ravnine : prvo nađemo 
+  projekciju  točke  na ravninu , a onda izračunamo 
+  
+ (primjer 3.14).
+  
+
+4.
+Udaljenost pravaca
+ i , 
+.
+  
+
+5.
+Udaljenost ravnina
+ i , 
+.
+  
+
+6.
+Udaljenost pravca  i 
+  ravnine , .
+  
+
+
+
+e)
+Analiza trokuta.
+
+1.
+Težište - 
+    sjecište težišnica, odnosno pravaca koji spajaju
+    vrh trokuta sa sredinom nasuprotne stranice.
+  
+
+2.
+Upisana kružnica - 
+    središte je sjecište simetrala kutova,
+    odnosno pravaca koji raspolovljuju unutarnje kutove trokuta, a
+    radijus je udaljenost središta od bilo koje stranice.
+  
+
+3.
+Opisana kružnica - 
+    središte je sjecište simetrala stranica,
+    odnosno okomica podignutih od sredine stranice trokuta, a
+    radijus je udaljenost središta od bilo kojeg vrha.
+  
+
+4.
+Ortocentar - 
+    sjecište visina, odnosno okomica spuštenih iz
+    vrha trokuta na nasuprotnu stranicu. 
+  
+
+
+
+f)
+Površine i volumeni.
+
+1.
+Površina poligonalnih likova u
+    prostoru - 
+    lik rastavljamo
+    na trokute, a površine trokuta računamo pomoću vektorskog produkta
+    kao u primjeru 3.7.
+  
+
+2.
+Volumeni tijela omeđenih samo s ravnim 
+    plohama - tijelo rastavljamo
+    na tetraedre, a površine tetraedara računamo pomoću mješovitog  
+    produkta kao u primjeru 3.8.
+  
+
+
+
+
+Postupci za ispitivanje ovih  međuodnosa i svojstava detaljno su
+opisani u vježbama.
+
+
+ 
+
+Poglavlja
+
+Primjeri
+
+
+
+
+
+
+
+
+ 
+Natrag: Ravnina  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Primjeri  
+
+
+
+

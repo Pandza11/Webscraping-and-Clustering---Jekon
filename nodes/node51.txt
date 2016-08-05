@@ -1,0 +1,73 @@
+
+
+
+
+Prostor radijus-vektora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Množenje vektora skalarom  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Koordinatizacija  
+
+
+
+
+
+Prostor radijus-vektora
+
+
+U mnogim primjenama je praktično uzeti predstavnike vektora koji svi
+imaju hvatište u istoj točki. Ako u prostoru  odaberemo 
+točku , svakoj točki  pripada jednoznačno određen vektor 
+
+. Vektor 
+ je 
+radijus-vektor ili 
+vektor položaja 
+točke  u odnosu na hvatište .
+Skup radijus vektora  je skup svih takvih vektora. 
+
+
+Zbrajanje radijus-vektora definira se kao i zbrajanje vektora u
+poglavlju 3.2, uz dodatak što zbroj opet mora biti u skupu
+ pa se koristi pravilo paralelograma. Pri tome vrijede svojstva
+Z1-Z4.  
+
+
+Množenje radijus-vektora skalarom definira se kao i množenje
+vektora skalarom u poglavlju 3.3, pri čemu vrijede svojstva
+M1-M5.
+
+
+
+
+
+
+
+
+ 
+Natrag: Množenje vektora skalarom  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Koordinatizacija  
+
+
+
+

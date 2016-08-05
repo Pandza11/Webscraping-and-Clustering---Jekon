@@ -1,0 +1,132 @@
+
+
+
+
+Tablično zadavanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Načini zadavanja funkcija  
+Gore: Načini zadavanja funkcija  
+Naprijed: Eksplicitno zadavanje  
+
+
+
+
+
+Tablično zadavanje
+
+
+Tablično zadavanje funkcija je često u primjenama, jer se vrijednost
+zavisne varijable može izmjeriti samo u nekim točkama. 
+Tako se na primjer temperatura ili tlak zraka mjeri su meteorološkim
+stanicama, a kod prikaza se u meteorološkim kartama te vrijednosti
+interpoliraju glatkim krivuljama.
+
+
+Funkcija zadana s
+
+
+
+0
+1
+3
+4
+5
+8
+
+
+-1
+1
+3
+5
+7
+6
+
+
+ 
+prikazana je na slici 4.1.
+
+
+
+
+Slika 4.1:
+Tablično zadana funkcija
+
+
+
+
+Graf tablično zadane funkcije je 
+skup točaka u ravini, 
+, definiran s
+
+
+
+
+
+
+Za određivanje vrijednosti funkcije u ostalim točkama koristimo
+postupak interpolacije.
+Najjednostavnija je linearna interpolacija kod koje se
+vrijednosti funkcije između dvije susjedne točke grafa prikazuju kao
+da leže na pravcu između te dvije točke.
+Dakle, za 
+ se uzima (vidi primjer 3.11)
+
+
+
+
+ 
+Tako je, na primjer (slika 4.2), 
+
+
+
+
+
+
+
+Slika 4.2:
+Linearna interpolacija
+
+
+
+
+Važan primjer tablično zadanih funkcija su i 
+logaritamske tablice.
+U tablicama su zadane vrijednosti elementarnih funkcija kao ,
+, ,  i  u određenim točkama, dok
+se vrijednosti funkcija u ostalim točkama nalaze odgovarajućom
+interpolacijom. 
+
+
+
+
+
+
+
+
+ 
+Natrag: Načini zadavanja funkcija  
+Gore: Načini zadavanja funkcija  
+Naprijed: Eksplicitno zadavanje  
+
+
+
+

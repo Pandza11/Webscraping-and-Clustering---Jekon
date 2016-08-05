@@ -1,0 +1,137 @@
+
+
+
+
+Vrste prekida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva neprekidnih funkcija  
+Gore: Neprekidnost  
+Naprijed: Asimptote  
+
+
+
+
+
+Vrste prekida
+
+Razlikujemo tri vrste prekida funkcije: uklonjivi prekid, prekid prve
+vrste i prekid druge vrste.
+
+
+
+Definicija  4.7   Neka je funkcija  definirana u nekoj okolini 
+,
+osim možda u samoj točki . 
+Funkcija  ima uklonjivi prekid 
+u točki  ako je
+
+
+
+
+
+pri čemu  ili nije definirana u točki  ili je 
+
+. Prekid se ukloni tako što se definira 
+.
+
+
+Funkcija  ima prekid prve vrste 
+u točki  ako
+su limesi slijeva i zdesna u točki  konačni i različiti.
+
+
+Funkcija  ima prekid druge vrste
+ u točki  ako je barem
+jedan od limesa slijeva ili zdesna beskonačan ili ne postoji.  
+
+
+Na primjer, funkcija 
+ ima uklonjivi prekid u točki .
+Prekid se ukloni tako što definiramo , u kojem slučaju
+dobijemo neprekidnu funkciju . 
+Funkcija 
+ (slika 4.10) ima u točki  
+prekid prve vrste. Naime,
+u toj točki postoje limesi slijeva i zdesna koji su konačni, ali
+različiti. Funkcije  (slika 4.12), , 
+, ..., sve imaju prekid druge vrste u točki , jer su
+limesi s obje strane beskonačni.
+
+
+
+Primjer  4.10     Navodimo dva zanimljiva primjera prekida druge vrste.
+  
+a)
+Funkcija 
+
+
+
+
+
+ima prekid druge vrste u točki  (vidi sliku 4.15).
+Naime, funkcija 
+ sve brže titra kada  
+pa limes zdesna ne postoji (u svakom, ma koliko malom, intervalu oko
+nule funkcija poprimi sve vrijednosti između  i ).
+
+b)
+Funkcija 
+ definirana s
+
+
+
+
+
+ima u svakoj točki prekid druge vrste.
+Naime, kako su po teoremu 1.9 (ii) i (iii) skupovi
+
+ i 
+ gusti jedan u drugom, funkcija nema limes ni u jednoj
+točki (u svakom, ma koliko malom, intervalu oko
+bilo koje točke  funkcija beskonačno puta poprimi vrijednost 0 i
+vrijednost ). 
+
+
+
+
+
+
+Slika 4.15:
+Funkcija 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva neprekidnih funkcija  
+Gore: Neprekidnost  
+Naprijed: Asimptote  
+
+
+
+

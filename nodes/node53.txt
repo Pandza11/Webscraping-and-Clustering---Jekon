@@ -1,0 +1,109 @@
+
+
+
+
+Koordinatizacija pravca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija  
+Gore: Koordinatizacija  
+Naprijed: Koordinatizacija ravnine  
+
+
+
+
+
+Koordinatizacija pravca
+
+
+Koordinatizaciju pravca 
+definiramo na sljedeći način: 
+odaberemo pravac  kroz točku 
+ te na njemu nanesemo
+brojevni pravac tako da je nula u točki . Jedinični vektor 
+ 
+definiramo kao 
+, pri čemu je broju  
+brojevnog pravca pridružena točka . 
+Vektor 
+ je jednoznačno određen i vrijedi 
+
+
+
+
+ 
+S ovim smo na pravcu  zadali 
+koordinatni sustav
+
+. 
+
+
+Svakoj točki  koja leži na pravcu  jednoznačno je pridružena
+njena apscisa  i vektor 
+.
+Po pravilu o množenju vektora skalarom iz poglavlja 3.3
+vrijedi
+
+
+
+
+ 
+Broj  je 
+skalarna komponenta
+ vektora 
+.
+Zbog jednoznačnosti prikaza, u koordinatnom sustavu 
+
+koristimo sljedeće oznake
+
+
+
+
+
+
+Uvođenjem koordinatizacije operacije s vektorima sveli smo na operacije
+s brojevima: ako je
+
+
+
+
+ 
+tada je, na primjer,
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Koordinatizacija  
+Gore: Koordinatizacija  
+Naprijed: Koordinatizacija ravnine  
+
+
+
+

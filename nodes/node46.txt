@@ -1,0 +1,390 @@
+
+
+
+
+Rješavanje električne mreže
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cramerovo pravilo  
+Gore: LINEARNA ALGEBRA  
+Naprijed: VEKTORSKA ALGEBRA I  
+
+
+
+
+
+Rješavanje električne mreže
+
+
+U ovom poglavlju pokazat ćemo kako se pomoću matričnog računa mogu
+rješavati električne mreže. Zanimljivo ja da se u tom postupku koriste 
+mnoga svojstva matrica i sustava jednadžbi koja smo opisali u
+prethodnim poglavljima. Stoga praćenje primjera nije jednostavno i
+zahtijeva odlično poznavanje prethodnih poglavlja.
+
+
+Promotrimo mrežu prikazanu na slici 2.22.1.
+
+
+
+
+Slika 2.2:
+Električna mreža
+
+
+
+
+Grane mreže su označene s brojevima od  do , a čvorovi mreže 
+s brojevima od  do . Grana  se sastoji od serijskog spoja
+otpora  i naponskog izvora , a kroz granu
+teče struja  (vidi Sliku 2.3).
+Čvor  ima napon (potencijal)  .
+Naš zadatak je izračunati struje  ako znamo otpore  i 
+naponske izvore . 
+
+
+
+
+Slika 2.3:
+Standardna grana mreze
+
+
+
+
+Za rješavanje mreže koristimo dva zakona:
+
+
+prvi Kirchoffov zakon po kojemu je zbroj struja koje
+  ulaze u pojedini čvor jednak nula i
+
+Ohmov zakon po kojemu je 
+
+
+
+
+
+
+
+
+Ako struje koje ulaze u čvor označimo s predznakom , a struje koje
+izlaze iz čvora s predznakom , tada prvi Kirchoffov zakon
+primijenjen na čvorove - daje
+
+
+
+
+
+Vidimo da se radi o homogenom sustavu linearnih jednadžbi koji ima 
+četiri jednadžbe i sedam nepoznanica, , ..., .
+Ako je 
+
+
+
+
+
+tada matrični zapis sustava glasi
+
+
+
+
+
+
+(2.10)
+
+
+Matrica  zove se matrica incidencija ili 
+matrica susjedstva zadane električne mreže. 
+Ako zadnji stupac matrice  premjestimo na prvo mjesto, dobit ćemo
+gornje trokutastu matricu pa lako vidimo da je 
+.
+
+
+Ako -ti vodič ide od čvora  prema čvoru , tada Ohmov zakon
+daje
+
+
+
+
+
+Dakle, imamo još jedan sustav linearnih jednadžbi koji glasi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Neka je  dijagonalna matrica otpora vodiča (matrica
+čiji su dijagonalni elementi otpori),  vektor napona čvorova i 
+ vektor naponskih izvora na vodičima,
+
+
+
+
+
+Uz ove oznake gornji sustav možemo zapisati u matričnom obliku kao
+
+
+
+
+
+
+(2.11)
+
+
+Primijetimo da se i u matričnom zapisu Ohmovog zakona ponovo javlja
+matrica incidencija , ovaj put transponirana.
+
+
+Matrica  je dijagonalna, a njeni dijagonalni elementi
+(otpori) su veći od nule pa je prema tome  regularna i vrijedi
+
+
+
+
+
+
+Kada jednadžbu (2.11) pomnožimo s matricom 
+s lijeve strane, dobit ćemo novi ekvivalentan sustav
+
+
+
+
+
+
+(2.12)
+
+
+Pomnožimo sada ovu jednadžbu s matricom incidencija 
+s lijeve strane. To nam daje sustav 
+
+
+
+
+
+
+(2.13)
+
+
+Zadnja jednakost u ovoj jednadžbi slijedi iz prvog Kirchoffovog zakona
+(2.10). 
+
+
+Radi lakšeg snalaženja uvedimo nove oznake,
+
+
+
+
+
+
+(2.14)
+
+
+Matrica  i vektor  su poznati jer su matrice  i  i vektor
+ zadani. Matrica  je dimenzije , a vektor  je
+dimenzije . Matrica  je simetrična jer je
+
+
+
+
+
+Uz ove oznake jednadžba (2.13) daje
+sustav od četiri jednadžbe i četiri nepoznanice 
+
+
+
+
+
+
+(2.15)
+
+
+Primijetimo da u električnoj mreži čvorova uvijek ima manje nego
+vodiča. Stoga je ovaj sustav manjih dimenzija od sustava
+(2.10) pa je njega povoljnije rješavati. 
+
+
+Prema Kronecker-Cappelijevom teoremu sustav (2.15)
+će imati jedinstveno rješenje  ako i samo ako je 
+. 
+Da je taj uvjet zaista ispunjen možemo zaključiti pomoću sljedećeg
+važnog teorema koji navodimo bez dokaza.
+
+
+
+Teorem  2.11     Ako je matrica  tipa  i matrica  tipa , 
+  tada je
+
+
+
+
+
+Pored toga, za svaku matricu  vrijedi
+
+
+
+
+
+
+
+Da bi primijenili teorem 2.11, uočimo da matricu  možemo
+zapisati kao 
+
+
+
+
+
+gdje je 
+, a 
+
+ je dijagonalna matrica čiji su dijagonalni 
+elementi 
+. 
+Kako je 
+ i 
+, prva tvrdnja 
+teorema 2.11 daje
+
+
+
+
+
+odnosno 
+. Druga tvrdnja teorema 2.11
+sada povlači  
+ pa sustav 
+(2.15) ima jedinstveno rješenje .
+
+
+Konačno, nakon što smo izračunali napone u čvorovima , 
+struje kroz vodiče  lako izračunamo uvrštavanjem u jednadžbu 
+(2.12). 
+
+
+Za kraj, izračunajmo napone u čvorovima  i struje u vodičima  
+za električnu mrežu sa slike 2.2 za slučaj kada su 
+otpori svih vodiča jednaki  oma, 
+
+, a u vodičima , 
+i  se nalaze naponski izvori od jednog volta, 
+
+. Uvrštavanje u relaciju (2.14)
+daje
+
+
+
+
+
+Rješenje sustava (2.15) daje napone u čvorovima
+
+
+
+
+
+a uvrštavanje u jednadžbu (2.12) daje struje u vodičima
+
+
+
+
+
+
+
+Zadatak  2.13   Gornje rješenje dobiveno je pomoću sljedećeg programa napisanog u 
+  programskom jeziku Matlab:
+
+
+
+A=[1 1 1 0 0 0 -1; -1 0 0 -1 0 1 0; 0 -1 0 1 1 0 0; 0 0 -1 0 -1 -1 0]
+R=diag([10 10 10 10 10 10 10])
+U=[1 0 0 1 1 0 0]'
+R1=inv(R)
+K=A*R1*A'
+L=-A*R1*U
+V=K\L
+I=R1*(A'*V+U)
+
+
+U prvom retku programa matrica  je zadana po retcima, 
+pri čemu su retci odvojeni znakom ;.
+U drugom retku programa naredba diag koristi se za kreiranje
+dijagonalne matrice čiji su dijagonalni elementi jednaki elementima
+zadanog vektora.
+U trećem, petom i zadnjem retku znak ' označava
+transponiranu matricu. 
+U četvrtom retku koristi se naredba inv koja daje inverznu
+matricu. U sedmom retku znak 
+ znači rješavanje sustava.
+
+
+Izvedite gornji program u Matlabu. Zatim riješite električnu mrežu sa 
+slike 2.2 za neke druge vrijednosti otpora 
+i naponskih izvora . 
+Zadajte neku drugu električnu mrežu i riješite je na isti način.
+Pri rješavanju zadatka možete koristiti program 
+  Octave On-line.
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Cramerovo pravilo  
+Gore: LINEARNA ALGEBRA  
+Naprijed: VEKTORSKA ALGEBRA I  
+
+
+
+

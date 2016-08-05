@@ -1,0 +1,141 @@
+
+
+
+
+Baza prostora 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Linearna nezavisnost vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Skalarni produkt  
+
+
+
+
+
+Baza prostora 
+
+
+Svaka tri linearno nezavisna vektora 
+, 
+ i 
+
+čine bazu 
+prostora  i definiraju koordinatni 
+sustav 
+. 
+Svaki vektor 
+ iz prostora 
+može se jednoznačno prikazati kao
+linearna kombinacija 
+vektora baze, odnosno
+
+
+
+
+
+
+(3.2)
+
+
+
+Sljedeći primjer prikazuje postupak transformacije iz jedne baze u
+drugu, odnosno iz jednog koordinatnog sustava u drugi.
+
+
+
+Primjer  3.5   Neka su u sustavu 
+ zadani vektori
+
+
+
+
+ 
+Definirajmo matricu
+
+
+
+
+ 
+čiji su stupci zadani vektori. Vrijedi 
+ pa je prema
+svojstvu D8 iz poglavlja 2.9.1 matrica  regularna,
+odnosno njeni stupci su linearno nezavisni.
+Dakle, vektori 
+, 
+ i 
+ čine bazu.
+
+
+Da bi vektor 
+ prikazali u sustavu 
+
+ trebamo riješiti jednadžbu (3.2), 
+odnosno
+
+
+
+
+ 
+Iz interpretacije matričnog množenja u poglavlju 2.1.6 vidimo
+da je ovo zapravo sustav linearnih 
+jednadžbi
+
+
+
+
+ 
+Rješenje sustava je 
+, 
+ i 
+,
+odnosno
+
+
+
+
+
+
+Obratno, vektor 
+ ima u sustavu 
+
+ zapis
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+Natrag: Linearna nezavisnost vektora  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Skalarni produkt  
+
+
+
+

@@ -1,0 +1,391 @@
+
+
+
+
+Trigonometrijske funkcije
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva logaritama  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Opća sinusoida  
+
+
+
+
+
+Trigonometrijske funkcije
+
+
+Promotrimo središnju jediničnu kružnicu implicitno zadanu s
+
+
+
+
+
+Tu kružnicu ćemo u ovom slučaju još zvati i 
+trigonometrijska kružnica. 
+Njen opseg jednak je
+
+
+
+
+
+Broj  ima beskonačni neperiodični decimalni
+zapis, a njegovih prvih pedeset znamenaka glasi
+
+
+
+
+
+Broj  možemo definirati na različite načine. 
+Tako je, na primjer,  jednak limesu beskonačnog niza brojeva
+(vidi zadatak 6.1):
+
+
+
+ 
+
+
+(4.7)
+
+ 
+
+   
+
+
+Također,  možemo definirati i pomoću sume beskonačnog reda brojeva
+(vidi poglavlje 6.2.4):
+
+
+
+
+
+Zanimljiva priča o tome kako je Arhimed izračunao broj  s
+pogreškom manjom od  nalazi se na 
+http://www.ima.umn.edu/arnold/graphics.html. 
+
+
+Definirajmo prvo funkcije sinus i 
+kosinus. 
+Na trigonometrijsku
+kružnicu nanesimo brojevni pravac tako da se broj 0 
+brojevnog pravca nalazi u točki  u koordinatnom sustavu ravnine, 
+dok se pozitivni dio brojevnog pravca namata na kružnicu u
+pozitivnom smjeru (obrnuto od kazaljke na satu). 
+Tada se točka  brojevnog pravca nalazi u točki 
+
+
+
+
+
+u koordinatnom sustavu (slika 4.27). Drugim riječima,  je apscisa, a  ordinata točke  u kojoj se nalazi broj .
+
+
+
+
+Slika 4.27:
+Trigonometrijska kružnica
+
+
+
+
+Promatrajući sliku 4.27 možemo zaključiti sljedeće:
+
+
+funkcije  i  su omeđene (definicija 4.1), 
+odnosno vrijedi
+
+
+
+
+
+
+ je neparna, a  je parna funkcija 
+(definicija 4.2), 
+
+ i  su periodične funkcije a osnovnim
+periodom  (definicija 4.4),
+
+ i  su neprekidne funkcije 
+(definicija 4.6),
+
+nul-točke funkcija  i  su
+
+
+
+
+
+
+   
+
+
+
+
+(4.8)
+
+
+
+primjena Pitagorinog poučka 
+na pravokutni trokut s katetama
+   i  i hipotenuzom jednakom 1 daje osnovni
+    trigonometrijski identitet
+
+
+
+
+
+
+(4.9)
+
+
+(gornji izraz je identitet, a ne jednadžba, stoga što vrijedi za svaki
+
+).
+
+
+Funkcije   i  prikazane su na slici 4.28.
+
+
+
+
+Slika 4.28:
+Sinus i kosinus
+
+
+
+
+Pomoću sinusa i kosinusa definiramo tangens i 
+kotangens: 
+
+
+
+
+
+Vidimo da tangens nije definiran u nul-točkama kosinusa, dok kotangens 
+nije definiran u nul-točkama sinusa. Formula (4.8) i
+definicije sinusa i kosinusa stoga povlače
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+U svim točkama u kojima su obje funkcije definirane očito vrijedi
+
+
+
+
+
+Pored toga, zbog proporcionalnosti
+
+
+
+
+
+geometrijski prikaz tangensa je kao na slici 4.27.
+
+
+Da bi odredili ponašanje funkcije 
+ u točkama prekida, moramo
+posebno promotriti limese slijeva i zdesna. Definicija funkcije 
+ (vidi slike 4.27 i 4.28) povlači
+
+
+
+ 
+
+
+   
+
+ 
+
+
+   
+
+
+Iz ove analize također možemo zaključiti 
+da je u svim točkama oblika 
+ limes slijeva jednak , a limes zdesna jednak .
+Dakle, funkcija 
+ u svim točkama prekida ima prekid druge vrste
+(definicija 4.7), a pravci
+
+
+
+
+
+su vertikalne asimptote s obje strane (vidi poglavlje 4.5).
+
+
+Slična analizu možemo napraviti i za funkciju 
+.
+Tangens i kotangens prikazani su na slikama 4.29 i
+4.30.
+
+
+
+
+Slika 4.29:
+Tangens
+
+
+
+
+
+
+Slika 4.30:
+Kotangens
+
+
+
+
+Promatrajući slike 4.29 i 4.30 
+zaključujemo sljedeće:
+
+
+obje funkcije 
+ i 
+ su neparne, i to stoga što su
+  kvocijent jedne parne i jedne neparne funkcije (definicija 4.2), 
+
+
+ je strogo rastuća funkcija (definicija 4.3)
+na svakom podintervalu otvorenog intervala 
+
+
+
+
+
+a 
+ je strogo padajuća funkcija na svakom podintervalu 
+otvorenog intervala 
+
+
+
+
+
+
+
+ i 
+ su periodične funkcije a osnovnim
+periodom  (definicija 4.4),
+
+nul-točke funkcije 
+ su nul-točke funkcije , a
+nul-točke funkcije 
+ su nul-točke funkcije 
+(vidi formulu (4.8)). 
+
+
+
+
+Napomena  4.11   Osnovne vrijednosti funkcija ,  i 
+ nalaze se
+u tablici 4.1
+Vrijednosti ovih  funkcija u točkama , , , 
+, , , , ..., lako odredimo
+koristeći tablicu i svojstva funkcija (periodičnost, parnost, odnosno
+neparnost). Vrijednosti funkcija u nekim drugim točkama kao 
+, , ..., možemo odrediti pomoću prethodnih
+vrijednosti i adicionih teorema
+koji su opisani kasnije.
+
+
+
+
+
+Tablica 4.1:
+Osnovne vrijednosti trigonometrijskih funkcija
+ 
+
+
+
+
+
+
+
+0
+0
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+ 
+
+Poglavlja
+
+Opća sinusoida
+Kosinusov poučak i adicioni teoremi
+
+
+
+
+
+
+
+
+ 
+Natrag: Svojstva logaritama  
+Gore: Pregled elementarnih funkcija  
+Naprijed: Opća sinusoida  
+
+
+
+

@@ -1,0 +1,100 @@
+
+
+
+
+Eksplicitno zadavanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Tablično zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Implicitno zadavanje  
+
+
+
+
+
+Eksplicitno zadavanje
+
+
+Eksplicitno se funkcija zadaje pomoću pravila
+
+
+
+
+ 
+gdje je  izraz koji sadrži samo nezavisnu varijablu .
+Dakle, eksplicitno zadana funkcija je preslikavanje
+
+ pri čemu su domena 
+ i kodomena
+
+ podskupovi skupa 
+. Domena je skup svih vrijednosti
+nezavisne varijable  za koje izraz  ima smisla (definicija
+1.7). Pri tome jednoj vrijednosti nezavisne varijable 
+
+odgovara samo jedna vrijednost zavisne varijable .
+
+
+Graf eksplicitno zadane funkcije je 
+krivulja u ravini, 
+, definirana s
+
+
+
+
+
+
+Primjer eksplicitno zadane funkcije je
+
+
+
+
+ 
+Domenu funkcije određujemo iz definicija elementarnih funkcija.
+Znamo da se ne smije dijeliti s nulom, a kako je kosinus jednak nula
+u svim točkama 
+, zaključujemo da je
+
+.
+
+
+
+Zadatak  4.1   Nacrtajte funkciju u raznim područjima pomoću programa
+NetPlot
+i uvjerite se da je 
+. Opišite riječima izgled funkcije.
+
+
+
+
+
+
+
+
+ 
+Natrag: Tablično zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Implicitno zadavanje  
+
+
+
+

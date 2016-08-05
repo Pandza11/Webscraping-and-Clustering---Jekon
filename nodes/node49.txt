@@ -1,0 +1,168 @@
+
+
+
+
+Zbrajanje vektora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektori  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Množenje vektora skalarom  
+
+
+
+
+
+Zbrajanje vektora
+
+
+U ovom poglavlju definirat ćemo operaciju zbrajanja vektora te dati
+njena osnovna svojstva.
+
+
+
+Definicija  3.3   Neka su zadani vektori  
+ i 
+ i točke ,  i  
+takve da je 
+
+
+
+
+
+Zbroj 
+vektora 
+ i 
+ je vektor
+
+.
+Ovakav način zbrajanja vektora zove se 
+pravilo trokuta
+i prikazan je na slici 3.2.
+
+
+
+
+Slika 3.2:
+Zbrajanje vektora (pravilo trokuta)
+
+
+
+
+Vektore također možemo zbrajati i po 
+pravilu paralelograma koje je
+prikazano na slici 3.3. 
+Više vektora zbrajamo po 
+pravilu poligona kao što je prikazano
+na slici 3.4:
+ako su zadani vektori 
+ i točke
+
+ takve da je
+
+
+
+
+ 
+tada je
+
+
+
+
+
+
+
+
+Slika 3.3:
+Pravilo paralelograma
+
+
+
+
+
+
+Slika 3.4:
+Pravilo poligona
+
+
+
+
+Zbrajanje vektora ima sljedeća svojstva:
+
+Z1.
+
+
+          (asocijativnost),
+
+Z2.
+
+ 
+        (komutativnost),
+
+Z3.
+za nul-vektor 
+ vrijedi 
+      
+,
+
+Z4.
+za svaki vektor 
+ postoji 
+suprotni vektor
+
+ takav da je 
+
+
+
+
+ 
+Suprotni vektor je kolinearan s 
+, ima istu duljinu i 
+suprotnu orijentaciju.
+
+
+
+Svojstva Z2, Z3 i Z4 slijede direktno iz definicije zbrajanja vektora,
+dok je svojstvo Z1 prikazano na slici 3.5.
+
+
+
+
+Slika 3.5:
+Asocijativnost zbrajanja vektora
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Vektori  
+Gore: VEKTORSKA ALGEBRA I  
+Naprijed: Množenje vektora skalarom  
+
+
+
+

@@ -1,0 +1,226 @@
+
+
+
+
+Implicitno zadavanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksplicitno zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Parametarsko zadavanje  
+
+
+
+
+
+Implicitno zadavanje
+
+Implicitno se funkcija zadaje pomoću pravila
+
+
+
+
+ 
+gdje je  izraz koji sadrži nezavisnu varijablu  i zavisnu
+varijablu .
+Graf implicitno zadane funkcije je 
+krivulja u ravini, 
+, definirana s
+
+
+
+
+
+
+Primjer implicitno zadane funkcije je
+
+
+
+
+ 
+Domenu funkcije ponovo određujemo iz definicija elementarnih 
+funkcija, ali u ovom slučaj potrebne su dodatne transformacije.
+Funkcija 
+ je inverzna funkcija kosinusa
+(vidi poglavlje 4.6.6). Slijedi 
+.
+Funkciju možemo zapisati i kao
+
+
+
+
+
+
+(4.1)
+
+
+Slijedi 
+, odnosno 
+.
+Za  i  koji zadovoljavaju prethodna ograničenja možemo uzeti
+kosinus lijeve i desne strane jednakosti  (4.1), što daje
+
+ (u zadnjoj jednakosti koristili smo činjenicu da
+je kosinus parna funkcija, vidi poglavlje 4.6.5). 
+Za  slijedi
+
+
+
+
+ 
+Da  mora biti različit od nule slijedi i iz formule (4.1) jer 
+uvrštavanje nule daje
+
+
+
+
+ 
+što je nemoguće.
+
+
+Zaključimo: funkcija 
+ definirana je za 
+
+ i na tom intervalu poprima iste vrijednosti kao
+eksplicitno zadana funkcija 
+ (vidi sliku 4.3).
+Sama funkcija 
+ definirana je na većem području,
+
+ (slika 4.4).
+
+
+
+
+Slika 4.3:
+Implicitno zadana funkcija 
+
+
+
+
+
+
+
+Slika 4.4:
+Funkcija 
+
+
+
+
+
+Za razliku od prethodnog primjera, izrazom  može biti
+zadano više eksplicitno zadanih funkcija. U tom slučaju jednoj
+vrijednosti varijable  može odgovarati više vrijednosti varijable
+.
+
+
+
+Primjer  4.1   [Kružnica]
+Izrazom 
+
+
+
+
+ 
+implicitno je zadana kružnica sa središtem u točki  radijusa .
+Na primjer, ovim izrazom eksplicitno su zadane dvije osnovne 
+funkcije,  i , od kojih svaka predstavlja jednu
+polukružnicu. Zaista, jednadžba
+
+
+
+
+ 
+povlači
+
+
+
+
+ 
+odnosno
+
+
+
+
+ 
+Kako izraz pod korijenom mora bit veći ili jednak nuli, domene su
+
+ (slika 4.5).
+
+
+
+
+Slika 4.5:
+Implicitno zadana kružnica
+
+
+
+
+
+Napomena  4.1   Općenito, izraz
+
+
+
+
+ 
+je implicitna jednadžba kružnice radijusa  sa središtem u točki
+.
+
+
+Implicitno zadane funkcije često nije moguće svesti na eksplicitni
+oblik.
+
+
+
+Primjer  4.2   Descartesov list je krivulja zadana s izrazom
+
+
+
+
+ 
+Premda funkciju (slika 4.6) nije moguće jednostavno rastaviti na
+eksplicitno zadane funkcije kao u primjeru 4.1, možemo je 
+analizirati u parametarskom obliku (primjeri 4.4 i 
+4.12).
+
+
+
+
+Slika 4.6:
+Descartesov list
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Eksplicitno zadavanje  
+Gore: Načini zadavanja funkcija  
+Naprijed: Parametarsko zadavanje  
+
+
+
+

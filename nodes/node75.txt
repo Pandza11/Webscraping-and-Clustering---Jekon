@@ -1,0 +1,246 @@
+
+
+
+
+Svojstva limesa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes  
+Gore: Limes  
+Naprijed: Limes slijeva i  
+
+
+
+
+
+Svojstva limesa
+
+
+Za praktično računanje limesa ne koristimo relaciju (4.3),
+nego svojstva limesa i osnovne limese koje ćemo upoznati tijekom
+predavanja.
+
+
+
+Teorem  4.3   [Osnovna svojstva limesa]
+Neka funkcije  i  imaju limese kada . Tada vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+Dokaz. 
+Dokažimo prvo svojstvo. Odaberimo 
+. Prema relaciji
+(4.3) postoje 
+ i  takvi da
+
+
+
+
+
+pri čemu su  i  odgovarajući limesi.
+Neka je 
+. Tada 
+
+ povlači
+
+
+
+
+
+i tvrdnja je dokazana. U gornjoj nejednakosti koristili smo
+nejednakost trokuta za apsolutnu vrijednost iz teorema 1.10
+(ii).
+
+
+Ostale tvrdnje dokazuju se na sličan način pomoću relacije 
+(4.3).
+    Q.E.D.
+
+
+Posebno, za konstantu  vrijedi
+
+
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+
+   
+
+
+
+Sljedeća dva teorema navodimo bez dokaza.
+
+Teorem  4.4   [Pravilo ukliještene funkcije]
+ Neka je 
+
+
+
+
+
+Ako postoji  takav da za funkciju  vrijedi 
+
+
+
+
+
+tada je također
+
+
+
+
+
+Situacija opisana u teoremu prikazana je na slici 4.9
+
+
+Slika 4.9:
+Pravilo ukliještene funkcije
+
+
+
+
+
+Primjer  4.6   Dokažimo da je 
+
+
+
+
+
+
+(4.4)
+
+
+Neka je  blizu nule. Iz slike 4.27 zaključujemo da za 
+ vrijedi
+
+
+
+
+
+pa dijeleći nejednakost sa  imamo
+
+
+
+
+
+Slično,  za 
+ vrijedi (negativni brojevi)
+
+
+
+
+
+dijeleći nejednakost sa  ponovo imamo
+
+
+
+
+
+Dakle, za  vrijedi i recipročna nejednakost
+
+
+
+
+
+Kako je
+
+
+
+
+
+jednakost (4.4) vrijedi po teoremu 4.6.
+Jednakost (4.4) se lijepo vidi i na slici 4.11.
+
+
+
+Zadatak  4.5   Koristeći formulu 
+, treću tvrdnju teorema
+4.3 i jednakost (4.4) izračunajte
+
+
+
+
+ 
+Čemu je jednak limes
+
+
+
+
+
+
+
+
+Teorem  4.5   [Pravilo zamjene]
+Neka funkcije  i  imaju iste vrijednosti u nekoj okolini točke
+, 
+, osim možda u samoj točki . Tada
+je 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes  
+Gore: Limes  
+Naprijed: Limes slijeva i  
+
+
+
+

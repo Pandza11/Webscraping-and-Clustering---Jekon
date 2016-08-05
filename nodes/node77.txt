@@ -1,0 +1,135 @@
+
+
+
+
+Limes u beskonačnosti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes slijeva i  
+Gore: Limes  
+Naprijed: Beskonačan limes  
+
+
+
+
+
+Limes u beskonačnosti
+
+
+Ako je područje definicije 
+ neograničene s jedne ili s obje
+strane, zanima nas postoji li limes funkcije kada nezavisna
+varijabla  teži k  ili . 
+
+
+Vrijednost  je limes funkcije  kada 
+ (limes u
+  desnom kraju), odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+Slično, vrijednost  je limes funkcije  kada 
+ (  limes u lijevom kraju), odnosno
+
+
+
+
+
+ako 
+
+
+
+
+
+
+
+Napomena  4.4   Svojstva limesa iz poglavlja 4.3.1 vrijede i za limese u
+beskonačnosti.  
+
+
+
+Primjer  4.8    
+a)
+Kako je funkcija sinus 
+  omeđena, 
+, vrijedi
+    (vidi sliku 4.11)
+
+
+
+
+
+
+b)
+Funkcija  očito teži k nuli kada
+
+ i kada  
+.
+Za razliku od prvog primjera, ovdje možemo čak odrediti da li 
+s gornje ili donje strane (vidi sliku 4.12):
+
+
+
+
+
+
+
+
+
+
+
+Slika 4.11:
+Funkcija 
+
+
+
+
+
+
+
+Slika 4.12:
+Funkcija 
+
+
+
+
+
+
+
+
+
+
+ 
+Natrag: Limes slijeva i  
+Gore: Limes  
+Naprijed: Beskonačan limes  
+
+
+
+
